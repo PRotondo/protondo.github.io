@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Pablo ROTONDO</title>
+    <link rel="stylesheet" href="assets/stylesheets/application.css"/>
+    <script type="text/javascript" src="assets/javascripts/jquery.min.js"></script>
+	 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+
+
+  </head>
+
+<body>
+
+    <header>
+      <h1>Pablo ROTONDO</h1>
+    </header>
+    
+    
+<nav>
+  <a href="index.html">Home</a>
+  <a href="research.html">Research</a>
+  <a href="teaching.html">Teaching</a>
+  <a href="teaching.html">Blog</a>
+</nav>
+
+<div id="wall">
+
+<div class="imageblock">
+<img src="assets/images/randomn.png" width="200" class="picleft">
+<div class="picwallleft">
+<p>
+<!--<section>-->
+<h4>Coin tossing</h4>
+<!--Suppose we are given a sequence of independent fair bits \(X_1,X_2,X_3,\ldots\) (meaning \(X_i\) take -->
+<!--\(0\) and \(1\) with probabily \(1/2\)) we want to produce with them a discrete random variable \(Y\) that takes the values \(1,\ldots,k\) with probabilities \(p_1,\ldots,p_k > 0\). The objective, of course, is to do this using the least possible number of bits.  -->
+
+<!--Let us note that if we consider \(X = 0.X_1X_2X_3\ldots\) in binary, this variable is uniformly distributed in \([0,1]\). The usual way to produce $Y$ given a number $X$ uniform in $[0,1]$ is to consider the intervals $I_1 = [0,p_1), I_2 = [p_1,p_1+p_2),\ldots,I_n = [p_1+\ldots+p_{n-1},1)$ and declare $Y = j$ when $X\in I_j$. Of course, knowing whether $X\in I_j$ or not, takes a few bits from  $X_1,X_2,\ldots$. Indeed, having seen $k$ digits, the only thing we know is that $X\in [X_1\ldots X_k,X_1\ldots X_k + 2^{-k}]$.-->
+
+
+<h5>Theorem</h5>
+Let \(T\) be the number of bits it takes to decide to which interval \(I_j\) the number \(X\) belongs. Then we have
+$$
+H(Y) \leq \mathbb{E}[T] \leq H(Y) + 2\,,
+$$
+where \(H(Y) = \sum_{j=1}^k p_j \,\log_2(1/p_j)\) is called the entropy of \(Y\).
+</br>
+
+Furthermore, the \(+2\) in the bound is tight by our example with the uniform distribution.
+<!--</section>-->
+</div>
+</div>
+
+</body></html>
