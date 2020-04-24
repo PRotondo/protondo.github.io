@@ -7,11 +7,6 @@ layout: page
 ---
 
 
-<!--{:refdef: style="float:left;margin-right: 7px;margin-top: 7px;"}-->
-<!--![My image](/assets/images/p1040063.png)-->
-<!--{: refdef}-->
-
-
  I am currently a post-doctoral researcher at the Université de Rouen (Normandie), laboratory [LITIS][litis]. I was previously an ATER at Paris-Est Marne-la-Vallée, [Laboratoire d'informatique Gaspard-Monge][ligm] (LIGM), team MOA. I did my PhD studies in Informatics at [IRIF][irif], under the co-direction of [Valérie Berthé][valerie], Alfredo Viola (Universidad de la República, Uruguay) and [Brigitte Vallée][brigitte] (GREYC, Université de Caen). My thesis was entitled “Probabilistic studies in Number Theory and Word Combinatorics: instances of dynamical analysis”, and encompasses, for example, topics such as the probabilistic study of the recurrence function of Sturmian words and the “Continued Logarithm Algorithm”. 
 
 

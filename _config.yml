@@ -28,13 +28,16 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://protondo.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  protondo
 
+sass:
+  sass_dir: _sass
+
 # Build settings
 markdown: kramdown
 
 # Build settings
 # theme: minima
 # remote_theme:  thelehhman/plainwhite-jekyll
-theme: plainwhite
+theme: minima
 
 plainwhite:
   name: Pablo Rotondo
