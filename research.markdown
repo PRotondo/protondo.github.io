@@ -1,68 +1,34 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>Pablo ROTONDO</title>
-    <link rel="stylesheet" href="assets/stylesheets/application.css"/>
-    <script type="text/javascript" src="assets/javascripts/jquery.min.js"></script>
-	 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
-
-
-  </head>
-
-<body>
-
-    <header>
-      <h1>Pablo ROTONDO</h1>
-    </header>
-    
-    
-<nav>
-  <a href="index.html">Home</a>
-  <a href="research.html">Research</a>
-  <a href="teaching.html">Teaching</a>
-</nav>
-
-<div id="wall">
-<!--
-<center>
-My interests are quite varied; I love the 
-application of Analytic Combinatorics, Probability Theory
-and Dynamical Systems, to the study of algorithms, data compression,
-word combinatorics.
-</center>
--->
-
-<div class="nopicwall">
-<p>
-<section>
+---
+layout: page
+title: Research
+permalink: /research/
+---
 <h3>Articles</h3>
-</p>
-<!--$$\sum_{n=1}^\infty 1/n^2 = \frac{\pi^2}{6}$$-->
+
+
 <ul >
 <li> On the Degeneracy of Random Expressions Specified by Systems of Combinatorial Equations, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
 Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Accepted in DLT 2020.
-</li></p>
+</li>
     <li> Two arithmetical sources and their associated tries, with <a href="https://www.irif.fr/~berthe/">Valérie Berthé</a>, <a href="https://sites.google.com/site/edacesaratto/">Eda Cesaratto</a>, <a href="https://www.lamfa.u-picardie.fr/paccaut/">Frédéric Paccaut</a>, <a href="http://www.matematica.uns.edu.ar/webs/msafe/">Martín D. Safe</a> and <a href="https://vallee.users.greyc.fr/">Brigitte Vallée</a>.  Accepted in AofA 2020.
-    </li> </p>
+    </li> 
 <li> <a href="http://drops.dagstuhl.de/opus/volltexte/2019/10995/pdf/LIPIcs-MFCS-2019-51.pdf" class= "urlextern" title="http://drops.dagstuhl.de/opus/volltexte/2019/10995" rel="nofollow">Uniform Random Expressions Lack Expressivity</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
 Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> ; <a href="http://drops.dagstuhl.de/opus/volltexte/2019/10995/"> Published</a> in the proceedings of the 44th International Symposium on Mathematical Foundations of Computer Science (MFCS 2019).
-    </li> </p>
+    </li> 
 <li> Analysis of the Continued Logarithm Algorithm, with Brigitte Vallée and Alfredo Viola ; Published in the proceedings of <a href="http://latin2018.dc.uba.ar/#" class="urlextern" title="http://latin2018.dc.uba.ar/#" rel="nofollow">LATIN 2018</a>.  Preprint <a href="https://arxiv.org/abs/1801.10139" class="urlextern" title="https://arxiv.org/abs/1801.10139" rel="nofollow">arXiv:1801.10139</a>
-</li></p>
+</li>
 <li> <a href="http://epubs.siam.org/doi/abs/10.1137/1.9781611974775.10" class="urlextern" title="http://epubs.siam.org/doi/abs/10.1137/1.9781611974775.10" rel="nofollow">The recurrence function of a random Sturmian word</a>, with Brigitte Vallée ; Published in the Proceedings of the Fourteenth Workshop on Analytic Algorithmics and Combinatorics (ANALCO 2017)
 . Preprint <a href="https://arxiv.org/abs/1610.01479" class="urlextern" title="https://arxiv.org/abs/1610.01479" rel="nofollow">arXiv:1610.01479</a>
-</li> </p>
+</li> 
 <li> <a href="https://www.irif.univ-paris-diderot.fr/~berthe/Articles/mfcs.pdf" class="urlextern" title="https://www.irif.univ-paris-diderot.fr/~berthe/Articles/mfcs.pdf" rel="nofollow">Recurrence function on Sturmian words: a probabilistic study</a>, with Valérie Berthé, Eda Cesaratto, Brigitte Vallée and Alfredo Viola ;  Published in the proceedings the 40th International Symposium on Mathematical Foundations of Computer Science (MFCS 2015).
 </li>
 </ul>
+<!--{:refdef: style="float:right;margin: 7px;scale:60%;"}-->
+<!--![My image](/assets/images/randomn.png)-->
+<!--{: refdef}-->
 
-</section>
-</div>
-<div class="nopicwall">
-<section>
 <h3> In preparation  </h3>
-</p>
+
 <ul>
 <li> Recurrence of substitutive Sturmian words, with <a href="https://vallee.users.greyc.fr/">Brigitte Vallée</a> .
     </li> 
@@ -71,15 +37,10 @@ Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> 
     <li> Zero entropy and change of bases, with  <a href="https://www.irif.fr/~berthe/">Valérie Berthé</a>, <a href="https://sites.google.com/site/edacesaratto/">Eda Cesaratto</a>, and <a href="http://www.matematica.uns.edu.ar/webs/msafe/">Martín D. Safe</a>.
     </li> 
 </ul>
-</section>
-</div>
 
 
-</p>
-<div class="nopicwall">
-<section>
 <h3>Slides</h3>
-</p>
+
 <ul >
 <li> <a href="files/Pres_MFCS_2019.pdf">Uniform random expressions lack expressivity</a>, MFCS 2019, Aachen, Germany, August 28, 2019.
 </li>
@@ -103,7 +64,11 @@ and Fitting Interval Partitions</a>, Rencontre  des projets AleaEnAmSud et  Dyna
 <li> <a href="http://dmg.tuwien.ac.at/aofa15/slides/rotondo.pdf" class="urlextern" title="http://dmg.tuwien.ac.at/aofa15/slides/rotondo.pdf" rel="nofollow">Recurrence function of Sturmian Words: a probabilistic study</a>, AofA 2015, Strobl Austria, June 10, 2015.
 </li>
 </ul>
-</section>
-</div>
-</div>
-</body></html>
+
+<!--[brigitte]: https://vallee.users.greyc.fr/-->
+<!--[valerie]:   https://www.irif.univ-paris-diderot.fr/~berthe/-->
+<!--[cyril] : http://www-igm.univ-mlv.fr/~nicaud/-->
+<!--[florent] : http://igm.univ-mlv.fr/~koechlin/-->
+<!--[litis]: http://www.litislab.eu/-->
+<!--[ligm]: http://ligm.u-pem.fr/accueil/-->
+<!--[irif]: https://www.irif.univ-paris-diderot.fr/-->

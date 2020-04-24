@@ -1,29 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>Pablo ROTONDO</title>
-    <link rel="stylesheet" href="assets/stylesheets/application.css"/>
-        <script type="text/javascript" src="assets/javascripts/jquery.min.js"></script>
-<!--	 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>-->
-  </head>
+---
+layout: page
+title: Teaching
+permalink: /teaching/
+---
 
-<body>
-
-    <header>
-      <h1>Pablo ROTONDO</h1>
-    </header>
-    
-    
-<nav>
-  <a href="index.html">Home</a>
-  <a href="research.html">Research</a>
-  <a href="teaching.html">Teaching</a>
-</nav>
-
-<div id="wall">
-<!--<p>-->
-<section>
 <h3>Teaching</h3>
 <p></p>
 <h4>  ATER Marne-la-Vallée  </h4>
@@ -34,8 +14,6 @@
 </li><li> 2018 - Principes des systèmes d’exploitation, TD (40h, 3rd semester, DUT Informatique) - Introduction to computer architecture, assembleur, system calls and processes&amp;threads in C.
 </li><li> 2018 - Administration Système, CM+TP (30h, 1st semester engineering students) - Introduction to the *nix environment: installing debian, bash, disk partitions, backups.
 </li>
-
-
 
 
 
@@ -69,8 +47,3 @@ level (pseudo-ensembler).
 
 
 </ul>
-<p></p>
-
-</section>
-</div>
-</body></html>
