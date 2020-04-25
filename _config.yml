@@ -39,11 +39,13 @@ markdown: kramdown
 remote_theme:  thelehhman/plainwhite-jekyll
 
 plainwhite:
-  name: Pablo Rotondo
+  name: Pablo Rotondo   
   tagline: postdoctoral researcher
 #  sitemap: true
 #  show_excerpts: true
   navigation:
+#    - title: Home
+#      url: ""
     - title: Research
       url: "/research"
     - title: Teaching
