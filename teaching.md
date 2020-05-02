@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching
+title: Pablo Rotondo - teaching
 permalink: /teaching/
 ---
 

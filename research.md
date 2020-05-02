@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Pablo Rotondo - research
 permalink: /research/
 ---
 
