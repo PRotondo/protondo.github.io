@@ -15,8 +15,9 @@ Contents
 
 
 <ol reversed>
-<li> On the Degeneracy of Random Expressions Specified by Systems of Combinatorial Equations, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
-Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Accepted in DLT 2020.
+<li> <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-48516-0_13"> On the Degeneracy of Random Expressions Specified by Systems of Combinatorial Equations</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
+Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Published in the Proceedings of the 24th International Conference
+in Developments in Language Theory DLT 2020.
 </li>
     <li> Two arithmetical sources and their associated tries, with <a href="https://www.irif.fr/~berthe/">Valérie Berthé</a>, <a href="https://sites.google.com/site/edacesaratto/">Eda Cesaratto</a>, <a href="https://www.lamfa.u-picardie.fr/paccaut/">Frédéric Paccaut</a>, <a href="http://www.matematica.uns.edu.ar/webs/msafe/">Martín D. Safe</a> and <a href="https://vallee.users.greyc.fr/">Brigitte Vallée</a>.  Accepted in AofA 2020.
     </li> 
