@@ -3,6 +3,13 @@ layout: page
 title: Pablo Rotondo - research
 permalink: /research/
 ---
+<!--<script type="text/javascript" async-->
+<!--  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">-->
+<!--</script>-->
+
+<!--<link rel="stylesheet" type="text/css" href="http://tikzjax.com/v1/fonts.css">-->
+<!--<script src="http://tikzjax.com/v1/tikzjax.js"></script>-->
+
 
 Contents
 <nav class="navigation">
@@ -13,13 +20,12 @@ Contents
 
 <h3 id='articles'>Articles</h3>
 
-
 <ol reversed>
 <li> <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-48516-0_13"> On the Degeneracy of Random Expressions Specified by Systems of Combinatorial Equations</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
 Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Published in the Proceedings of the 24th International Conference
 in Developments in Language Theory DLT 2020.
 </li>
-    <li> Two arithmetical sources and their associated tries, with <a href="https://www.irif.fr/~berthe/">Valérie Berthé</a>, <a href="https://sites.google.com/site/edacesaratto/">Eda Cesaratto</a>, <a href="https://www.lamfa.u-picardie.fr/paccaut/">Frédéric Paccaut</a>, <a href="http://www.matematica.uns.edu.ar/webs/msafe/">Martín D. Safe</a> and <a href="https://vallee.users.greyc.fr/">Brigitte Vallée</a>.  Accepted in AofA 2020.
+    <li> <a href="https://drops.dagstuhl.de/opus/volltexte/2020/12034/pdf/LIPIcs-AofA-2020-4.pdf"> Two arithmetical sources and their associated tries</a>, with <a href="https://www.irif.fr/~berthe/">Valérie Berthé</a>, <a href="https://sites.google.com/site/edacesaratto/">Eda Cesaratto</a>, <a href="https://www.lamfa.u-picardie.fr/paccaut/">Frédéric Paccaut</a>, <a href="http://www.matematica.uns.edu.ar/webs/msafe/">Martín D. Safe</a> and <a href="https://vallee.users.greyc.fr/">Brigitte Vallée</a>.  Accepted in AofA 2020.
     </li> 
 <li> <a href="http://drops.dagstuhl.de/opus/volltexte/2019/10995/pdf/LIPIcs-MFCS-2019-51.pdf" class= "urlextern" title="http://drops.dagstuhl.de/opus/volltexte/2019/10995" rel="nofollow">Uniform Random Expressions Lack Expressivity</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
 Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> ; <a href="http://drops.dagstuhl.de/opus/volltexte/2019/10995/"> Published</a> in the proceedings of the 44th International Symposium on Mathematical Foundations of Computer Science (MFCS 2019).
@@ -35,6 +41,16 @@ Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> 
 <!--{:refdef: style="float:right;margin: 7px;scale:60%;"}-->
 <!--![My image](/assets/images/randomn.png)-->
 <!--{: refdef}-->
+<!--<script type="text/tikz">-->
+<!--\begin{tikzpicture}[scale=0.9]-->
+<!-- \draw[help lines] (0,0) grid (10,4);-->
+<!--%\draw (0,0) --(1,2) -- (2,3) -- (1,0);-->
+<!--\draw [red,domain=0:10] plot (\x, { (\x * 0.381966011250105)});-->
+<!--\draw [thick] (0,0) -- (1,0) -- (2,0) -- (3,1) -- (4,1) -- (5,1) -- (6,2) -- (7,2) -- (8,3) -- (9,3) -- (10,3);-->
+<!--\draw [thick] (0,1) -- (1,1) -- (2,1) -- (3,2) -- (4,2) -- (5,2) -- (6,3) -- (7,3) -- (8,4) -- (9,4) -- (10,4);-->
+<!--\draw (0.5,0) node [below]  {0} -- (1.5,0) node [below] {0} -- (2.5,0) node [below] {1} -- (3.5,0) node [below] {0} -- (4.5,0) node [below] {0} -- (5.5,0) node [below] {1} -- (6.5,0) node [below] {0} -- (7.5,0) node [below] {1} -- (8.5,0) node [below] {0} -- (9.5,0) node [below] {0} -- (10,0);-->
+<!--\end{tikzpicture}-->
+<!--</script>-->
 
 <h3> In preparation  </h3>
 
@@ -79,6 +95,13 @@ and Fitting Interval Partitions</a>, Rencontre  des projets AleaEnAmSud et  Dyna
 <ul>
 <li>
 <a href="/files/GenerationCoinTossing.pdf" rel="nofollow">Generating a random variable by coin tossing</a>, research notes, 7 pp., 2017. 
+<!--Related presentation <a href="https://www.irif.fr/~dyna3s/uploads/Main/2017_07_Rotondo1.pdf">here</a>.-->
+</li>
+<li>
+<a href="/files/proyecto-grado.pdf" rel="nofollow">Compresión sin pérdida de imágenes
+utilizando códigos óptimos para
+distribuciones geométricas
+bidimensionales</a>, report from my final project for Ingeniero en Computación, 128 pp., 2014. 
 <!--Related presentation <a href="https://www.irif.fr/~dyna3s/uploads/Main/2017_07_Rotondo1.pdf">here</a>.-->
 </li>
 </ul>
