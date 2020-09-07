@@ -25,7 +25,7 @@ permalink: /
 <h4>Contact information</h4>
 <ul >
 <li>Office: N 4B145, 4th floor, Bâtiment Copernic, 5, boulevard Descartes, Cité Descartes, Champs-sur-Marne, 77454 Cedex 2 Marne-la-Vallée, France.
-<!--</li>-->
+</li>
 <!--<li>Email: name.surname at univ-rouen.fr-->
 <li>Email: name.surname at u-pem.fr
 </li>
