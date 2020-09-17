@@ -41,6 +41,7 @@ plainwhite:
   tagline: postdoctoral researcher
 #  sitemap: true
 #  show_excerpts: true
+  portfolio_image: "assets/portfolio.png" 
   navigation:
 #    - title: Home
 #      url: ""
