@@ -21,7 +21,7 @@ Contents
 <h3 id='articles'>Articles</h3>
 
 <ol reversed>
-<li> <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-48516-0_13"> On the Degeneracy of Random Expressions Specified by Systems of Combinatorial Equations</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
+<li> <a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48516-0_13.pdf"> On the Degeneracy of Random Expressions Specified by Systems of Combinatorial Equations</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
 Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Published in the Proceedings of the 24th International Conference
 in Developments in Language Theory DLT 2020.
 </li>
@@ -37,10 +37,6 @@ Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> 
 </li> 
 <li> <a href="https://www.irif.univ-paris-diderot.fr/~berthe/Articles/mfcs.pdf" class="urlextern" title="https://www.irif.univ-paris-diderot.fr/~berthe/Articles/mfcs.pdf" rel="nofollow">Recurrence function on Sturmian words: a probabilistic study</a>, with Valérie Berthé, Eda Cesaratto, Brigitte Vallée and Alfredo Viola ;  Published in the proceedings the 40th International Symposium on Mathematical Foundations of Computer Science (MFCS 2015).
 </li>
-</ol>
-<!--{:refdef: style="float:right;margin: 7px;scale:60%;"}-->
-<!--![My image](/assets/images/randomn.png)-->
-<!--{: refdef}-->
 <!--<script type="text/tikz">-->
 <!--\begin{tikzpicture}[scale=0.9]-->
 <!-- \draw[help lines] (0,0) grid (10,4);-->
@@ -51,6 +47,18 @@ Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> 
 <!--\draw (0.5,0) node [below]  {0} -- (1.5,0) node [below] {0} -- (2.5,0) node [below] {1} -- (3.5,0) node [below] {0} -- (4.5,0) node [below] {0} -- (5.5,0) node [below] {1} -- (6.5,0) node [below] {0} -- (7.5,0) node [below] {1} -- (8.5,0) node [below] {0} -- (9.5,0) node [below] {0} -- (10,0);-->
 <!--\end{tikzpicture}-->
 <!--</script>-->
+
+<h3> Submitted  </h3>
+
+<ul>
+<li> Recurrence of substitutive Sturmian words, with <a href="https://vallee.users.greyc.fr/">Brigitte Vallée</a> .
+    </li> 
+<li> Mirror and independence.
+    </li> 
+    <li> Zero entropy and change of bases, with  <a href="https://www.irif.fr/~berthe/">Valérie Berthé</a>, <a href="https://sites.google.com/site/edacesaratto/">Eda Cesaratto</a>, and <a href="http://www.matematica.uns.edu.ar/webs/msafe/">Martín D. Safe</a>.
+    </li> 
+</ul>
+
 
 <h3> In preparation  </h3>
 
