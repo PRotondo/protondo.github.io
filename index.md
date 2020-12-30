@@ -37,9 +37,9 @@ protondo</a></li>
 </section>
 
 
-<p>
-<a href="http://math.stackexchange.com/users/22121/pablo-rotondo"><img src="http://math.stackexchange.com/users/flair/22121.png?theme=dark" alt="profile for Pablo Rotondo at Mathematics Stack Exchange, Q&amp;A for people studying math at any level and professionals in related fields" title="profile for Pablo Rotondo at Mathematics Stack Exchange, Q&amp;A for people studying math at any level and professionals in related fields" height="30" width="120"></a>
-<a href="http://paulrs.wordpress.com/" rel="nofollow" class="url" >
-										<img src="http://s.wordpress.com/mshots/v1/http%3A%2F%2Fpaulrs.wordpress.com%2F?h=415" alt="Screenshot" width="120"></a>
+<!--<p>-->
+<!--<a href="http://math.stackexchange.com/users/22121/pablo-rotondo"><img src="http://math.stackexchange.com/users/flair/22121.png?theme=dark" alt="profile for Pablo Rotondo at Mathematics Stack Exchange, Q&amp;A for people studying math at any level and professionals in related fields" title="profile for Pablo Rotondo at Mathematics Stack Exchange, Q&amp;A for people studying math at any level and professionals in related fields" height="30" width="120"></a>-->
+<!--<a href="http://paulrs.wordpress.com/" rel="nofollow" class="url" >-->
+<!--										<img src="http://s.wordpress.com/mshots/v1/http%3A%2F%2Fpaulrs.wordpress.com%2F?h=415" alt="Screenshot" width="120"></a>-->
 
 
