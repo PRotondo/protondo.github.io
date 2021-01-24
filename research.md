@@ -7,8 +7,10 @@ permalink: /research/
 <!--  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">-->
 <!--</script>-->
 
-<!--<link rel="stylesheet" type="text/css" href="http://tikzjax.com/v1/fonts.css">-->
-<!--<script src="http://tikzjax.com/v1/tikzjax.js"></script>-->
+    <script type="text/javascript" src="assets/javascripts/jquery.min.js"></script>
+	 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+<link rel="stylesheet" type="text/css" href="http://tikzjax.com/v1/fonts.css">
+<script src="http://tikzjax.com/v1/tikzjax.js"></script>
 
 
 Contents
