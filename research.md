@@ -7,10 +7,8 @@ permalink: /research/
 <!--  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">-->
 <!--</script>-->
 
-<script type="text/javascript" src="assets/javascripts/jquery.min.js"></script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
-<link rel="stylesheet" type="text/css" href="http://tikzjax.com/v1/fonts.css">
-<script src="http://tikzjax.com/v1/tikzjax.js"></script>
+<!--<link rel="stylesheet" type="text/css" href="http://tikzjax.com/v1/fonts.css">-->
+<!--<script src="http://tikzjax.com/v1/tikzjax.js"></script>-->
 
 
 Contents
@@ -41,16 +39,16 @@ Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> 
 </li> 
 <li> <a href="https://www.irif.univ-paris-diderot.fr/~berthe/Articles/mfcs.pdf" class="urlextern" title="https://www.irif.univ-paris-diderot.fr/~berthe/Articles/mfcs.pdf" rel="nofollow">Recurrence function on Sturmian words: a probabilistic study</a>, with Valérie Berthé, Eda Cesaratto, Brigitte Vallée and Alfredo Viola ;  Published in the proceedings the 40th International Symposium on Mathematical Foundations of Computer Science (MFCS 2015).
 </li>
-<script type="text/tikz">
-\begin{tikzpicture}[scale=0.9]
- \draw[help lines] (0,0) grid (10,4);
-%\draw (0,0) --(1,2) -- (2,3) -- (1,0);
-\draw [red,domain=0:10] plot (\x, { (\x * 0.381966011250105)});
-\draw [thick] (0,0) -- (1,0) -- (2,0) -- (3,1) -- (4,1) -- (5,1) -- (6,2) -- (7,2) -- (8,3) -- (9,3) -- (10,3);
-\draw [thick] (0,1) -- (1,1) -- (2,1) -- (3,2) -- (4,2) -- (5,2) -- (6,3) -- (7,3) -- (8,4) -- (9,4) -- (10,4);
-\draw (0.5,0) node [below]  {0} -- (1.5,0) node [below] {0} -- (2.5,0) node [below] {1} -- (3.5,0) node [below] {0} -- (4.5,0) node [below] {0} -- (5.5,0) node [below] {1} -- (6.5,0) node [below] {0} -- (7.5,0) node [below] {1} -- (8.5,0) node [below] {0} -- (9.5,0) node [below] {0} -- (10,0);
-\end{tikzpicture}
-</script>
+<!--<script type="text/tikz">-->
+<!--\begin{tikzpicture}[scale=0.9]-->
+<!-- \draw[help lines] (0,0) grid (10,4);-->
+<!--%\draw (0,0) --(1,2) -- (2,3) -- (1,0);-->
+<!--\draw [red,domain=0:10] plot (\x, { (\x * 0.381966011250105)});-->
+<!--\draw [thick] (0,0) -- (1,0) -- (2,0) -- (3,1) -- (4,1) -- (5,1) -- (6,2) -- (7,2) -- (8,3) -- (9,3) -- (10,3);-->
+<!--\draw [thick] (0,1) -- (1,1) -- (2,1) -- (3,2) -- (4,2) -- (5,2) -- (6,3) -- (7,3) -- (8,4) -- (9,4) -- (10,4);-->
+<!--\draw (0.5,0) node [below]  {0} -- (1.5,0) node [below] {0} -- (2.5,0) node [below] {1} -- (3.5,0) node [below] {0} -- (4.5,0) node [below] {0} -- (5.5,0) node [below] {1} -- (6.5,0) node [below] {0} -- (7.5,0) node [below] {1} -- (8.5,0) node [below] {0} -- (9.5,0) node [below] {0} -- (10,0);-->
+<!--\end{tikzpicture}-->
+<!--</script>-->
 
 <h3> Submitted  </h3>
 
