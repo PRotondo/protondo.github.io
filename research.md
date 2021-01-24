@@ -7,9 +7,16 @@ permalink: /research/
 <!--  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">-->
 <!--</script>-->
 
+ <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
 <!--<link rel="stylesheet" type="text/css" href="http://tikzjax.com/v1/fonts.css">-->
 <!--<script src="http://tikzjax.com/v1/tikzjax.js"></script>-->
+<link rel="stylesheet" type="text/css" href="http://tikzjax.com/v1/fonts.css">
+<script src="https://tikzjax-demo.glitch.me/tikzjax.js"></script>
 
+
+<!--<center>-->
+<!--<img src="/assets/outname-1.png">-->
+<!--</center>-->
 
 Contents
 <nav class="navigation">
@@ -18,9 +25,12 @@ Contents
 <a href="#misc">Miscellaneous</a>
 </nav>
 
+
+
 <h3 id='articles'>Articles</h3>
 
 <ol reversed>
+
 <li> <a href="http://igm.univ-mlv.fr/~koechlin/STACS21.pdf"> Absorbing patterns in BST-like expression-trees</a>, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . <a href="https://stacs2021.saarland-informatics-campus.de/accepted-papers/">Accepted</a> in STACS'21.
 </li>
 <li> <a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48516-0_13.pdf"> On the Degeneracy of Random Expressions Specified by Systems of Combinatorial Equations</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
@@ -34,21 +44,26 @@ Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> 
     </li> 
 <li> Analysis of the Continued Logarithm Algorithm, with Brigitte Vallée and Alfredo Viola ; Published in the proceedings of <a href="http://latin2018.dc.uba.ar/#" class="urlextern" title="http://latin2018.dc.uba.ar/#" rel="nofollow">LATIN 2018</a>.  Preprint <a href="https://arxiv.org/abs/1801.10139" class="urlextern" title="https://arxiv.org/abs/1801.10139" rel="nofollow">arXiv:1801.10139</a>
 </li>
+
 <li> <a href="http://epubs.siam.org/doi/abs/10.1137/1.9781611974775.10" class="urlextern" title="http://epubs.siam.org/doi/abs/10.1137/1.9781611974775.10" rel="nofollow">The recurrence function of a random Sturmian word</a>, with Brigitte Vallée ; Published in the Proceedings of the Fourteenth Workshop on Analytic Algorithmics and Combinatorics (ANALCO 2017)
 . Preprint <a href="https://arxiv.org/abs/1610.01479" class="urlextern" title="https://arxiv.org/abs/1610.01479" rel="nofollow">arXiv:1610.01479</a>
 </li> 
 <li> <a href="https://www.irif.univ-paris-diderot.fr/~berthe/Articles/mfcs.pdf" class="urlextern" title="https://www.irif.univ-paris-diderot.fr/~berthe/Articles/mfcs.pdf" rel="nofollow">Recurrence function on Sturmian words: a probabilistic study</a>, with Valérie Berthé, Eda Cesaratto, Brigitte Vallée and Alfredo Viola ;  Published in the proceedings the 40th International Symposium on Mathematical Foundations of Computer Science (MFCS 2015).
 </li>
-<!--<script type="text/tikz">-->
-<!--\begin{tikzpicture}[scale=0.9]-->
-<!-- \draw[help lines] (0,0) grid (10,4);-->
-<!--%\draw (0,0) --(1,2) -- (2,3) -- (1,0);-->
-<!--\draw [red,domain=0:10] plot (\x, { (\x * 0.381966011250105)});-->
-<!--\draw [thick] (0,0) -- (1,0) -- (2,0) -- (3,1) -- (4,1) -- (5,1) -- (6,2) -- (7,2) -- (8,3) -- (9,3) -- (10,3);-->
-<!--\draw [thick] (0,1) -- (1,1) -- (2,1) -- (3,2) -- (4,2) -- (5,2) -- (6,3) -- (7,3) -- (8,4) -- (9,4) -- (10,4);-->
-<!--\draw (0.5,0) node [below]  {0} -- (1.5,0) node [below] {0} -- (2.5,0) node [below] {1} -- (3.5,0) node [below] {0} -- (4.5,0) node [below] {0} -- (5.5,0) node [below] {1} -- (6.5,0) node [below] {0} -- (7.5,0) node [below] {1} -- (8.5,0) node [below] {0} -- (9.5,0) node [below] {0} -- (10,0);-->
-<!--\end{tikzpicture}-->
-<!--</script>-->
+
+<p>
+<center>
+<script type="text/tikz">
+\begin{tikzpicture}[scale=0.9]
+ \draw[help lines] (0,0) grid (10,4);
+%\draw (0,0) --(1,2) -- (2,3) -- (1,0);
+\draw [red,domain=0:10] plot (\x, { (\x * 0.381966011250105)});
+\draw [thick] (0,0) -- (1,0) -- (2,0) -- (3,1) -- (4,1) -- (5,1) -- (6,2) -- (7,2) -- (8,3) -- (9,3) -- (10,3);
+\draw [thick] (0,1) -- (1,1) -- (2,1) -- (3,2) -- (4,2) -- (5,2) -- (6,3) -- (7,3) -- (8,4) -- (9,4) -- (10,4);
+\draw (0.5,0) node [below]  {0} -- (1.5,0) node [below] {0} -- (2.5,0) node [below] {1} -- (3.5,0) node [below] {0} -- (4.5,0) node [below] {0} -- (5.5,0) node [below] {1} -- (6.5,0) node [below] {0} -- (7.5,0) node [below] {1} -- (8.5,0) node [below] {0} -- (9.5,0) node [below] {0} -- (10,0);
+\end{tikzpicture}
+</script>
+</center>
 
 <h3> Submitted  </h3>
 
@@ -75,6 +90,8 @@ Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> 
 <h3 id='slides'>Slides</h3>
 
 <ul >
+<li> <a href="/files/PresSeminaire_LIGM.pdf">Absorbing patterns in BST-like expression-trees</a>, Séminaire ALGO, LIGM, Univ. Gustave Eiffel, January 12, 2021.
+</li>
 <li> <a href="/files/Pres_MFCS_2019.pdf">Uniform random expressions lack expressivity</a>, MFCS 2019, Aachen, Germany, August 28, 2019.
 </li>
 <li> <a href="/files/Pres_Normastic_2019.pdf">Recurrence of substitutive Sturmian words</a>, Journees Normastic (axe AlgoComb), Univ. Caen, France, May 28, 2019. <em>Here I present the completed work for the quadratic irrational case (unpublished for the moment).</em>
