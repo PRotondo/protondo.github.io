@@ -21,13 +21,13 @@ Contents
 <h3 id='articles'>Articles</h3>
 
 <ol reversed>
-<li> Absorbing patterns in BST-like expression-trees, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . <a href="https://stacs2021.saarland-informatics-campus.de/accepted-papers/">Accepted</a> in STACS'21.
+<li> <a href="http://igm.univ-mlv.fr/~koechlin/STACS21.pdf"> Absorbing patterns in BST-like expression-trees</a>, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . <a href="https://stacs2021.saarland-informatics-campus.de/accepted-papers/">Accepted</a> in STACS'21.
 </li>
 <li> <a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48516-0_13.pdf"> On the Degeneracy of Random Expressions Specified by Systems of Combinatorial Equations</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
 Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Published in the Proceedings of the 24th International Conference
 in Developments in Language Theory DLT 2020.
 </li>
-    <li> <a href="https://drops.dagstuhl.de/opus/volltexte/2020/12034/pdf/LIPIcs-AofA-2020-4.pdf"> Two arithmetical sources and their associated tries</a>, with <a href="https://www.irif.fr/~berthe/">Valérie Berthé</a>, <a href="https://sites.google.com/site/edacesaratto/">Eda Cesaratto</a>, <a href="https://www.lamfa.u-picardie.fr/paccaut/">Frédéric Paccaut</a>, <a href="http://www.matematica.uns.edu.ar/webs/msafe/">Martín D. Safe</a> and <a href="https://vallee.users.greyc.fr/">Brigitte Vallée</a>.  Accepted in AofA 2020.
+    <li> <a href="https://drops.dagstuhl.de/opus/volltexte/2020/12034/pdf/LIPIcs-AofA-2020-4.pdf"> Two arithmetical sources and their associated tries</a>, with <a href="https://www.irif.fr/~berthe/">Valérie Berthé</a>, <a href="https://sites.google.com/site/edacesaratto/">Eda Cesaratto</a>, <a href="https://www.lamfa.u-picardie.fr/paccaut/">Frédéric Paccaut</a>, <a href="http://www.matematica.uns.edu.ar/webs/msafe/">Martín D. Safe</a> and <a href="https://vallee.users.greyc.fr/">Brigitte Vallée</a>.  Published in the Proceedings of AofA 2020.
     </li> 
 <li> <a href="http://drops.dagstuhl.de/opus/volltexte/2019/10995/pdf/LIPIcs-MFCS-2019-51.pdf" class= "urlextern" title="http://drops.dagstuhl.de/opus/volltexte/2019/10995" rel="nofollow">Uniform Random Expressions Lack Expressivity</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
 Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> ; <a href="http://drops.dagstuhl.de/opus/volltexte/2019/10995/"> Published</a> in the proceedings of the 44th International Symposium on Mathematical Foundations of Computer Science (MFCS 2019).
@@ -50,7 +50,14 @@ Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> 
 <!--\end{tikzpicture}-->
 <!--</script>-->
 
-<!--<h3> Submitted  </h3>-->
+<h3> Submitted  </h3>
+
+
+<ul>
+<li> Analysis of an efficient reduction algorithm for random regular expressions based on universality detection, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Submitted to CSR'21.
+    </li> 
+
+</ul>
 
 
 <h3> In preparation  </h3>
