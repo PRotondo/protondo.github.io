@@ -6,6 +6,15 @@ permalink: /teaching/
 
 <h3>Teaching</h3>
 <p></p>
+<h4>  ATER Université Gustave Eiffel  </h4>
+<ul>
+<li> 2020 - Analyse syntaxique, TD+TP (30h, 3rd semester, engineering students) - One semester course. Context free grammars, push-down automata, elimination of left-recurisivity, Chomsky normal form, LL(k) and LR(k) grammars. Construction of syntax analyser for a subset of the C language.
+</li><li> 2020 - Intro. Prog. C, TD (24h, 3rd semester, Licence Informatique) - Introduction to trees in C: lists, trees, binary search trees, AVL, heaps.
+</li><li> 2020 - Prog. C Avancée, TD (48h, 3rd year, Licence Informatique).
+</li><li> 2020 - Principes des systèmes d’exploitation, TD (20h, 3rd semester, DUT Informatique) - Introduction to computer architecture, assembleur, system calls and processes&amp;threads in C.
+</ul>
+
+<p></p>
 <h4>  ATER Marne-la-Vallée  </h4>
 <ul>
 <li> 2019 - Algorithmique avancée, TD+TP (30h, 3rd semester, engineering students) - Dynamic programming, divide and conquer, algorithms on graphs.
