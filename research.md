@@ -30,7 +30,8 @@ Contents
 <h3 id='articles'>Articles</h3>
 
 <ol reversed>
-
+<li> Analysis of an efficient reduction algorithm for random regular expressions based on universality detection, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Accepted in CSR'21.
+    </li> 
 <li> <a href="http://igm.univ-mlv.fr/~koechlin/STACS21.pdf"> Absorbing patterns in BST-like expression-trees</a>, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . <a href="https://stacs2021.saarland-informatics-campus.de/accepted-papers/">Accepted</a> in STACS'21.
 </li>
 <li> <a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48516-0_13.pdf"> On the Degeneracy of Random Expressions Specified by Systems of Combinatorial Equations</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
@@ -65,14 +66,14 @@ Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> 
 </script>
 </center>
 
-<h3> Submitted  </h3>
+<!--<h3> Submitted  </h3>-->
 
 
-<ul>
-<li> Analysis of an efficient reduction algorithm for random regular expressions based on universality detection, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Submitted to CSR'21.
-    </li> 
+<!--<ul>-->
+<!--<li> Analysis of an efficient reduction algorithm for random regular expressions based on universality detection, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Submitted to CSR'21.-->
+<!--    </li> -->
 
-</ul>
+<!--</ul>-->
 
 
 <h3> In preparation  </h3>
