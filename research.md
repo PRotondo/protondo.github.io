@@ -33,7 +33,7 @@ Contents
 <li>     <a>Random Regular Expression Over Huge Alphabets</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
 Nicaud</a>. International Journal of Foundations of Computer Science, 2021.
     </li> 
-<li> Analysis of an efficient reduction algorithm for random regular expressions based on universality detection, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Accepted in <a href="https://logic.pdmi.ras.ru/csr2021/">CSR'21</a>.
+<li> <a>Analysis of an efficient reduction algorithm for random regular expressions based on universality detection</a>, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Accepted in <a href="https://logic.pdmi.ras.ru/csr2021/">CSR'21</a>.
     </li> 
 <li> <a href="http://igm.univ-mlv.fr/~koechlin/STACS21.pdf"> Absorbing patterns in BST-like expression-trees</a>, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . <a href="https://stacs2021.saarland-informatics-campus.de/accepted-papers/">Accepted</a> in STACS'21.
 </li>
