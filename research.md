@@ -69,14 +69,15 @@ Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> 
 </script>
 </center>
 
-<!--<h3> Submitted  </h3>-->
+<h3> Submitted  </h3>
 
 
-<!--<ul>-->
-<!--<li> Analysis of an efficient reduction algorithm for random regular expressions based on universality detection, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Submitted to CSR'21.-->
-<!--    </li> -->
+<ul>
+<li> <a href="http://igm.univ-mlv.fr/~koechlin/Special_Issue_DLT20.pdf">Simplifications of Uniform Expressions Specified by Systems</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
+Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . special issue DLT'20, International Journal of Foundations of Computer Science (IJFCS).
+    </li> 
 
-<!--</ul>-->
+</ul>
 
 
 <h3> In preparation  </h3>
