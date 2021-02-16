@@ -55,6 +55,18 @@ Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> 
 <li> <a href="https://www.irif.univ-paris-diderot.fr/~berthe/Articles/mfcs.pdf" class="urlextern" title="https://www.irif.univ-paris-diderot.fr/~berthe/Articles/mfcs.pdf" rel="nofollow">Recurrence function on Sturmian words: a probabilistic study</a>, with Valérie Berthé, Eda Cesaratto, Brigitte Vallée and Alfredo Viola ;  Published in the proceedings the 40th International Symposium on Mathematical Foundations of Computer Science (MFCS 2015).
 </li>
 
+
+
+<h3> Submitted  </h3>
+
+
+<ul>
+<li> <a href="http://igm.univ-mlv.fr/~koechlin/Special_Issue_DLT20.pdf">Simplifications of Uniform Expressions Specified by Systems</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
+Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . special issue DLT'20, International Journal of Foundations of Computer Science (IJFCS).
+    </li> 
+
+</ul>
+
 <p>
 <center>
 <script type="text/tikz">
@@ -68,16 +80,6 @@ Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> 
 \end{tikzpicture}
 </script>
 </center>
-
-<h3> Submitted  </h3>
-
-
-<ul>
-<li> <a href="http://igm.univ-mlv.fr/~koechlin/Special_Issue_DLT20.pdf">Simplifications of Uniform Expressions Specified by Systems</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
-Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . special issue DLT'20, International Journal of Foundations of Computer Science (IJFCS).
-    </li> 
-
-</ul>
 
 
 <h3> In preparation  </h3>
