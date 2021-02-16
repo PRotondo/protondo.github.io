@@ -12,7 +12,7 @@ permalink: /teaching/
 </li>
 <li> 2021 - Algorithmique avancée, TD+TP (30h, 3rd semester, engineering students) - Dynamic programming, divide and conquer, algorithms on graphs.
 </li><li> 2021 - Algorithmique des arbres, TP (24h, 3rd semester, Licence Informatique) - Introduction to trees in C: lists, trees, binary search trees, AVL, heaps.
-</li><li> 2021 - Compilers, TD (48h, 3rd year, Licence Informatique) - One semester course. Translation in Flex&amp;Bison, along with assembler x86, in order to make a compiler for a ``reduced'' subset of the C language.
+</li><li> 2021 - Compilers, TD (24h, 3rd year, Licence Informatique) - One semester course. Translation in Flex&amp;Bison, along with assembler x86, in order to make a compiler for a ``reduced'' subset of the C language.
 </li>
 <li> 2020 - Analyse syntaxique, TD+TP (30h, 3rd semester, engineering students) - One semester course. Context free grammars, push-down automata, elimination of left-recurisivity, Chomsky normal form, LL(k) and LR(k) grammars. Construction of syntax analyser for a subset of the C language.
 </li><li> 2020 - Intro. Prog. C, TD (24h, 3rd semester, Licence Informatique) - Introduction to trees in C: lists, trees, binary search trees, AVL, heaps.
