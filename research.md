@@ -30,12 +30,12 @@ Contents
 <h3 id='articles'>Articles</h3>
 
 <ol reversed>
-<li>     <a>Random Regular Expression Over Huge Alphabets</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
+<li>     <a href="https://www.worldscientific.com/doi/abs/10.1142/S012905412141001X">Random Regular Expression Over Huge Alphabets</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
 Nicaud</a>. International Journal of Foundations of Computer Science, 2021.
     </li> 
-<li> <a>Analysis of an efficient reduction algorithm for random regular expressions based on universality detection</a>, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Accepted in <a href="https://logic.pdmi.ras.ru/csr2021/">CSR'21</a>.
+<li> <a href="http://dx.doi.org/10.1007/978-3-030-79416-3_12">Analysis of an efficient reduction algorithm for random regular expressions based on universality detection</a>, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Published in the Proceedings of the 16th International Computer Science Symposium in Russia, CSR 2021, Sochi, Russia, June 28-July 2, 2021.
     </li> 
-<li> <a href="http://igm.univ-mlv.fr/~koechlin/STACS21.pdf"> Absorbing patterns in BST-like expression-trees</a>, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . <a href="https://stacs2021.saarland-informatics-campus.de/accepted-papers/">Accepted</a> in STACS'21.
+<li> <a href="https://drops.dagstuhl.de/opus/volltexte/2021/13693/pdf/LIPIcs-STACS-2021-48.pdf"> Absorbing patterns in BST-like expression-trees</a>, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Published in the Proceedings of the 38th International Symposium on Theoretical Aspects of Computer Science (STACS 2021).
 </li>
 <li> <a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48516-0_13.pdf"> On the Degeneracy of Random Expressions Specified by Systems of Combinatorial Equations</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
 Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Published in the Proceedings of the 24th International Conference
