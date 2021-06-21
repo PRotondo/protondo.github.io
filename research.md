@@ -33,7 +33,7 @@ Contents
 <li>     <a href="https://www.worldscientific.com/doi/abs/10.1142/S012905412141001X">Random Regular Expression Over Huge Alphabets</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
 Nicaud</a>. International Journal of Foundations of Computer Science, 2021.
     </li> 
-<li> <a href="http://dx.doi.org/10.1007/978-3-030-79416-3_12">Analysis of an efficient reduction algorithm for random regular expressions based on universality detection</a>, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Published in the Proceedings of the 16th International Computer Science Symposium in Russia, CSR 2021, Sochi, Russia, June 28-July 2, 2021.
+<li> <a href="http://dx.doi.org/10.1007/978-3-030-79416-3_12">Analysis of an efficient reduction algorithm for random regular expressions based on universality detection</a>, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Published in the Proceedings of the 16th International Computer Science Symposium, CSR 2021.
     </li> 
 <li> <a href="https://drops.dagstuhl.de/opus/volltexte/2021/13693/pdf/LIPIcs-STACS-2021-48.pdf"> Absorbing patterns in BST-like expression-trees</a>, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Published in the Proceedings of the 38th International Symposium on Theoretical Aspects of Computer Science (STACS 2021).
 </li>
