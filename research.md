@@ -30,6 +30,10 @@ Contents
 <h3 id='articles'>Articles</h3>
 
 <ol reversed>
+<li> <a href="http://igm.univ-mlv.fr/~koechlin/Special_Issue_DLT20.pdf">Simplifications of Uniform Expressions Specified by Systems</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
+Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . special issue DLT'20, International Journal of Foundations of Computer Science (IJFCS).
+    </li> 
+
 <li>     <a href="https://www.worldscientific.com/doi/abs/10.1142/S012905412141001X">Random Regular Expression Over Huge Alphabets</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
 Nicaud</a>. International Journal of Foundations of Computer Science, 2021.
     </li> 
@@ -57,15 +61,15 @@ Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> 
 
 
 
-<h3> Submitted  </h3>
+<!--<h3> Submitted  </h3>-->
 
 
-<ul>
-<li> <a href="http://igm.univ-mlv.fr/~koechlin/Special_Issue_DLT20.pdf">Simplifications of Uniform Expressions Specified by Systems</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
-Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . special issue DLT'20, International Journal of Foundations of Computer Science (IJFCS).
-    </li> 
+<!--<ul>-->
+<!--<li> <a href="http://igm.univ-mlv.fr/~koechlin/Special_Issue_DLT20.pdf">Simplifications of Uniform Expressions Specified by Systems</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril -->
+<!--Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . special issue DLT'20, International Journal of Foundations of Computer Science (IJFCS).-->
+<!--    </li> -->
 
-</ul>
+<!--</ul>-->
 
 <p>
 <center>
