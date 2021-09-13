@@ -34,7 +34,7 @@ markdown: kramdown
 
 # Build settings
 # theme: minima
-remote_theme:  thelehhman/plainwhite-jekyll
+remote_theme:  samarsault/plainwhite-jekyll
 
 plainwhite:
   name: Pablo Rotondo   
