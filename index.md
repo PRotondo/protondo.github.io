@@ -5,7 +5,7 @@ permalink: /
 ---
 
 
- I am currently an maître de conférences (associate professor) at the Université Gustave Eiffel (ex Paris-Est Marne-la-Vallée), [Laboratoire d'informatique Gaspard-Monge][ligm] (LIGM), team MOA.  Previously, I was a ATER (teaching and research assistant) at the same university, and a post-doctoral researcher at the Université de Rouen (Normandie), laboratory [LITIS][litis].
+ I am currently an maitre de conférences (associate professor) at the Université Gustave Eiffel (ex Paris-Est Marne-la-Vallée), [Laboratoire d'informatique Gaspard-Monge][ligm] (LIGM), team MOA.  Previously, I was a ATER (teaching and research assistant) at the same university, and a post-doctoral researcher at the Université de Rouen (Normandie), laboratory [LITIS][litis].
  
  
  I did my PhD studies in Informatics at [IRIF][irif], under the co-direction of [Valérie Berthé][valerie], Alfredo Viola (Universidad de la República, Uruguay) and [Brigitte Vallée][brigitte] (GREYC, Université de Caen). My thesis was entitled “Probabilistic studies in Number Theory and Word Combinatorics: instances of dynamical analysis”, and encompasses, for example, topics such as the probabilistic study of the recurrence function of Sturmian words and the “Continued Logarithm Algorithm”. I defended my thesis on the 27th september 2018. The slides from the defence are available <a href="https://www.irif.fr/_media/users/rotondo/slides_defence.pdf">here</a>, while the manuscript is available <a href="https://www.irif.fr/_media/users/rotondo/these-rotondo.pdf" rel="nofollow">here</a>. 
