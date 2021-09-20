@@ -38,7 +38,7 @@ remote_theme:  samarsault/plainwhite-jekyll
 
 plainwhite:
   name: Pablo Rotondo   
-  tagline: postdoctoral researcher
+  tagline: maître de conférences
 #  sitemap: true
 #  show_excerpts: true
   portfolio_image: "assets/portfolio.png" 
