@@ -89,11 +89,12 @@ Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> 
 <h3> In preparation  </h3>
 
 <ul>
+    <li> Lochs-type theorems for  balanced  sequences of interval partitions, with  <a href="https://www.irif.fr/~berthe/">Valérie Berthé</a>, <a href="https://sites.google.com/site/edacesaratto/">Eda Cesaratto</a>, and <a href="http://www.matematica.uns.edu.ar/webs/msafe/">Martín D. Safe</a>.
+    </li> 
+    <li> Mirror and independence.
+    </li> 
+
 <li> Recurrence of substitutive Sturmian words, with <a href="https://vallee.users.greyc.fr/">Brigitte Vallée</a> .
-    </li> 
-<li> Mirror and independence.
-    </li> 
-    <li> Zero entropy and change of bases, with  <a href="https://www.irif.fr/~berthe/">Valérie Berthé</a>, <a href="https://sites.google.com/site/edacesaratto/">Eda Cesaratto</a>, and <a href="http://www.matematica.uns.edu.ar/webs/msafe/">Martín D. Safe</a>.
     </li> 
 </ul>
 
