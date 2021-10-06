@@ -108,8 +108,8 @@ Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> 
 </li>
 <li> <a href="/files/Pres_MFCS_2019.pdf">Uniform random expressions lack expressivity</a>, MFCS 2019, Aachen, Germany, August 28, 2019.
 </li>
-<li> <a href="/files/Pres_Normastic_2019.pdf">Recurrence of substitutive Sturmian words</a>, Journees Normastic (axe AlgoComb), Univ. Caen, France, May 28, 2019. <em>Here I present the completed work for the quadratic irrational case (unpublished for the moment).</em>
-</li>
+<!--<li> <a href="/files/Pres_Normastic_2019.pdf">Recurrence of substitutive Sturmian words</a>, Journees Normastic (axe AlgoComb), Univ. Caen, France, May 28, 2019. <em>Here I present the completed work for the quadratic irrational case (unpublished for the moment).</em>-->
+<!--</li>-->
 <li> <a href="https://www.irif.fr/_media/users/rotondo/pres_combi.pdf" class="media mediafile mf_pdf" title="users:rotondo:pres_combi.pdf (1.3&nbsp;MB)">Probabilistic studies in Number Theory and Word Combinatorics: instances of dynamical analysis</a>, Seminaire Combinatoire, IRIF, Paris, May 24, 2018.
 </li>
 <li> <a href="https://www.irif.fr/_media/users/rotondo/prescaen18.pdf" class="media mediafile mf_pdf" title="users:rotondo:prescaen18.pdf (524&nbsp;KB)">The Continued Logarithm Algorithm. A probabilistic study</a>, Seminaire ALGO, GREYC, Caen, February 20, 2018. 
@@ -125,8 +125,8 @@ and Fitting Interval Partitions</a>, Rencontre  des projets AleaEnAmSud et  Dyna
 </li>
 <!--<li> <a href="https://www.irif.fr/_media/users/rotondo/prescaen0416.pdf" class="media mediafile mf_pdf" title="users:rotondo:prescaen0416.pdf (1.2&nbsp;MB)">Probabilistic Study of the Recurrence function of Sturmian Words</a>, Seminaire ALGO, GREYC, Caen, April 26, 2016.  <em>This is was an intermediate  second probabilistic model</em>-->
 <!--</li>-->
-<li> <a href="http://dmg.tuwien.ac.at/aofa15/slides/rotondo.pdf" class="urlextern" title="http://dmg.tuwien.ac.at/aofa15/slides/rotondo.pdf" rel="nofollow">Recurrence function of Sturmian Words: a probabilistic study</a>, AofA 2015, Strobl Austria, June 10, 2015.
-</li>
+<!--<li> <a href="http://dmg.tuwien.ac.at/aofa15/slides/rotondo.pdf" class="urlextern" title="http://dmg.tuwien.ac.at/aofa15/slides/rotondo.pdf" rel="nofollow">Recurrence function of Sturmian Words: a probabilistic study</a>, AofA 2015, Strobl Austria, June 10, 2015.-->
+<!--</li>-->
 </ul>
 
 <h3 id='misc'>Miscellaneous</h3>
