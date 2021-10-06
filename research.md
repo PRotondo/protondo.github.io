@@ -102,6 +102,10 @@ Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> 
 <h3 id='slides'>Slides</h3>
 
 <ul >
+<li> <a href="/files/Pres_CSR_21.pdf">Analysis of an efficient reduction algorithm for random regular expressions based on universality detection</a>, CSR 2021, Online, 30 June 2021.
+</li>
+<li> <a href="/files/Pres_STACS_21.pdf">Absorbing patterns in BST-like expression-trees</a>, STACS 2021, Online, March 2021. Video available <a href="https://www.youtube.com/watch?v=KRpaCEnCMvE">here</a>.
+</li>
 <li> <a href="/files/PresSeminaire_LIGM.pdf">Absorbing patterns in BST-like expression-trees</a>, Séminaire ALGO, LIGM, Univ. Gustave Eiffel, January 12, 2021.
 </li>
 <li> <a href="/files/Pres_MFCS_2019.pdf">Uniform random expressions lack expressivity</a>, MFCS 2019, Aachen, Germany, August 28, 2019.
