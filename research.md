@@ -61,15 +61,18 @@ Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> 
 
 
 
-<!--<h3> Submitted  </h3>-->
+<h3> Submitted  </h3>
 
 
-<!--<ul>-->
+<ul>
+<li>Lochs-type theorems beyond positive entropy, with  <a href="https://www.irif.fr/~berthe/">Valérie Berthé</a>, <a href="https://sites.google.com/site/edacesaratto/">Eda Cesaratto</a>, and <a href="http://www.matematica.uns.edu.ar/webs/msafe/">Martín D. Safe</a>. Preprint <a href="https://arxiv.org/abs/2202.04008v1" class="urlextern" title="https://arxiv.org/abs/2202.04008v1" rel="nofollow">arXiv:2202.04008v1</a>
+</li> 
+<li> Heuristic detection of universal subtrees in random regular expressions, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Long version.
+</li> 
 <!--<li> <a href="http://igm.univ-mlv.fr/~koechlin/Special_Issue_DLT20.pdf">Simplifications of Uniform Expressions Specified by Systems</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril -->
 <!--Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . special issue DLT'20, International Journal of Foundations of Computer Science (IJFCS).-->
 <!--    </li> -->
-
-<!--</ul>-->
+</ul>
 
 <p>
 <center>
@@ -89,13 +92,12 @@ Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> 
 <h3> In preparation  </h3>
 
 <ul>
-    <li> Lochs-type theorems for  balanced  sequences of interval partitions, with  <a href="https://www.irif.fr/~berthe/">Valérie Berthé</a>, <a href="https://sites.google.com/site/edacesaratto/">Eda Cesaratto</a>, and <a href="http://www.matematica.uns.edu.ar/webs/msafe/">Martín D. Safe</a>.
-    </li> 
+
     <li> The mirror expansion of complete systems.
     </li> 
 
-<li> Recurrence of substitutive Sturmian words, with <a href="https://vallee.users.greyc.fr/">Brigitte Vallée</a> .
-    </li> 
+<!--<li> Recurrence of substitutive Sturmian words, with <a href="https://vallee.users.greyc.fr/">Brigitte Vallée</a> .-->
+<!--    </li> -->
 </ul>
 
 
@@ -105,6 +107,8 @@ Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> 
 <li> <a href="/files/Pres_CSR_21.pdf">Analysis of an efficient reduction algorithm for random regular expressions based on universality detection</a>, CSR 2021, 30 June 2021.
 </li>
 <li> <a href="/files/Pres_STACS_21.pdf">Absorbing patterns in BST-like expression-trees</a>, STACS 2021, Online, March 2021. Video available <a href="https://www.youtube.com/watch?v=KRpaCEnCMvE">here</a>.
+</li>
+<li> <a href="/files/PresSTIC_AmSud20.pdf" rel="nofollow">Change of basis towards sources of zero entropy</a>, Meeting of the project STIC-AmSud Rapa2, Online, 11 December 2020.
 </li>
 <li> <a href="/files/Pres_MFCS_2019.pdf">Uniform random expressions lack expressivity</a>, MFCS 2019, Aachen, Germany, August 28, 2019.
 </li>
