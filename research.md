@@ -157,7 +157,10 @@ bidimensionales</a>, report from my final project for Ingeniero en Computación,
 
 <h3 id='phd'>PhD thesis</h3>
 
-I defended my thesis on the 27th september 2018. The slides from the defence are available <a href="https://www.irif.fr/_media/users/rotondo/slides_defence.pdf">here</a>, while the manuscript is available <a href="https://www.irif.fr/_media/users/rotondo/these-rotondo.pdf" rel="nofollow">here</a>. 
+ My thesis was entitled “Probabilistic studies in Number Theory and Word Combinatorics: instances of dynamical analysis”, and encompasses, for example, topics such as the probabilistic study of the recurrence function of Sturmian words and the “Continued Logarithm Algorithm”. I defended my thesis on the 27th september 2018. 
+
+<p> 
+The slides from the defence are available <a href="https://www.irif.fr/_media/users/rotondo/slides_defence.pdf">here</a>, while the manuscript is available <a href="https://www.irif.fr/_media/users/rotondo/these-rotondo.pdf" rel="nofollow">here</a>. 
 
 
 <!--[brigitte]: https://vallee.users.greyc.fr/-->
