@@ -22,7 +22,8 @@ Contents
 <nav class="navigation">
 <a href="#articles">Articles</a> - 
 <a href="#slides">Slides</a> -
-<a href="#misc">Miscellaneous</a>
+<a href="#misc">Miscellaneous</a> -
+<a href="#phd">PhD thesis</a>
 </nav>
 
 
@@ -104,7 +105,7 @@ Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> 
 <h3 id='slides'>Slides</h3>
 
 <ul >
-<li> <a href="/files/PresRapa2_2021.pdf">Lochs' index:weight function and change of basis</a>, Meeting STIC-AmSud, RAPA2,Online, 7 December, 2021.</li>
+<li> <a href="/files/PresRapa2_2021.pdf">Lochs' index: weight function and change of basis</a>, Meeting STIC-AmSud, RAPA2,Online, 7 December, 2021.</li>
 <li> <a href="/files/Pres_CSR_21.pdf">Analysis of an efficient reduction algorithm for random regular expressions based on universality detection</a>, CSR 2021, 30 June 2021.
 </li>
 <li> <a href="/files/Pres_STACS_21.pdf">Absorbing patterns in BST-like expression-trees</a>, STACS 2021, Online, March 2021. Video available <a href="https://www.youtube.com/watch?v=KRpaCEnCMvE">here</a>.
@@ -119,10 +120,10 @@ Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> 
 </li>
 <li> <a href="https://www.irif.fr/_media/users/rotondo/prescaen18.pdf" class="media mediafile mf_pdf" title="users:rotondo:prescaen18.pdf (524&nbsp;KB)">The Continued Logarithm Algorithm. A probabilistic study</a>, Seminaire ALGO, GREYC, Caen, February 20, 2018. 
 </li>
-<li> <a href="https://www.irif.fr/~dyna3s/uploads/Main/2017_07_Rotondo3.pdf" class="urlextern" title="https://www.irif.fr/~dyna3s/uploads/Main/2017_07_Rotondo3.pdf" rel="nofollow">Recurrence function of Sturmian sequences:
-A probabilistic study over
-quadratic irrationals</a>, Rencontre  des projets AleaEnAmSud et  Dyna3S, Univ.  Caen, France, June 06, 2017.  <em> Here I presented our partial work on the topic</em>
-</li>
+<!--<li> <a href="https://www.irif.fr/~dyna3s/uploads/Main/2017_07_Rotondo3.pdf" class="urlextern" title="https://www.irif.fr/~dyna3s/uploads/Main/2017_07_Rotondo3.pdf" rel="nofollow">Recurrence function of Sturmian sequences:-->
+<!--A probabilistic study over-->
+<!--quadratic irrationals</a>, Rencontre  des projets AleaEnAmSud et  Dyna3S, Univ.  Caen, France, June 06, 2017.  <em> Here I presented our partial work on the topic</em>-->
+<!--</li>-->
 <li> <a href="https://www.irif.fr/~dyna3s/uploads/Main/2017_07_Rotondo1.pdf" class="urlextern" title="https://www.irif.fr/~dyna3s/uploads/Main/2017_07_Rotondo1.pdf" rel="nofollow">Random Number Generation
 and Fitting Interval Partitions</a>, Rencontre  des projets AleaEnAmSud et  Dyna3S, Univ.  Caen, France, June 06, 2017.  <em>This is another subject I am interested in. See my related blogpost <a href="https://paulrs.wordpress.com/2017/03/04/generating-a-random-variable-by-coin-tossing/">here</a>.</em>
 </li>
@@ -133,6 +134,8 @@ and Fitting Interval Partitions</a>, Rencontre  des projets AleaEnAmSud et  Dyna
 <!--<li> <a href="http://dmg.tuwien.ac.at/aofa15/slides/rotondo.pdf" class="urlextern" title="http://dmg.tuwien.ac.at/aofa15/slides/rotondo.pdf" rel="nofollow">Recurrence function of Sturmian Words: a probabilistic study</a>, AofA 2015, Strobl Austria, June 10, 2015.-->
 <!--</li>-->
 </ul>
+
+<p>
 
 <h3 id='misc'>Miscellaneous</h3>
 
@@ -149,6 +152,13 @@ bidimensionales</a>, report from my final project for Ingeniero en Computación,
 <!--Related presentation <a href="https://www.irif.fr/~dyna3s/uploads/Main/2017_07_Rotondo1.pdf">here</a>.-->
 </li>
 </ul>
+
+<p>
+
+<h3 id='phd'>PhD thesis</h3>
+
+I defended my thesis on the 27th september 2018. The slides from the defence are available <a href="https://www.irif.fr/_media/users/rotondo/slides_defence.pdf">here</a>, while the manuscript is available <a href="https://www.irif.fr/_media/users/rotondo/these-rotondo.pdf" rel="nofollow">here</a>. 
+
 
 <!--[brigitte]: https://vallee.users.greyc.fr/-->
 <!--[valerie]:   https://www.irif.univ-paris-diderot.fr/~berthe/-->
