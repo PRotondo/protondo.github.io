@@ -27,7 +27,6 @@ Contents
 </nav>
 
 
-
 <h3 id='articles'>Articles</h3>
 
 <ol reversed>
