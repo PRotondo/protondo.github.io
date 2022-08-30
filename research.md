@@ -31,7 +31,7 @@ Contents
 
 <ol reversed>
 <li> <a href="">A Probabilistic Model Revealing Shortcomings in Lua's Hybrid Tables</a>, with  <a href="https://www.cs.upc.edu/~conrado/">Conrado Martínez</a> and <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
-Nicaud</a>. Accepted for the conference <a href="http://cocoon-conference.org/2022/">COCOON 2022</a>.
+Nicaud</a>. Accepted for the conference <a href="http://cocoon-conference.org/2022/">COCOON 2022</a>. Preprint <a href="https://arxiv.org/abs/2208.13602" class="urlextern" title="https://arxiv.org/abs/2208.13602" rel="nofollow">arXiv:2208.13602</a>
     </li> 
 <li> <a href="http://igm.univ-mlv.fr/~koechlin/Special_Issue_DLT20.pdf">Simplifications of Uniform Expressions Specified by Systems</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
 Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . special issue DLT'20, International Journal of Foundations of Computer Science (IJFCS).
