@@ -108,9 +108,9 @@ Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> 
 
 <ul >
 <li> <a href="/files/Pres_COCOON_22-1.pdf">A Probabilistic Model Revealing Shortcomings in Lua’s Hybrid Tables</a>, COCOON 2022, Online, 23 Octobre, 2022.</li>
+<li> <a href="/files/PresRapa2_2021.pdf">Lochs' index: weight function and change of basis</a>, Meeting STIC-AmSud, RAPA2,Online, 7 December, 2021.</li>
 <li> <a href="/files/Pres_CSR_21.pdf">Analysis of an efficient reduction algorithm for random regular expressions based on universality detection</a>, CSR 2021, 30 June 2021.
 </li>
-<li> <a href="/files/PresRapa2_2021.pdf">Lochs' index: weight function and change of basis</a>, Meeting STIC-AmSud, RAPA2,Online, 7 December, 2021.</li>
 <li> <a href="/files/Pres_STACS_21.pdf">Absorbing patterns in BST-like expression-trees</a>, STACS 2021, Online, March 2021. Video available <a href="https://www.youtube.com/watch?v=KRpaCEnCMvE">here</a>.
 </li>
 <li> <a href="/files/PresSTIC_AmSud20.pdf" rel="nofollow">Change of basis towards sources of zero entropy</a>, Meeting of the project STIC-AmSud Rapa2, Online, 11 December 2020.
