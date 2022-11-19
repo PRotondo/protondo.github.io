@@ -30,6 +30,8 @@ Contents
 <h3 id='articles'>Articles</h3>
 
 <ol reversed>
+<li>Lochs-type theorems beyond positive entropy, with  <a href="https://www.irif.fr/~berthe/">Valérie Berthé</a>, <a href="https://sites.google.com/site/edacesaratto/">Eda Cesaratto</a>, and <a href="http://www.matematica.uns.edu.ar/webs/msafe/">Martín D. Safe</a>. Accepted for publication in the journal Monatshefte für Mathematik. Preprint <a href="https://arxiv.org/abs/2202.04008v1" class="urlextern" title="https://arxiv.org/abs/2202.04008v1" rel="nofollow">arXiv:2202.04008v1</a>
+</li> 
 <li> <a href="">A Probabilistic Model Revealing Shortcomings in Lua's Hybrid Tables</a>, with  <a href="https://www.cs.upc.edu/~conrado/">Conrado Martínez</a> and <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
 Nicaud</a>. Accepted for the conference <a href="http://cocoon-conference.org/2022/">COCOON 2022</a>. Preprint <a href="https://arxiv.org/abs/2208.13602" class="urlextern" title="https://arxiv.org/abs/2208.13602" rel="nofollow">arXiv:2208.13602</a>
     </li> 
@@ -68,8 +70,6 @@ Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> 
 
 
 <ul>
-<li>Lochs-type theorems beyond positive entropy, with  <a href="https://www.irif.fr/~berthe/">Valérie Berthé</a>, <a href="https://sites.google.com/site/edacesaratto/">Eda Cesaratto</a>, and <a href="http://www.matematica.uns.edu.ar/webs/msafe/">Martín D. Safe</a>. Preprint <a href="https://arxiv.org/abs/2202.04008v1" class="urlextern" title="https://arxiv.org/abs/2202.04008v1" rel="nofollow">arXiv:2202.04008v1</a>
-</li> 
 <li> Heuristic detection of universal subtrees in random regular expressions, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Long version.
 </li> 
 <!--<li> <a href="http://igm.univ-mlv.fr/~koechlin/Special_Issue_DLT20.pdf">Simplifications of Uniform Expressions Specified by Systems</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril -->
