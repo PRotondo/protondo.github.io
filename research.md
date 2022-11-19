@@ -30,7 +30,7 @@ Contents
 <h3 id='articles'>Articles</h3>
 
 <ol reversed>
-<li>Lochs-type theorems beyond positive entropy, with  <a href="https://www.irif.fr/~berthe/">Valérie Berthé</a>, <a href="https://sites.google.com/site/edacesaratto/">Eda Cesaratto</a>, and <a href="http://www.matematica.uns.edu.ar/webs/msafe/">Martín D. Safe</a>. Accepted for publication in the journal Monatshefte für Mathematik. Preprint <a href="https://arxiv.org/abs/2202.04008v1" class="urlextern" title="https://arxiv.org/abs/2202.04008v1" rel="nofollow">arXiv:2202.04008v1</a>
+<li><a href="">Lochs-type theorems beyond positive entropy</a>, with  <a href="https://www.irif.fr/~berthe/">Valérie Berthé</a>, <a href="https://sites.google.com/site/edacesaratto/">Eda Cesaratto</a>, and <a href="http://www.matematica.uns.edu.ar/webs/msafe/">Martín D. Safe</a>. Accepted for publication in the journal Monatshefte für Mathematik. Preprint <a href="https://arxiv.org/abs/2202.04008v1" class="urlextern" title="https://arxiv.org/abs/2202.04008v1" rel="nofollow">arXiv:2202.04008v1</a>
 </li> 
 <li> <a href="">A Probabilistic Model Revealing Shortcomings in Lua's Hybrid Tables</a>, with  <a href="https://www.cs.upc.edu/~conrado/">Conrado Martínez</a> and <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
 Nicaud</a>. Accepted for the conference <a href="http://cocoon-conference.org/2022/">COCOON 2022</a>. Preprint <a href="https://arxiv.org/abs/2208.13602" class="urlextern" title="https://arxiv.org/abs/2208.13602" rel="nofollow">arXiv:2208.13602</a>
