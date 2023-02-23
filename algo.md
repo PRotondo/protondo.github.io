@@ -81,7 +81,7 @@ More details available <a href="/files/22_AAP_CNRS.pdf">here</a> in the original
 
 <h3 id='meeting'>Meeting - Algo a la playa !</h3>
 
-General meeting in 
+General meeting in <a href="https://www.saint-julien-en-born.fr/">Saint Julien en Born</a> programmed !
 
 <ul>
 <li>
@@ -90,9 +90,18 @@ Date:
 July 3 2023 (Monday) through July 7 2023 (Friday)
 </li>
 <li>
-
+Venue: tba
+</li>
+<li>
 </li>
 </ul>
+
+<center>
+<img src="https://www.guide-des-landes.com/_bibli/annonces/1347/hd/plageducontis3.jpg"  width="30%" >
+<img src="https://www.guide-des-landes.com/_bibli/annonces/1347/hd/plageducontis3.jpg"  width="30%" >
+<img src="https://www.guide-des-landes.com/_bibli/annonces/1347/hd/plageducontis3.jpg"  width="30%" >
+</center>
+<!--![Beach](https://www.guide-des-landes.com/_bibli/annonces/1347/hd/plageducontis3.jpg "Plage")-->
 
 [pablo]: /
 [cyril]: http://www-igm.univ-mlv.fr/~nicaud/
