@@ -61,6 +61,7 @@ More details available <a href="/files/22_AAP_CNRS.pdf">here</a> in the original
 <h4>Université Gustave Eiffel</h4>
 
 * [Arnaud Carayol][arnaud]
+* [Vincent Jugé][vincent]
 * [Cyril Nicaud][cyril]
 * [Carine Pivoteau][carine]
 * [Pablo Rotondo][pablo]
@@ -107,6 +108,7 @@ Venue: tba
 [cyril]: http://www-igm.univ-mlv.fr/~nicaud/
 [arnaud]: http://www-igm.univ-mlv.fr/~carayol/
 [carine]: http://www-igm.univ-mlv.fr/~pivoteau/
+[vincent]: http://www-igm.univ-mlv.fr/~juge/
 [julien]: https://clementj01.users.greyc.fr/
 [julieng]: https://courtiel.users.greyc.fr/
 [matthieu]: https://dien.users.greyc.fr/
