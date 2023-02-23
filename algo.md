@@ -20,25 +20,21 @@ Contents
 
 
 <h3 id='description'>Description</h3>
-Tous les langages de programmation contemporains proposent des implantations
-d’algorithmes et de structures de donn´ees classiques comme les listes, les tables de hachage, les tris, etc. Ce sont
-des briques de base qui sont utilis´ees pour d´evelopper des programmes plus cons´equents. Des algorithmes efficaces pour traiter ce genre de questions sont connus depuis plusieurs d´ecennies, depuis le d´ebut de l’informatique
-ou presque, avec souvent de nombreuses variantes efficaces propos´ees dans la litt´erature.
-Quand les d´eveloppeurs d’un langage de programmation choisissent d’implanter tel ou tel algorithme, comme
-leur tri de tableau g´en´erique, ils ont ainsi un vaste choix de solutions. En plus des contraintes propres `a leur
-langage, ils utilisent diff´erents tests de performance guider leur d´ecision. Parfois aussi, les ing´enieurs innovent et
-sortent des sentiers bien balis´es pour proposer des solutions compl`etement nouvelles. Les tests de performances
-ne sont pas simples `a r´ealiser `a ce niveau de g´en´ericit´e (les concepteurs d’un langages ne savent pas dans quels
-contextes leur langage va ˆetre utilis´e), ils s’appuient soient sur des bases de tests r´ecup´er´ees en interne, soit sur
-une intuition qu’ont leurs ing´enieurs sur les types de sc´enarios typiques d’utilisation de leurs structures.
-Dans ce contexte notre projet adopte l’approche suivante :
-1. Examiner le code source de diff´erents langages de programmation (Java, PHP, Python, . . . ) pour identifier
-des choix ´etonnants ou discutables, ou encore des innovations.
-2. Proposer des sc´enarios probabilistes qui mod´elisent des comportements r´ealistes d’utilisation de ces algorithmes.
-3. Conduire une ´etude math´ematique pr´ecise du comportement des algorithmes ´etudi´es dans les diff´erents
-sc´enarios retenus.
-4. Confirmer l’efficacit´e de certains algorithmes, r´ev´eler les faiblesses d’autres et ´eventuellement proposer des
-am´eliorations substentielles
+All contemporary programming languages offer implementations of classical algorithms and classical data structures such as lists, hash tables, sorting, etc. 
+These are basic building blocks that are used to develop larger programs. Efficient algorithms for dealing with such issues have been known for several decades, since the beginning of computing,
+often with several efficient variants proposed in the literature.
+When developers of a programming language choose to implement a particular algorithm, such as their generic array sort, they have a wide choice of solutions.
+In addition to the constraints of their language, they use various performance tests to guide their decision.
+Sometimes engineers innovate and go off the beaten track to propose completely new solutions. Performance testing
+is not easy to perform at this level of genericity (language designers do not know in which contexts their language will be used).
+In this context our project adopts the following approach:
+1. Examine the source code of different programming languages (Java, PHP, Python, . . . ) to identify
+surprising or questionable choices, or innovations.
+2. Propose probabilistic scenarios that model realistic behaviours for the use of these algorithms.
+3. Conduct a precise mathematical study of the behaviour of the algorithms studied in the various
+scenarios.
+4. Confirm the efficiency of certain algorithms, reveal the weaknesses of others and possibly propose improvements
+
 
 <h3 id='members'>Members</h3>
 
