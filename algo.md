@@ -15,7 +15,7 @@ Contents
 <nav class="navigation">
 <a href="#description">Description</a> - 
 <a href="#members">Members</a> -
-<a href="#meeting">Meeting: algo a la playa</a> 
+<a href="#meeting">Meeting - Algo a la playa</a> 
 </nav>
 
 
@@ -36,9 +36,12 @@ scenarios.
 4. Confirm the efficiency of certain algorithms, reveal the weaknesses of others and possibly propose improvements
 
 
+More details available <a href="/files/22_AAP_CNRS.pdf">here</a> in the original proposal for the project.
+
+
 <h3 id='members'>Members</h3>
 
 
-<h3 id='meeting'>Meeting: algo a la playa !</h3>
+<h3 id='meeting'>Meeting - Algo a la playa !</h3>
 
 
