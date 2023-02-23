@@ -32,6 +32,17 @@ sass:
 # Build settings
 markdown: kramdown
 
+
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+  # parse markdown inside block-level HTML tag
+  parse_block_html: true
+
+
 # Build settings
 # theme: minima
 remote_theme:  samarsault/plainwhite-jekyll
