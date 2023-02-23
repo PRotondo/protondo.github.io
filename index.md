@@ -20,19 +20,15 @@ I work at the interface between Computer Science and Mathematics, in various top
 [ligm]: http://ligm.u-pem.fr/accueil/
 [irif]: https://www.irif.univ-paris-diderot.fr/
 
-<p>
 
-
-
-<p>
 <center>
 <img src="/assets/outname-1.png">
 </center>
 
 
-<p>
+
  
-<section>
+
 <h4>Contact information</h4>
 <ul>
 <li>Office: 4B104, 4th floor, Bâtiment Copernic, 5, boulevard Descartes, Cité Descartes, Champs-sur-Marne, 77454 Cedex 2 Marne-la-Vallée, France.
@@ -44,4 +40,4 @@ I work at the interface between Computer Science and Mathematics, in various top
 protondo</a></li>
 
 </ul>
-</section>
+
