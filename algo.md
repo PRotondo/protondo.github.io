@@ -100,9 +100,9 @@ Venue: tba
 </ul>
 
 <center>
-<img src="assets/meeting-23/st-julien-en-born-1.jpeg"  width="30%" >
-<img src="assets/meeting-23/st-julien-en-born-2.jpeg"  width="30%" >
-<img src="assets/meeting-23/st-julien-en-born-3.jpeg"  width="30%" >
+<img src="/assets/meeting-23/st-julien-en-born-1.jpeg"  width="30%" >
+<img src="/assets/meeting-23/st-julien-en-born-2.jpeg"  width="30%" >
+<img src="/assets/meeting-23/st-julien-en-born-3.jpeg"  width="30%" >
 <!--<img src="https://www.guide-des-landes.com/_bibli/annonces/1347/hd/plageducontis3.jpg"  width="30%" >-->
 <!--<img src="https://www.guide-des-landes.com/_bibli/annonces/1347/hd/plageducontis3.jpg"  width="30%" >-->
 <!--<img src="https://www.guide-des-landes.com/_bibli/annonces/1347/hd/plageducontis3.jpg"  width="30%" >-->
