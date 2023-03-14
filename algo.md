@@ -50,6 +50,9 @@ scenarios.
 
 More details available <a href="/files/22_AAP_CNRS.pdf">here</a> in the original proposal for the project.
 
+<center>
+<img src="/assets/meeting-23/session-zoom-17-jan.png"  width="50%" >
+</center>
 <!--[3] Conrado Mart ́ınez, Cyril Nicaud, Pablo Rotondo: A Probabilistic Model Revealing Shortcomings in Lua’s-->
 <!--Hybrid Tables. Accepted at COCOON 2022. https://arxiv.org/abs/2208.13602-->
 <!--<a href="/files/Pres_COCOON_22-1.pdf">A Probabilistic Model Revealing Shortcomings in Lua’s Hybrid Tables</a>, COCOON 2022, Online, 23 Octobre, 2022.-->
