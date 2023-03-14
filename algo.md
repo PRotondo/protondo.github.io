@@ -84,11 +84,13 @@ More details available <a href="/files/22_AAP_CNRS.pdf">here</a> in the original
 
 General meeting in <a href="https://www.saint-julien-en-born.fr/">Saint Julien en Born</a> programmed !
 
+<!--<img src="https://www.guide-des-landes.com/_bibli/annonces/1347/hd/plageducontis3.jpg"  width="30%" >-->
+
 <ul>
 <li>
 Date:
 
-July 3 2023 (Monday) through July 7 2023 (Friday)
+July 10 2023 (Monday) through July 14 2023 (Friday)
 </li>
 <li>
 Venue: tba
@@ -98,9 +100,12 @@ Venue: tba
 </ul>
 
 <center>
-<img src="https://www.guide-des-landes.com/_bibli/annonces/1347/hd/plageducontis3.jpg"  width="30%" >
-<img src="https://www.guide-des-landes.com/_bibli/annonces/1347/hd/plageducontis3.jpg"  width="30%" >
-<img src="https://www.guide-des-landes.com/_bibli/annonces/1347/hd/plageducontis3.jpg"  width="30%" >
+<img src="assets/meeting-23/st-julien-en-born-1.jpeg"  width="30%" >
+<img src="assets/meeting-23/st-julien-en-born-2.jpeg"  width="30%" >
+<img src="assets/meeting-23/st-julien-en-born-3.jpeg"  width="30%" >
+<!--<img src="https://www.guide-des-landes.com/_bibli/annonces/1347/hd/plageducontis3.jpg"  width="30%" >-->
+<!--<img src="https://www.guide-des-landes.com/_bibli/annonces/1347/hd/plageducontis3.jpg"  width="30%" >-->
+<!--<img src="https://www.guide-des-landes.com/_bibli/annonces/1347/hd/plageducontis3.jpg"  width="30%" >-->
 </center>
 <!--![Beach](https://www.guide-des-landes.com/_bibli/annonces/1347/hd/plageducontis3.jpg "Plage")-->
 
