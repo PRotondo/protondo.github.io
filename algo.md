@@ -64,6 +64,7 @@ More details available <a href="/files/22_AAP_CNRS.pdf">here</a> in the original
 <h4>Université Gustave Eiffel</h4>
 
 * [Arnaud Carayol][arnaud]
+* [Wenjie Fang][wenjie]
 * [Vincent Jugé][vincent]
 * [Cyril Nicaud][cyril]
 * [Carine Pivoteau][carine]
@@ -121,6 +122,7 @@ Venue: tba
 [julieng]: https://courtiel.users.greyc.fr/
 [matthieu]: https://dien.users.greyc.fr/
 [conrado]: https://www.cs.upc.edu/~conrado/
+[wenjie]: https://www-igm.univ-mlv.fr/~wfang/
 [tuba]: https://dblp.org/pid/50/6924.html
 [ligm]: http://ligm.u-pem.fr/accueil/
 
