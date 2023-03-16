@@ -97,7 +97,8 @@ Date:
 July 10 2023 (Monday) through July 14 2023 (Friday)
 </li>
 <li>
-Venue: tba
+Venue: Hôtel <a href="https://www.booking.com/hotel/fr/la-canotte-saint-julien-en-born.fr.html">La Canotte</a>, à Saint Julien en Born
+
 </li>
 <li>
 </li>
