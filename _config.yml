@@ -60,6 +60,8 @@ plainwhite:
       url: "/research"
     - title: Teaching
       url: "/teaching"
+    - title: Algo 2023
+      url: "/algo-cnrs-23"
       
 #  social_links:
 #    github: protondo

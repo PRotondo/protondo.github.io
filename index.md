@@ -10,7 +10,8 @@ permalink: /
  
 I did my PhD studies in Informatics at [IRIF][irif], under the co-direction of [Valérie Berthé][valerie], Alfredo Viola (Universidad de la República, Uruguay) and [Brigitte Vallée][brigitte] (GREYC, Université de Caen). The manuscript is available <a href="https://www.irif.fr/_media/users/rotondo/these-rotondo.pdf" rel="nofollow">here</a>.
 
-I work at the interface between Computer Science and Mathematics, in various topics in data structures and algorithms, that are linked by the presence of randomness in the models. See section <a href="/research/">research</a> for more
+I work at the interface between Computer Science and Mathematics, in various topics in data structures and algorithms, that are linked by the presence of randomness in the models. See section <a href="/research/">research</a> for more.
+
  
  
  
@@ -26,6 +27,8 @@ I work at the interface between Computer Science and Mathematics, in various top
 </center>
 
 
+<h4>News</h4>
+<b>New project 2023 !</b>  Algorithmic choices incommon programming languages, find all the details <a href="/algo-cnrs-23/">here</a>
 
  
 
