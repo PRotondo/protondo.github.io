@@ -83,6 +83,23 @@ More details available <a href="/files/22_AAP_CNRS.pdf">here</a> in the original
 </div>
 </div>
 
+<h3 id='meeting'>Kickoff meeting - 2 June </h3>
+First meeting at the Institut Henri Poincaré programmed for 2 June.
+
+<ul>
+<li>
+Date:
+
+June 2 2023 (Friday) from 10:30 to 17:30
+</li>
+<li>
+Venue: Institut Henri Poincaré, salle M-L Dubreil-Jacotin (ex-salle 421).
+</li>
+<li>
+Program: TBA
+</li>
+</ul>
+
 
 <h3 id='meeting'>Meeting - Algo a la playa !</h3>
 
