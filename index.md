@@ -27,9 +27,16 @@ I work at the interface between Computer Science and Mathematics, in various top
 </center>
 
 
-<h4>News</h4>
-<b>New project 2023 !</b>  Algorithmic choices incommon programming languages, find all the details <a href="/algo-cnrs-23/">here</a>
-
+<h4>News</h4><ul>
+<li><b>International project EPAA 2024-2025 approved!</b>  International coordinator for the EPAA (Entropy and Analysis of Algorithms) project Argentina,Chile,France,Uruguay.</li>
+<li>PC member of <a href="https://www.math.aau.at/AofA2024/">AofA2024</a>
+</li>
+<li>Judge for <a href="https://swerc.eu/2023/">SWERC 2023-2024</a>
+</li>
+<li><b>New project 2023 !</b>  Algorithmic choices incommon programming languages, find all the details <a href="/algo-cnrs-23/">here</a></li>
+<li>PC member of <a href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=148821&copyownerid=171324">LATIN 2022</a>
+</li>
+</ul>
  
 
 <h4>Contact information</h4>
