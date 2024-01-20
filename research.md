@@ -30,6 +30,9 @@ Contents
 <h3 id='articles'>Articles</h3>
 
 <ol reversed>
+<li> The effects of semantic simplifications on random
+BST-like expression-trees, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Accepted for publication in the Journal Discrete Mathematics.
+</li> 
 <li><a href="https://link.springer.com/article/10.1007/s00605-022-01805-y">Lochs-type theorems beyond positive entropy</a>, with  <a href="https://www.irif.fr/~berthe/">Valérie Berthé</a>, <a href="https://sites.google.com/site/edacesaratto/">Eda Cesaratto</a>, and <a href="http://www.matematica.uns.edu.ar/webs/msafe/">Martín D. Safe</a>. Published in the journal Monatshefte für Mathematik. Preprint <a href="https://arxiv.org/abs/2202.04008v1" class="urlextern" title="https://arxiv.org/abs/2202.04008v1" rel="nofollow">arXiv:2202.04008v1</a>
 </li> 
 <li> <a href="https://link.springer.com/chapter/10.1007/978-3-031-22105-7_34">A Probabilistic Model Revealing Shortcomings in Lua's Hybrid Tables</a>, with  <a href="https://www.cs.upc.edu/~conrado/">Conrado Martínez</a> and <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
@@ -70,9 +73,6 @@ Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> 
 
 
 <ul>
-<li> The effects of semantic simplifications on random
-BST-like expression-trees, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Long version.
-</li> 
 <li> Heuristic detection of universal subtrees in random regular expressions, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Long version.
 </li> 
 <!--<li> <a href="http://igm.univ-mlv.fr/~koechlin/Special_Issue_DLT20.pdf">Simplifications of Uniform Expressions Specified by Systems</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril -->
