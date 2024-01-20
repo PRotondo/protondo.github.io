@@ -73,6 +73,9 @@ Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> 
 
 
 <ul>
+<li>  Mathematical Models to Analyze Lua Hybrid Tables and Why They Need a Fix , with  <a href="https://www.cs.upc.edu/~conrado/">Conrado Martínez</a> and <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
+Nicaud</a>.  Long version.
+</li> 
 <li> Heuristic detection of universal subtrees in random regular expressions, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Long version.
 </li> 
 <!--<li> <a href="http://igm.univ-mlv.fr/~koechlin/Special_Issue_DLT20.pdf">Simplifications of Uniform Expressions Specified by Systems</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril -->
