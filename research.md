@@ -31,7 +31,7 @@ Contents
 
 <ol reversed>
 <li> The effects of semantic simplifications on random
-BST-like expression-trees, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Accepted for publication in the Journal Discrete Mathematics.
+BST-like expression-trees, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . To appear in the journal <a href="https://www.sciencedirect.com/science/article/abs/pii/S0012365X24000372">Discrete Mathematics</a>, Volume 347, Issue 5, May 2024, 113906.
 </li> 
 <li><a href="https://link.springer.com/article/10.1007/s00605-022-01805-y">Lochs-type theorems beyond positive entropy</a>, with  <a href="https://www.irif.fr/~berthe/">Valérie Berthé</a>, <a href="https://sites.google.com/site/edacesaratto/">Eda Cesaratto</a>, and <a href="http://www.matematica.uns.edu.ar/webs/msafe/">Martín D. Safe</a>. Published in the journal Monatshefte für Mathematik. Preprint <a href="https://arxiv.org/abs/2202.04008v1" class="urlextern" title="https://arxiv.org/abs/2202.04008v1" rel="nofollow">arXiv:2202.04008v1</a>
 </li> 
