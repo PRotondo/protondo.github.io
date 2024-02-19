@@ -150,7 +150,7 @@ and Fitting Interval Partitions</a>, Rencontre  des projets AleaEnAmSud et  Dyna
 
 <ul>
 <li>
-<a href="/files/density-harmonic-sum.pdf" rel="nofollow">Convergence and natural density</a>, notes, 2 pp., 2024. 
+<a href="/files/density-harmonic-sum.pdf" rel="nofollow">Convergence and natural density</a>, notes, 1 p., 2024. 
 </li>
 <li>
 <a href="/files/GenerationCoinTossing.pdf" rel="nofollow">Generating a random variable by coin tossing</a>, research notes, 7 pp., 2017. 
