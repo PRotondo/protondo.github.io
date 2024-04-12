@@ -62,11 +62,13 @@ plainwhite:
       url: "/teaching"
     - title: Algo 2023
       url: "/algo-cnrs-23"
-      
 #  social_links:
 #    github: protondo
 #    linkedIn: in/pablo-rotondo-1b12a851 # format: locale/username
-
+  condensed_mobile:
+    - home
+    - post
+    - page
 
 
 plugins:

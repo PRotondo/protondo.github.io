@@ -6,6 +6,22 @@ permalink: /teaching/
 
 <h3>Teaching</h3>
 <p></p>
+<h4>  Maître de Conférences, Université Gustave Eiffel  </h4>
+<ul>
+<li>
+2022-- - Programmation d'applications réseaux, Cours/TD (45h, Master 1 Informatique) 
+</li>
+<li>
+2022-- - Java Avancé, TP (Master 1 Informatique) 
+</li>
+<li>
+2022-- - Concurrence in Java, Cours/TD (Master 1 Informatique)
+</li>
+<li>
+2023-- - Programmation Système, TP (Licence 3 Informatique)
+</li>
+</ul>
+<p></p>
 <h4>  ATER Université Gustave Eiffel  </h4>
 <ul>
 <li> 2021 - Programmation d'applications réseaux, CoursTD (45h, Master 1 Informatique) - One semester course. Design network applications and protocols on top of IP, UDP or TCP, in Java. 
