@@ -16,7 +16,7 @@ permalink: /stic-amsud-epaa/
 </style>
 
 
-		<h2>— AmSud: Entropy and Probabilistic Analysis in Algorithms</h2>			
+		<h2> AmSud: Entropy and Probabilistic Analysis in Algorithms</h2>			
 
 		
 <p>This is a STIC-AmSud project. </p>

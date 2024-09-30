@@ -4,10 +4,9 @@ title: Pablo Rotondo - STIC AmSud - EPAA
 permalink: /stic-amsud-epaa-virtual/
 ---
 
-<h2 class="entry-title">Virtual Meeting – STIC AMSUD EPAA Project</h2>
+<h2>Virtual Meeting – STIC AMSUD EPAA Project</h2>
 
 	
-	<div class="entry-content">
 		
 <p>The first online meeting of the new STIC AMSUD EPAA project will be held on May 29 and 30, 2024. Here is the program:</p>
 
