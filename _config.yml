@@ -60,10 +60,10 @@ plainwhite:
       url: "/research"
     - title: Teaching
       url: "/teaching"
-    - title: Algo 2023
-      url: "/algo-cnrs-23"
-#    - title: EPAA 24-25
-#      url: "/stic-amsud-epaa"
+#    - title: Algo 2023
+#      url: "/algo-cnrs-23"
+    - title: EPAA 24-25
+      url: "/stic-amsud-epaa"
 #  social_links:
 #    github: protondo
 #    linkedIn: in/pablo-rotondo-1b12a851 # format: locale/username

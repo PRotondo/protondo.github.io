@@ -33,10 +33,10 @@ a {
 }
 </style>
 
-<h2>Virtual Meeting – STIC AMSUD EPAA Project</h2>
+<h1>Virtual Meeting – STIC AMSUD EPAA Project</h1>
 
 
-<p>The first online meeting of the new STIC AMSUD EPAA project will be held on May 29 and 30, 2024.<br>Here is the program:</p>
+<p>The first online meeting of the new STIC AMSUD <a href="/stic-amsud-epaa/">EPAA project</a> was held on May 29 and 30, 2024.<br>Here is the program:</p>
 
 <h2>Wednesday 29 May</h2>
 <ul>

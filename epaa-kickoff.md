@@ -27,11 +27,11 @@ permalink: /stic-amsud-epaa-kickoff/
 </style>
 
 
-<h2>Kick-off meeting — STIC AMSUD EPAA Project</h2>
+<h1>Kick-off meeting — STIC AMSUD EPAA Project</h1>
 
 
 		
-<p>The Kick-off meeting of the <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="/stic-amsud-epaa/" target="_blank">EPAA project</a> will take place in Buenos Aires, Argentina,  from October 21 to 25, 2024</p>
+<p>The Kick-off meeting of the <a href="/stic-amsud-epaa/">EPAA project</a> will take place in Buenos Aires, Argentina,  from October 21 to 25, 2024</p>
 
 
 
