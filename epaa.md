@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Pablo Rotondo - STIC AmSud - EPAA
 permalink: /stic-amsud-epaa/
 ---
