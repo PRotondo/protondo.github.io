@@ -16,7 +16,7 @@ permalink: /stic-amsud-epaa/
 </style>
 
 
-		<h2>— AmSud: Entropy and Probabilistic Analysis in Algorithms</h1>			
+		<h2>— AmSud: Entropy and Probabilistic Analysis in Algorithms</h2>			
 
 		
 <p>This is a STIC-AmSud project. </p>
@@ -31,7 +31,7 @@ permalink: /stic-amsud-epaa/
 
 
 
-<ul><li>Virtual meeting:  May 29-30, 2024. Webpage <a href="https://raofa-sinfin.greyc.fr/virtual-meeting-stic-amsud-epaa-project/index.html">here</a></li><li>Kick-off meeting: Buenos Aires (Argentina), October 21-25, 2024. Webpage <a href="https://raofa-sinfin.greyc.fr/kick-off-meeting-stic-amsud-epaa-project/index.html">here</a></li></ul>
+<ul><li>Virtual meeting:  May 29-30, 2024. Webpage <a href="/stic-amsud-epaa-virtual/">here</a></li><li>Kick-off meeting: Buenos Aires (Argentina), October 21-25, 2024. Webpage <a href="/stic-amsud-epaa-kickoff/">here</a></li></ul>
 
 
 
