@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: home
 title: Pablo Rotondo
 permalink: /
 ---
 
 
- I am currently a maître de conférences (associate professor) at the Université Gustave Eiffel (ex Paris-Est Marne-la-Vallée), [Laboratoire d'informatique Gaspard-Monge][ligm] (LIGM), team MOA.  Previously, I was an ATER (teaching and research assistant) at the same university, and a post-doctoral researcher at the Université de Rouen (Normandie), laboratory [LITIS][litis].
+ I am currently a maître de conférences (associate professor) at the Université Gustave Eiffel (ex Paris-Est Marne-la-Vallée), [Laboratoire d'informatique Gaspard-Monge][ligm] (LIGM, UMR8049), team BAAM.  Previously, I was an ATER (teaching and research assistant) at the same university, and a post-doctoral researcher at the Université de Rouen (Normandie), laboratory [LITIS][litis].
  
  
 I did my PhD studies in Informatics at [IRIF][irif], under the co-direction of [Valérie Berthé][valerie], Alfredo Viola (Universidad de la República, Uruguay) and [Brigitte Vallée][brigitte] (GREYC, Université de Caen). The manuscript is available <a href="https://www.irif.fr/_media/users/rotondo/these-rotondo.pdf" rel="nofollow">here</a>.
