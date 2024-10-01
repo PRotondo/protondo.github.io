@@ -9,27 +9,21 @@ permalink: /stic-amsud-epaa-virtual/
 body {
     font-family: Arial, sans-serif;
 }
-h1 {
-    color: #003366;
-}
 h2 {
     color: #003366;
 }
-ul {
-    list-style-type: none;
-    padding-left: 0;
+.day {
+    margin-bottom: 20px;
 }
-li {
-    margin-bottom: 10px;
+.session {
+    margin-left: 20px;
 }
 .time {
     font-weight: bold;
 }
-em {
+.theme {
     font-style: italic;
-}
-a {
-    color: #1a0dab;
+    color: #666;
 }
 </style>
 

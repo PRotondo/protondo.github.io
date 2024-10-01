@@ -13,6 +13,25 @@ permalink: /stic-amsud-epaa/
 .column-left{ float: left; width: 33.333%; }
 .column-right{ float: right; width: 33.333%; }
 .column-center{ display: inline-block; width: 33.333%; }
+body {
+    font-family: Arial, sans-serif;
+}
+h2 {
+    color: #003366;
+}
+.day {
+    margin-bottom: 20px;
+}
+.session {
+    margin-left: 20px;
+}
+.time {
+    font-weight: bold;
+}
+.theme {
+    font-style: italic;
+    color: #666;
+}
 </style>
 
 <h1>AmSud: Entropy and Probabilistic Analysis in Algorithms</h1>

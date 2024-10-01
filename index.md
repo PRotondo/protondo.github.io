@@ -33,7 +33,7 @@ I work at the interface between Computer Science and Mathematics, in various top
 </li>
 <li>Judge for <a href="https://swerc.eu/2023/">SWERC 2023-2024</a>
 </li>
-<li><b>Project 2023 :</b>  algorithmic choices incommon programming languages, find all the details <a href="/algo-cnrs-23/">here</a></li>
+<li>Project 2023 : algorithmic choices incommon programming languages, find all the details <a href="/algo-cnrs-23/">here</a></li>
 <li>PC member of <a href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=148821&copyownerid=171324">LATIN 2022</a>
 </li>
 </ul>
