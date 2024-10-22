@@ -56,46 +56,46 @@ public talks, addressed to local students, on the other.
 
 
 <div class="day">
-    <h2>Miércoles 23 de Octubre</h2>
-    <div class="session">
-        <p><span class="time">14:00:</span> Paulina Cecchi (Univ. de Chile) - Complejidad de factores y propiedades dinámicas.</p>
-    </div>
-    <div class="session">
-        <p><span class="time">14:50:</span> Pablo Rotondo (Univ. Gustave Eiffel) - Cambio de bases en sistemas de numeración.</p>
-    </div>
-    <div class="session">
-        <p><span class="time">Pausa:</span> 15:40 - 16:00</p>
-    </div>
-    <div class="session">
-        <p><span class="time">16:00:</span> Eda Cesaratto (DM, FCEyN y UNGS) - Genericidad de Poisson para sistemas de numeración con "mixing".</p>
-    </div>
-    <div class="session">
-        <p><span class="time">16:50:</span> Claudio Qureshi (Univ. de la República, Uruguay) - Iteración de funciones sobre cuerpos finitos.</p>
-    </div>
-    <div class="session">
-        <p><span class="time">Termina:</span> 17:40</p>
-    </div>
+<h2>Miércoles 23 de Octubre</h2>
+<div class="session">
+<p><span class="time">14:00:</span> Paulina Cecchi (Univ. de Chile) - Complejidad de factores y propiedades dinámicas.</p>
+</div>
+<div class="session">
+<p><span class="time">14:50:</span> Pablo Rotondo (Univ. Gustave Eiffel) - Cambio de bases en sistemas de numeración.</p>
+</div>
+<div class="session">
+<p><span class="time">Pausa:</span> 15:40 - 16:00</p>
+</div>
+<div class="session">
+<p><span class="time">16:00:</span> Eda Cesaratto (DM, FCEyN y UNGS) - Genericidad de Poisson para sistemas de numeración con "mixing".</p>
+</div>
+<div class="session">
+<p><span class="time">16:50:</span> Claudio Qureshi (Univ. de la República, Uruguay) - Iteración de funciones sobre cuerpos finitos.</p>
+</div>
+<div class="session">
+<p><span class="time">Termina:</span> 17:40</p>
+</div>
 </div>
 
 <div class="day">
-    <h2>Jueves 24 de Octubre</h2>
-    <div class="session">
-        <p><span class="time">14:00:</span> Pablo Rotondo (Univ. Gustave Eiffel) - Absorbing patterns in Binary Search Trees.</p>
-    </div>
-    <div class="session">
-        <p><span class="time">14:50:</span> Nicolás Álvarez (ICC, FCEyN) - Un problema tipo Zaremba.</p>
-    </div>
-    <div class="session">
-        <p><span class="time">Pausa:</span> 15:40 - 16:00</p>
-    </div>
-    <div class="session">
-        <p><span class="time">16:00:</span> Verónica Becher (DC-ICC, FCEyN) - Perfect Necklaces.</p>
-    </div>
-    <div class="session">
-        <p><span class="time">16:50:</span> Ivo Pajor (DC, FCEyN) - De Bruijn con discrepancia óptima.</p>
-    </div>
-    <div class="session">
-        <p><span class="time">17:20:</span> Carlos Soto (DC, FCEyN) - A confirmar.</p>
-    </div>
+<h2>Jueves 24 de Octubre</h2>
+<div class="session">
+<p><span class="time">14:00:</span> Pablo Rotondo (Univ. Gustave Eiffel) - Absorbing patterns in Binary Search Trees.</p>
+</div>
+<div class="session">
+<p><span class="time">14:50:</span> Nicolás Álvarez (ICC, FCEyN) - Un problema tipo Zaremba.</p>
+</div>
+<div class="session">
+<p><span class="time">Pausa:</span> 15:40 - 16:00</p>
+</div>
+<div class="session">
+<p><span class="time">16:00:</span> Verónica Becher (DC-ICC, FCEyN) - Perfect Necklaces.</p>
+</div>
+<div class="session">
+<p><span class="time">16:50:</span> Ivo Pajor (DC, FCEyN) - De Bruijn con discrepancia óptima.</p>
+</div>
+<div class="session">
+<p><span class="time">17:20:</span> Carlos Soto (DC, FCEyN) - A confirmar.</p>
+</div>
 </div>
 
