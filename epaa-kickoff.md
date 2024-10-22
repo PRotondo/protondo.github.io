@@ -51,8 +51,8 @@ public talks, addressed to local students, on the other.
 
 <p><strong>Charlas del meeting de EPA !</strong> </p>
 
-    <p>Este evento está dedicado a la memoria de Joos Heintz. 
-    </p>
+<p>Este evento está dedicado a la memoria de Joos Heintz. 
+</p>
 
 
 <div class="day">
