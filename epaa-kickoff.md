@@ -80,7 +80,7 @@ public talks, addressed to local students, on the other.
 <div class="day">
 <h2>Jueves 24 de Octubre</h2>
 <div class="session">
-<p><span class="time">14:00:</span> Pablo Rotondo (Univ. Gustave Eiffel) - Absorbing patterns in Binary Search Trees.</p>
+<p><span class="time">14:00:</span> Pablo Rotondo (Univ. Gustave Eiffel) - Elementos absorbentes en Árboles Binarios de Búsqueda.</p>
 </div>
 <div class="session">
 <p><span class="time">14:50:</span> Nicolás Álvarez (ICC, FCEyN) - Un problema tipo Zaremba.</p>
