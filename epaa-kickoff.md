@@ -39,89 +39,63 @@ permalink: /stic-amsud-epaa-kickoff/
 
 
 
-<p><strong>Confirmed participants</strong>: Verónica Becher, Eduardo Canale, Paulina Cecchi, Eda Cesaratto, Mostafa Gholami, Loïck Lhote, Frédéric Paccaut, Claudio Qureshi, Alfredo Viola</p>
+<p><strong>Participants from the project</strong>: Verónica Becher, Álvaro Bustos, Eduardo Canale, Paulina Cecchi, Eda Cesaratto, Claudio Qureshi</p>
 
 
 
-<p><strong>Program</strong>: </p>
+The Kickoff meeting consists of two main parts: internal
+workshops and discussions on the one hand, and general
+public talks, addressed to local students, on the other.
+
+
+
+<p><strong>Charlas del meeting de EPA !</strong> </p>
+
+    <p>Este evento está dedicado a la memoria de Joos Heintz. 
+    </p>
+
 
 <div class="day">
-<h2>Monday 21st October</h2>
-<p class="theme">Theme for afternoon: Graph Structures</p>
-<div class="session">
-<p><span class="time">Morning:</span> Welcome and general meeting.</p>
-</div>
-<div class="session">
-<p><span class="time">14:30 - 16:00:</span> Loïck Lhote (Unicaen, Francia). Presentation in the Graph Seminar of UBA.</p>
-</div>
-<div class="session">
-<p><span class="time">16:00 - 17:00:</span> Eduardo Canale (UdelaR, Uruguay). Superfluous edges in Graphs.</p>
-</div>
-</div>
-
-<div class="day">
-<h2>Tuesday 22nd October</h2>
-<p class="theme">Theme for afternoon: Dynamics and Lochs’ Type Theorems</p>
-<div class="session">
-<p><span class="time">10:00 - 13:00:</span> Workshop</p>
-</div>
-<div class="session">
-<p><span class="time">13:00 - 14:30:</span> Lunch break</p>
-</div>
-<div class="session">
-<p><span class="time">14:30 - 15:30:</span> Paulina Cecchi (U. de Chile).</p>
-</div>
-<div class="session">
-<p><span class="time">15:30 - 16:30:</span> Pablo Rotondo (UGE, France). Multidimensional Lochs’ Theorems.</p>
-</div>
-<div class="session">
-<p><span class="time">16:30 - 17:30:</span> Verónica Becher (UBA, Argentina).</p>
-</div>
+    <h2>Miércoles 23 de Octubre</h2>
+    <div class="session">
+        <p><span class="time">14:00:</span> Paulina Cecchi (Univ. de Chile) - Complejidad de factores y propiedades dinámicas.</p>
+    </div>
+    <div class="session">
+        <p><span class="time">14:50:</span> Pablo Rotondo (Univ. Gustave Eiffel) - Cambio de bases en sistemas de numeración.</p>
+    </div>
+    <div class="session">
+        <p><span class="time">Pausa:</span> 15:40 - 16:00</p>
+    </div>
+    <div class="session">
+        <p><span class="time">16:00:</span> Eda Cesaratto (DM, FCEyN y UNGS) - Genericidad de Poisson para sistemas de numeración con "mixing".</p>
+    </div>
+    <div class="session">
+        <p><span class="time">16:50:</span> Claudio Qureshi (Univ. de la República, Uruguay) - Iteración de funciones sobre cuerpos finitos.</p>
+    </div>
+    <div class="session">
+        <p><span class="time">Termina:</span> 17:40</p>
+    </div>
 </div>
 
 <div class="day">
-<h2>Wednesday 23rd October</h2>
-<p class="theme">Theme for afternoon: Finite fields and polynomials</p>
-<div class="session">
-<p><span class="time">10:00 - 13:00:</span> Workshop</p>
-</div>
-<div class="session">
-<p><span class="time">13:00 - 14:30:</span> Lunch break</p>
-</div>
-<div class="session">
-<p><span class="time">14:30 - 16:00:</span> Claudio Qureshi (UdelaR, Uruguay).</p>
-</div>
-<div class="session">
-<p><span class="time">16:30 - 18:00:</span> Antonio Cafure (UNGS, Argentina) - Binary Cyclotomic Polynomials.</p>
-</div>
-</div>
-
-<div class="day">
-<h2>Thursday 24th October</h2>
-<p class="theme">Theme for afternoon: Probabilistic analysis of data structures from Informatics</p>
-<div class="session">
-<p><span class="time">10:00 - 13:00:</span> Workshop</p>
-</div>
-<div class="session">
-<p><span class="time">13:00 - 14:30:</span> Lunch break</p>
-</div>
-<div class="session">
-<p><span class="time">14:30 - 15:30:</span> Pablo Rotondo (UGE, France) - Absorbing patterns in Binary Search Trees.</p>
-</div>
-<div class="session">
-<p><span class="time">15:30 - 16:30:</span> Frédéric Paccaut (UPJV, France) - Probabilistic Analysis of Trie Structures.</p>
-</div>
-<div class="session">
-<p><span class="time">16:30 - 17:30:</span> TBA</p>
-</div>
+    <h2>Jueves 24 de Octubre</h2>
+    <div class="session">
+        <p><span class="time">14:00:</span> Pablo Rotondo (Univ. Gustave Eiffel) - Absorbing patterns in Binary Search Trees.</p>
+    </div>
+    <div class="session">
+        <p><span class="time">14:50:</span> Nicolás Álvarez (ICC, FCEyN) - Un problema tipo Zaremba.</p>
+    </div>
+    <div class="session">
+        <p><span class="time">Pausa:</span> 15:40 - 16:00</p>
+    </div>
+    <div class="session">
+        <p><span class="time">16:00:</span> Verónica Becher (DC-ICC, FCEyN) - Perfect Necklaces.</p>
+    </div>
+    <div class="session">
+        <p><span class="time">16:50:</span> Ivo Pajor (DC, FCEyN) - De Bruijn con discrepancia óptima.</p>
+    </div>
+    <div class="session">
+        <p><span class="time">17:20:</span> Carlos Soto (DC, FCEyN) - A confirmar.</p>
+    </div>
 </div>
 
-<div class="day">
-<h2>Friday 25th October</h2>
-<div class="session">
-<p><span class="time">10:00 - 13:00:</span> Workshop</p>
-</div>
-<div class="session">
-<p><span class="time">13:00 - 14:30:</span> Lunch break</p>
-</div>
-</div>
