@@ -61,7 +61,7 @@ public talks, addressed to local students, on the other.
 <p><span class="time">14:00:</span> Paulina Cecchi (Univ. de Chile) - Complejidad de factores y propiedades dinámicas.</p>
 </div>
 <div class="session">
-<p><span class="time">14:50:</span> Pablo Rotondo (Univ. Gustave Eiffel) - Cambio de bases en sistemas de numeración.</p>
+<p><span class="time">14:50:</span> Pablo Rotondo (Univ. Gustave Eiffel) - Cambio de bases en sistemas de numeración. <a href="/files/pres-epa-lochs.pdf">slides</a></p>
 </div>
 <div class="session">
 <p><span class="time">Pausa:</span> 15:40 - 16:00</p>
@@ -80,7 +80,7 @@ public talks, addressed to local students, on the other.
 <div class="day">
 <h2>Jueves 24 de Octubre</h2>
 <div class="session">
-<p><span class="time">14:00:</span> Pablo Rotondo (Univ. Gustave Eiffel) - Elementos absorbentes en Árboles Binarios de Búsqueda.</p>
+<p><span class="time">14:00:</span> Pablo Rotondo (Univ. Gustave Eiffel) - Elementos absorbentes en Árboles Binarios de Búsqueda. <a href="/files/pres-epa-bst.pdf">slides</a> </p>
 </div>
 <div class="session">
 <p><span class="time">14:50:</span> Nicolás Álvarez (ICC, FCEyN) - Un problema tipo Zaremba.</p>
@@ -89,13 +89,10 @@ public talks, addressed to local students, on the other.
 <p><span class="time">Pausa:</span> 15:40 - 16:00</p>
 </div>
 <div class="session">
-<p><span class="time">16:00:</span> Verónica Becher (DC-ICC, FCEyN) - Perfect Necklaces.</p>
+<p><span class="time">16:00:</span> Verónica Becher (DC-ICC, FCEyN) - Collares perfectos.</p>
 </div>
 <div class="session">
 <p><span class="time">16:50:</span> Ivo Pajor (DC, FCEyN) - De Bruijn con discrepancia óptima.</p>
-</div>
-<div class="session">
-<p><span class="time">17:20:</span> Carlos Soto (DC, FCEyN) - A confirmar.</p>
 </div>
 </div>
 
