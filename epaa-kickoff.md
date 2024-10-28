@@ -39,7 +39,7 @@ permalink: /stic-amsud-epaa-kickoff/
 
 
 
-<p><strong>Participants from the project</strong>: Verónica Becher, Álvaro Bustos, Eduardo Canale, Paulina Cecchi, Eda Cesaratto, Claudio Qureshi</p>
+<p><strong>Participants from the project</strong>: Verónica Becher, Álvaro Bustos, Eduardo Canale, Paulina Cecchi, Eda Cesaratto, Claudio Qureshi, Martín Safe</p>
 
 
 
