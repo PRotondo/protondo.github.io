@@ -51,12 +51,12 @@ public talks, addressed to local students, on the other.
 
 <h2>Charlas del meeting EPA !</h2>
 
-<p>Este evento está dedicado a la memoria de <a href="https://es.wikipedia.org/wiki/Joos_Ulrich_Heintz">Joos Heintz</a>. 
+<p>Este evento está dedicado a la memoria de <a href="https://es.wikipedia.org/wiki/Joos_Ulrich_Heintz">Joos Heintz</a>; co-organizado con el equipo <a href="https://raofa-sinfin.greyc.fr/">RAofA</a> del  IRP SINFIN, y el grupo <a href="https://www-2.dc.uba.ar/grupinv/kapow/members">Kapow!</a>
 </p>
 
 
 <div class="day">
-<h2>Miércoles 23 de Octubre</h2>
+<h2>Miércoles 23 de Octubre, aula 1307 pabellón 0</h2>
 <div class="session">
 <p><span class="time">14:00:</span> Paulina Cecchi (Univ. de Chile) - Complejidad de factores y propiedades dinámicas.</p>
 </div>
@@ -78,7 +78,7 @@ public talks, addressed to local students, on the other.
 </div>
 
 <div class="day">
-<h2>Jueves 24 de Octubre</h2>
+<h2>Jueves 24 de Octubre, aula 1307 pabellón 0</h2>
 <div class="session">
 <p><span class="time">14:00:</span> Pablo Rotondo (Univ. Gustave Eiffel) - Elementos absorbentes en Árboles Binarios de Búsqueda. <a href="/files/pres-epa-bst.pdf">slides</a> </p>
 </div>
