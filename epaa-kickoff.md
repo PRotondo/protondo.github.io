@@ -58,10 +58,10 @@ public talks, addressed to local students, on the other.
 <div class="day">
 <h2>Miércoles 23 de Octubre, aula 1203 pabellón 0</h2>
 <div class="session">
-<p><span class="time">14:00:</span> <a href="https://sites.google.com/view/paulinacb/home?authuser=0">Paulina Cecchi</a> (Univ. de Chile) - Complejidad de factores y propiedades dinámicas.</p>
+<p><span class="time">14:00:</span> <a href="https://sites.google.com/view/paulinacb/home?authuser=0">Paulina Cecchi</a> (Univ. de Chile) - Complejidad de factores y propiedades dinámicas. <a href="/files/slides-epa/pres_UBA_paulina.pdf">slides</a></p>
 </div>
 <div class="session">
-<p><span class="time">14:50:</span> <a href="/">Pablo Rotondo</a> (Univ. Gustave Eiffel) - Cambio de bases en sistemas de numeración. <a href="/files/pres-epa-lochs.pdf">slides</a></p>
+<p><span class="time">14:50:</span> <a href="/">Pablo Rotondo</a> (Univ. Gustave Eiffel) - Cambio de bases en sistemas de numeración. <a href="/files/slides-epa/pres-epa-lochs.pdf">slides</a></p>
 </div>
 <div class="session">
 <p><span class="time">Pausa:</span> 15:40 - 16:00</p>
@@ -80,7 +80,7 @@ public talks, addressed to local students, on the other.
 <div class="day">
 <h2>Jueves 24 de Octubre, aula 1307 pabellón 0</h2>
 <div class="session">
-<p><span class="time">14:00:</span> <a href="/">Pablo Rotondo</a> (Univ. Gustave Eiffel) - Elementos absorbentes en Árboles Binarios de Búsqueda. <a href="/files/pres-epa-bst.pdf">slides</a> </p>
+<p><span class="time">14:00:</span> <a href="/">Pablo Rotondo</a> (Univ. Gustave Eiffel) - Elementos absorbentes en Árboles Binarios de Búsqueda. <a href="/files/slides-epa/pres-epa-bst.pdf">slides</a> </p>
 </div>
 <div class="session">
 <p><span class="time">14:50:</span> Nicolás Álvarez (ICC, FCEyN) - Un problema tipo Zaremba.</p>
@@ -89,7 +89,7 @@ public talks, addressed to local students, on the other.
 <p><span class="time">Pausa:</span> 15:40 - 16:00</p>
 </div>
 <div class="session">
-<p><span class="time">16:00:</span> <a href="https://www-2.dc.uba.ar/staff/becher/">Verónica Becher</a> (DC-ICC, FCEyN) - Collares perfectos.</p>
+<p><span class="time">16:00:</span> <a href="https://www-2.dc.uba.ar/staff/becher/">Verónica Becher</a> (DC-ICC, FCEyN) - Collares perfectos. <a href="https://staff.dc.uba.ar/becher/talks/EPA-perfect.pdf">slides</a></p>
 </div>
 <div class="session">
 <p><span class="time">16:50:</span> Ivo Pajor (DC, FCEyN) - De Bruijn con discrepancia óptima.</p>
