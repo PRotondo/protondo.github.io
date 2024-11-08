@@ -48,7 +48,7 @@ h2 {
 
 
 
-<ul><li>Virtual meeting:  May 29-30, 2024. Webpage <a href="/stic-amsud-epa/virtual/">here</a></li><li>Kick-off meeting: Buenos Aires (Argentina), October 21-25, 2024. Webpage <a href="/stic-amsud-epaa/kickoff/">here</a></li></ul>
+<ul><li>Virtual meeting:  May 29-30, 2024. Webpage <a href="/stic-amsud-epaa/virtual/">here</a></li><li>Kick-off meeting: Buenos Aires (Argentina), October 21-25, 2024. Webpage <a href="/stic-amsud-epaa/kickoff/">here</a></li></ul>
 
 
 
