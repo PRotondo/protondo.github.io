@@ -187,6 +187,101 @@ bidimensionales</a>, report from my final project for Ingeniero en Computación,
 The slides from the defence are available <a href="https://www.irif.fr/_media/users/rotondo/slides_defence.pdf">here</a>, while the manuscript is available <a href="https://www.irif.fr/_media/users/rotondo/these-rotondo.pdf" rel="nofollow">here</a>. 
 
 
+<center>
+<script type="text/tikz">
+\begin{tikzpicture}[scale=0.4, level 1/.style={sibling distance=16em},
+ level 2/.style={sibling distance=8em},
+ level 3/.style={sibling distance=4em},
+ level 4/.style={sibling distance=2em} ]
+ \tikzstyle{vertex}=[draw,circle,fill=black!0,minimum size=30pt,inner sep=0pt]
+ \tikzstyle{codeword}=[draw,circle,fill=black!10,minimum size=30pt,inner sep=0pt]
+ \tikzstyle{continue}=[,fill=black!0,minimum size=20pt,inner sep=0pt]
+\node [vertex] {$[0,1]$}
+	child
+	{
+		child
+		{
+			node[codeword] {$[0,\tfrac{1}{4}]\atop d=0$}
+			edge from parent
+			node[left] {$0$}
+		}
+		child
+		{
+      child
+      {
+        child
+				{
+					node[continue] {$\ddots$}
+					edge from parent
+				}
+				child
+				{
+					node[continue] {$\ddots$}
+					edge from parent
+				}
+        node[vertex] {$[\tfrac{1}{4},\tfrac{3}{8}]$}
+        edge from parent
+        node[left] {$0$}
+      }
+      child
+      {
+        node[codeword] {$[\tfrac{3}{8},\tfrac{1}{2}]\atop d=1$}
+        edge from parent
+        node[right] {$1$}
+      }
+			node[vertex] {$[\tfrac{1}{4},\tfrac{1}{2}]$}
+			edge from parent
+			node[right] {$1$}
+		}
+		node[vertex]{$[0,\tfrac{1}{2}]$}
+		edge from parent
+		node[left] {$0$}
+	}
+	child
+	{
+		child
+		{
+			child
+			{
+				node[codeword] {$[\tfrac{1}{2},\tfrac{5}{8}]\atop d=1$}
+				edge from parent
+				node[left] {$0$}
+			}
+			child
+			{
+				child
+				{
+					node[continue] {$\ddots$}
+					edge from parent
+				}
+				child
+				{
+					node[continue] {$\ddots$}
+					edge from parent
+				}
+				node[vertex] {$[\tfrac{5}{8},\frac{3}{4}]$}
+				edge from parent
+				node[right] {$1$}
+			}
+			node[vertex] {$[\tfrac{1}{2},\tfrac{3}{4}]$}
+			edge from parent
+			node[left] {$0$}
+		}
+		child
+		{
+			node[codeword] {$[\tfrac{3}{4},1]\atop d=2$}
+			edge from parent
+			node[right] {$1$}
+		}
+		node[vertex] {$[\tfrac{1}{2},1]$}
+		edge from parent
+		node[right] {$1$}
+	}; 
+\end{tikzpicture}
+</script>
+</center>
+
+
 <!--[brigitte]: https://vallee.users.greyc.fr/-->
 <!--[valerie]:   https://www.irif.univ-paris-diderot.fr/~berthe/-->
 <!--[cyril] : http://www-igm.univ-mlv.fr/~nicaud/-->
