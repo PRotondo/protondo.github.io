@@ -18,7 +18,7 @@ I work at the interface between Computer Science and Mathematics, in various top
  
 [brigitte]: https://vallee.users.greyc.fr/
 [valerie]:   https://www.irif.univ-paris-diderot.fr/~berthe/
-[litis]: http://www.litislab.eu/
+[litis]: https://www.litislab.fr/
 [ligm]: http://ligm.u-pem.fr/accueil/
 [irif]: https://www.irif.univ-paris-diderot.fr/
 
