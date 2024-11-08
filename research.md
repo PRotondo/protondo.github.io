@@ -68,21 +68,6 @@ Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> 
 </li>
 
 
-
-<h3> Submitted  </h3>
-
-
-<ul>
-<li>  Mathematical Models to Analyze Lua Hybrid Tables and Why They Need a Fix , with  <a href="https://www.cs.upc.edu/~conrado/">Conrado Martínez</a> and <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
-Nicaud</a>.  Long version. Preprint <a href="https://arxiv.org/abs/2208.13602" class="urlextern" title="https://arxiv.org/abs/2208.13602" rel="nofollow">arXiv:2208.13602</a>
-</li> 
-<li> Heuristic detection of universal subtrees in random regular expressions, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Long version.
-</li> 
-<!--<li> <a href="http://igm.univ-mlv.fr/~koechlin/Special_Issue_DLT20.pdf">Simplifications of Uniform Expressions Specified by Systems</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril -->
-<!--Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . special issue DLT'20, International Journal of Foundations of Computer Science (IJFCS).-->
-<!--    </li> -->
-</ul>
-
 <p>
 <center>
 <script type="text/tikz">
@@ -98,6 +83,23 @@ Nicaud</a>.  Long version. Preprint <a href="https://arxiv.org/abs/2208.13602" c
 \end{tikzpicture}
 </script>
 </center>
+
+
+<h3> Submitted  </h3>
+
+
+<ul>
+<li>  Mathematical Models to Analyze Lua Hybrid Tables and Why They Need a Fix , with  <a href="https://www.cs.upc.edu/~conrado/">Conrado Martínez</a> and <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
+Nicaud</a>.  Long version. Preprint <a href="https://arxiv.org/abs/2208.13602" class="urlextern" title="https://arxiv.org/abs/2208.13602" rel="nofollow">arXiv:2208.13602</a>
+</li> 
+<li> Heuristic detection of universal subtrees in random regular expressions, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Long version.
+</li> 
+<!--<li> <a href="http://igm.univ-mlv.fr/~koechlin/Special_Issue_DLT20.pdf">Simplifications of Uniform Expressions Specified by Systems</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril -->
+<!--Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . special issue DLT'20, International Journal of Foundations of Computer Science (IJFCS).-->
+<!--    </li> -->
+</ul>
+
+
 
 <!-- \draw[help lines] (0,0) grid (10,4);-->
 <!--%\draw (0,0) --(1,2) -- (2,3) -- (1,0);-->
