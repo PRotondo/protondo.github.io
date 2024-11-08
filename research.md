@@ -90,12 +90,21 @@ Nicaud</a>.  Long version. Preprint <a href="https://arxiv.org/abs/2208.13602" c
  \draw[help lines] (0,0) grid (10,4);
 %\draw (0,0) --(1,2) -- (2,3) -- (1,0);
 \draw [red,domain=0:10] plot (\x, { (\x * 0.381966011250105)});
-\draw [thick] (0,0) -- (1,0) -- (2,0) -- (3,1) -- (4,1) -- (5,1) -- (6,2) -- (7,2) -- (8,3) -- (9,3) -- (10,3);
-\draw [thick] (0,1) -- (1,1) -- (2,1) -- (3,2) -- (4,2) -- (5,2) -- (6,3) -- (7,3) -- (8,4) -- (9,4) -- (10,4);
+\draw [blue,domain=0:10] plot (\x, { (\x * 0.39)});
+
+\draw [thick] (0,0) -- (1,0) -- (2,0) -- (3,0) -- (3,1) -- (4,1) -- (5,1) -- (6,1) -- (6,2) -- (7,2) -- (8,2) -- (8,3) -- (9,3) -- (10,3);
+\draw [thick] (0,1) -- (1,1) -- (2,1) -- (2,2) -- (3,2) -- (4,2) -- (5,2) -- (5,3) -- (6,3) -- (7,3) -- (7,4) -- (8,4) -- (9,4) -- (10,4);
 \draw (0.5,0) node [below]  {0} -- (1.5,0) node [below] {0} -- (2.5,0) node [below] {1} -- (3.5,0) node [below] {0} -- (4.5,0) node [below] {0} -- (5.5,0) node [below] {1} -- (6.5,0) node [below] {0} -- (7.5,0) node [below] {1} -- (8.5,0) node [below] {0} -- (9.5,0) node [below] {0} -- (10,0);
 \end{tikzpicture}
 </script>
 </center>
+
+<!-- \draw[help lines] (0,0) grid (10,4);-->
+<!--%\draw (0,0) --(1,2) -- (2,3) -- (1,0);-->
+<!--\draw [red,domain=0:10] plot (\x, { (\x * 0.381966011250105)});-->
+<!--\draw [thick] (0,0) -- (1,0) -- (2,0) -- (3,1) -- (4,1) -- (5,1) -- (6,2) -- (7,2) -- (8,3) -- (9,3) -- (10,3);-->
+<!--\draw [thick] (0,1) -- (1,1) -- (2,1) -- (3,2) -- (4,2) -- (5,2) -- (6,3) -- (7,3) -- (8,4) -- (9,4) -- (10,4);-->
+<!--\draw (0.5,0) node [below]  {0} -- (1.5,0) node [below] {0} -- (2.5,0) node [below] {1} -- (3.5,0) node [below] {0} -- (4.5,0) node [below] {0} -- (5.5,0) node [below] {1} -- (6.5,0) node [below] {0} -- (7.5,0) node [below] {1} -- (8.5,0) node [below] {0} -- (9.5,0) node [below] {0} -- (10,0);-->
 
 
 <h3> In preparation  </h3>
@@ -110,104 +119,6 @@ Nicaud</a>.  Long version. Preprint <a href="https://arxiv.org/abs/2208.13602" c
 <!--    </li> -->
 </ul>
 
-<center>
-<script type="text/tikz">
-
-\begin{tikzpicture}[scale=0.7, level 1/.style={sibling distance=16em},
- level 2/.style={sibling distance=8em},
- level 3/.style={sibling distance=4em},
- level 4/.style={sibling distance=2em} ]
-
- 
- \tikzstyle{vertex}=[draw,circle,fill=black!0,minimum size=30pt,inner sep=0pt]
- \tikzstyle{codeword}=[draw,circle,fill=black!10,minimum size=30pt,inner sep=0pt]
- \tikzstyle{continue}=[,fill=black!0,minimum size=20pt,inner sep=0pt]
-
-\node [vertex] {$[0,1]$}
-	child
-	{
-		child
-		{
-			node[codeword] {$[0,\tfrac{1}{4}]\atop d=0$}
-			edge from parent
-			node[left] {$0$}
-		}
-		child
-		{
-      child
-      {
-        child
-				{
-					node[continue] {$\ddots$}
-					edge from parent
-				}
-				child
-				{
-					node[continue] {$\ddots$}
-					edge from parent
-				}
-        node[vertex] {$[\tfrac{1}{4},\tfrac{3}{8}]$}
-        edge from parent
-        node[left] {$0$}
-      }
-      child
-      {
-        node[codeword] {$[\tfrac{3}{8},\tfrac{1}{2}]\atop d=1$}
-        edge from parent
-        node[right] {$1$}
-      }
-			node[vertex] {$[\tfrac{1}{4},\tfrac{1}{2}]$}
-			edge from parent
-			node[right] {$1$}
-		}
-		node[vertex]{$[0,\tfrac{1}{2}]$}
-		edge from parent
-		node[left] {$0$}
-	}
-	child
-	{
-		child
-		{
-			child
-			{
-				node[codeword] {$[\tfrac{1}{2},\tfrac{5}{8}]\atop d=1$}
-				edge from parent
-				node[left] {$0$}
-			}
-			child
-			{
-				child
-				{
-					node[continue] {$\ddots$}
-					edge from parent
-				}
-				child
-				{
-					node[continue] {$\ddots$}
-					edge from parent
-				}
-				node[vertex] {$[\tfrac{5}{8},\frac{3}{4}]$}
-				edge from parent
-				node[right] {$1$}
-			}
-			node[vertex] {$[\tfrac{1}{2},\tfrac{3}{4}]$}
-			edge from parent
-			node[left] {$0$}
-		}
-		child
-		{
-			node[codeword] {$[\tfrac{3}{4},1]\atop d=2$}
-			edge from parent
-			node[right] {$1$}
-		}
-		node[vertex] {$[\tfrac{1}{2},1]$}
-		edge from parent
-		node[right] {$1$}
-	}; 
-
-\end{tikzpicture}
-</script>
-</center>
 
 
 <h3 id='slides'>Slides</h3>
