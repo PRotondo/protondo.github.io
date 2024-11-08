@@ -195,7 +195,7 @@ The slides from the defence are available <a href="https://www.irif.fr/_media/us
  level 4/.style={sibling distance=2em} ]
  \tikzstyle{vertex}=[draw,circle,fill=black!0,minimum size=30pt,inner sep=0pt]
  \tikzstyle{codeword}=[draw,circle,fill=black!10,minimum size=30pt,inner sep=0pt]
- \tikzstyle{continue}=[,fill=black!0,minimum size=20pt,inner sep=0pt]
+ \tikzstyle{continue}=[fill=black!0,minimum size=20pt,inner sep=0pt]
 \node [vertex] {$[0,1]$}
 	child
 	{
