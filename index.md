@@ -8,7 +8,8 @@ permalink: /
  I am currently a maître de conférences (associate professor) at the Université Gustave Eiffel (ex Paris-Est Marne-la-Vallée), [Laboratoire d'informatique Gaspard-Monge][ligm] (LIGM, UMR8049), team BAAM.  Previously, I was an ATER (teaching and research assistant) at the same university, and a post-doctoral researcher at the Université de Rouen (Normandie), laboratory [LITIS][litis].
  
  
-I did my PhD studies in Informatics at [IRIF][irif], under the co-direction of [Valérie Berthé][valerie], Alfredo Viola (Universidad de la República, Uruguay) and [Brigitte Vallée][brigitte] (GREYC, Université de Caen). The manuscript is available <a href="https://www.irif.fr/_media/users/rotondo/these-rotondo.pdf" rel="nofollow">here</a>.
+I did my PhD studies in Informatics at [IRIF][irif], under the co-direction of [Valérie Berthé][valerie], Alfredo Viola (Universidad de la República, Uruguay) and [Brigitte Vallée][brigitte] (GREYC, Université de Caen). 
+<!-- The manuscript is available <a href="https://www.irif.fr/_media/users/rotondo/these-rotondo.pdf" rel="nofollow">here</a>.-->
 
 I work at the interface between Computer Science and Mathematics, in various topics in data structures and algorithms, that are linked by the presence of randomness in the models. See section <a href="/research/">research</a> for more.
 
@@ -28,7 +29,7 @@ I work at the interface between Computer Science and Mathematics, in various top
 
 
 <h4>News</h4><ul>
-<li><b>International project EPAA 2024-2025 approved!</b>  International coordinator for the EPAA (Entropy and Analysis of Algorithms) project Argentina,Chile,France,Uruguay. Website <a href="/stic-amsud-epaa">here</a></li>
+<li><b>International project <a href="/stic-amsud-epaa/">EPAA 2024-2025</a> meeting in Buenos Aires October 24 !</b>  Website <a href="/stic-amsud-epaa/kickoff/">here</a></li>
 <li>PC member of <a href="https://www.math.aau.at/AofA2024/">AofA2024</a>
 </li>
 <li>Judge for <a href="https://swerc.eu/2023/">SWERC 2023-2024</a>
