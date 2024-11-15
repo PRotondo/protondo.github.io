@@ -29,7 +29,7 @@ I work at the interface between Computer Science and Mathematics, in various top
 
 
 <h4>News</h4><ul>
-<li><b>International project <a href="/stic-amsud-epaa/">EPAA 2024-2025</a> meeting in Buenos Aires October 24 !</b>  Website <a href="/stic-amsud-epaa/kickoff/">here</a></li>
+<li><b>International project <a href="/stic-amsud-epaa/">EPAA 2024-2025</a> meeting in Buenos Aires October 24 !</b>  Website <a href="/stic-amsud-epaa-kickoff/">here</a></li>
 <li>PC member of <a href="https://www.math.aau.at/AofA2024/">AofA2024</a>
 </li>
 <li>Judge for <a href="https://swerc.eu/2023/">SWERC 2023-2024</a>
