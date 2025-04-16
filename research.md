@@ -30,6 +30,9 @@ Contents
 <h3 id='articles'>Articles</h3>
 
 <ol reversed>
+<li>  Mathematical Models to Analyze Lua Hybrid Tables  with  <a href="https://www.cs.upc.edu/~conrado/">Conrado Martínez</a> and <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
+Nicaud</a>. Accepted for publication in Theoretical Computer Science.  Long version. Preprint <a href="https://arxiv.org/abs/2208.13602" class="urlextern" title="https://arxiv.org/abs/2208.13602" rel="nofollow">arXiv:2208.13602</a>
+</li> 
 <li> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0012365X24000372">The effects of semantic simplifications on random
 BST-like expression-trees</a>, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Published in the Journal Discrete Mathematics, Volume 347, Issue 5, May 2024.
 </li> 
@@ -73,8 +76,7 @@ Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> 
 
 
 <ul>
-<li>  Mathematical Models to Analyze Lua Hybrid Tables and Why They Need a Fix , with  <a href="https://www.cs.upc.edu/~conrado/">Conrado Martínez</a> and <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
-Nicaud</a>.  Long version. Preprint <a href="https://arxiv.org/abs/2208.13602" class="urlextern" title="https://arxiv.org/abs/2208.13602" rel="nofollow">arXiv:2208.13602</a>
+<li>   Shannon Weights for binary dynamical recurrent sources of zero entropy   with Ali Akhavi, <a href="https://sites.google.com/site/edacesaratto/">Eda Cesaratto</a>, <a href="https://www.lamfa.u-picardie.fr/paccaut/">Frédéric Paccaut</a>, and <a href="https://vallee.users.greyc.fr/">Brigitte Vallée</a>. Preprint <a href="https://arxiv.org/abs/2504.03538" class="urlextern" title="https://arxiv.org/abs/2504.03538" rel="nofollow">arXiv:2208.13602</a>
 </li> 
 <li> Heuristic detection of universal subtrees in random regular expressions, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Long version.
 </li> 
