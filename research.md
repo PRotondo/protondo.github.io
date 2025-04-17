@@ -112,8 +112,7 @@ Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> 
 <h3> In preparation  </h3>
 
 <ul>
-    <li> Shannon weights for binary recurrent sources of zero entropy.
-    </li> 
+
     <li> The mirror expansion of complete systems.
     </li> 
 
