@@ -30,7 +30,7 @@ Contents
 <h3 id='articles'>Articles</h3>
 
 <ol reversed>
-<li>  Mathematical Models to Analyze Lua Hybrid Tables  with  <a href="https://www.cs.upc.edu/~conrado/">Conrado Martínez</a> and <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
+<li>  <a href="https://doi.org/10.1016/j.tcs.2025.115264">Mathematical Models to Analyze Lua Hybrid Tables</a>  with  <a href="https://www.cs.upc.edu/~conrado/">Conrado Martínez</a> and <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
 Nicaud</a>. Accepted for publication in Theoretical Computer Science.  Long version. Preprint <a href="https://arxiv.org/abs/2208.13602" class="urlextern" title="https://arxiv.org/abs/2208.13602" rel="nofollow">arXiv:2208.13602</a>
 </li> 
 <li> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0012365X24000372">The effects of semantic simplifications on random
