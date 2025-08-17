@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: clean
 title: Pablo Rotondo - STIC AmSud - EPAA
 permalink: /stic-amsud-epaa/virtual/
 ---
