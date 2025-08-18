@@ -30,10 +30,10 @@ Contents
 <h3 id='articles'>Articles</h3>
 
 <ol reversed>
-<li> Heuristic universality detection
-over regular expressions specified by systems, with <a href="http://igm.univ-mlv.fr/~pivoteau/">Carine Pivoteau</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a>. Accepted for the conference <a href="https://cida.uos.ac.kr/dlt2025/">DLT 2025</a>. </li>
+<li> <a href="https://hal.science/hal-05211135">Heuristic universality detection
+over regular expressions specified by systems</a>, with <a href="http://igm.univ-mlv.fr/~pivoteau/">Carine Pivoteau</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a>. Accepted for the conference <a href="https://cida.uos.ac.kr/dlt2025/">DLT 2025</a>. </li>
 <li>  <a href="https://doi.org/10.1016/j.tcs.2025.115264">Mathematical Models to Analyze Lua Hybrid Tables</a>  with  <a href="https://www.cs.upc.edu/~conrado/">Conrado Martínez</a> and <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
-Nicaud</a>. To appear in the journal Theoretical Computer Science, Volume 1044, 1 August 2025.  Preprint <a href="https://arxiv.org/abs/2208.13602" class="urlextern" title="https://arxiv.org/abs/2208.13602" rel="nofollow">arXiv:2208.13602</a>
+Nicaud</a>. Published in the Journal Theoretical Computer Science, Volume 1044, 1 August 2025.  Preprint <a href="https://arxiv.org/abs/2208.13602" class="urlextern" title="https://arxiv.org/abs/2208.13602" rel="nofollow">arXiv:2208.13602</a>
 </li> 
 <li> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0012365X24000372">The effects of semantic simplifications on random
 BST-like expression-trees</a>, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Published in the Journal Discrete Mathematics, Volume 347, Issue 5, May 2024.
