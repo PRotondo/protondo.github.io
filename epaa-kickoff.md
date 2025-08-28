@@ -1,7 +1,7 @@
 ---
 layout: clean
 title: STIC AmSud - EPAA
-permalink: /stic-amsud-epaa-kickoff/
+permalink: /stic-amsud-epaa/kickoff-meeting/
 ---
 
 <style>
