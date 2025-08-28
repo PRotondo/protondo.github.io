@@ -48,7 +48,7 @@ h2 {
 
 
 
-<ul><li>Final meeting: France, October 8--10, 2025.</li><li>Kick-off meeting: Buenos Aires (Argentina), October 21-25, 2024. Webpage <a href="/stic-amsud-epaa/kickoff-meeting/">here</a></li><li>Virtual meeting:  May 29-30, 2024. Webpage <a href="/stic-amsud-epaa/virtual-meeting/">here</a></li></ul>
+<ul><li>Final meeting: France, October 8-10, 2025.</li><li>Kick-off meeting: Buenos Aires (Argentina), October 21-25, 2024. Webpage <a href="/stic-amsud-epaa/kickoff-meeting/">here</a></li><li>Virtual meeting:  May 29-30, 2024. Webpage <a href="/stic-amsud-epaa/virtual-meeting/">here</a></li></ul>
 
 
 
