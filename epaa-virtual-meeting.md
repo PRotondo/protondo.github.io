@@ -1,6 +1,6 @@
 ---
 layout: clean
-title: Pablo Rotondo - STIC AmSud - EPAA
+title: Virtual meeting
 permalink: /stic-amsud-epaa/virtual-meeting/
 ---
 

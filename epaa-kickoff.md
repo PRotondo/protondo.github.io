@@ -1,6 +1,6 @@
 ---
 layout: clean
-title: STIC AmSud - EPAA
+title: Kickoff meeting
 permalink: /stic-amsud-epaa/kickoff-meeting/
 ---
 

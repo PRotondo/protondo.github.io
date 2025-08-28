@@ -32,7 +32,10 @@
 <!--          <li>-->
 <!--            <a href="/stic-amsud-epaa">Main page</a>-->
 <!--          </li>-->
-          
+<!--          {% assign epaa_pages = site.pages | where_exp: "p", "p.path contains 'epaa-'" %}-->
+<!--          {% for page in epaa_pages %}-->
+<!--            <li><a href="{{ page.url }}">{{ page.title }}</a></li>-->
+<!--          {% endfor %}-->
           <li>
             <a href="/stic-amsud-epaa/kickoff-meeting/">Kick-off meeting 2024</a>
           </li>

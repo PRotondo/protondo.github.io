@@ -1,6 +1,6 @@
 ---
 layout: clean
-title: STIC AmSud - EPAA
+title: Final meeting
 permalink: /stic-amsud-epaa/final-meeting/
 ---
 
@@ -31,10 +31,10 @@ permalink: /stic-amsud-epaa/final-meeting/
 
 
 		
-<p>The Final meeting of the <a href="/stic-amsud-epaa/">EPAA project</a> will take place at the Université Gustave Eiffel, Champs-Sur-Marne, France,  from October 8 to 10, 2025</p>
+<p>The Final meeting of the <a href="/stic-amsud-epaa/">EPAA project</a> will take place at the Université Gustave Eiffel, Champs-Sur-Marne, France,  from October 8 to 10, 2025.</p>
 
 
-
+<p><strong>Location</strong>: 4th floor of the <a href="https://maps.app.goo.gl/1YtC6Q9L4741UP9R6">Bâtiment Copernic</a>. See the map <a href="https://igm.univ-gustave-eiffel.fr/fileadmin/batiments/CITE_DESCARTES.pdf">here</a>.</p>
 <!--<p><strong>Organisers</strong>: Eda Cesaratto, Pablo Rotondo</p>-->
 
 
