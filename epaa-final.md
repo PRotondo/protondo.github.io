@@ -27,7 +27,7 @@ permalink: /stic-amsud-epaa/final-meeting/
 </style>
 
 
-<h1>Kick-off meeting — STIC AMSUD EPAA Project</h1>
+<h1>Final meeting — STIC AMSUD EPAA Project</h1>
 
 
 		
