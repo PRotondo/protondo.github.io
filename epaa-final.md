@@ -59,7 +59,7 @@ The meeting consists of two main parts: workshops and presentations
 <p><span class="time">14:00:</span> <a href="https://scholar.google.com/citations?user=mhF31ikAAAAJ">Eduardo Canale</a> (Universidad de la República) - Superfluous edges of de Bruijn and Kautz graphs. </p>
 </div>
 <div class="session">
-<p><span class="time">14:30:</span> <a href="/">Martin Pépin</a> (Université de Caen) - TBA.</p>
+<p><span class="time">14:30:</span> <a href="https://wkerl.me/">Martin Pépin</a> (Université de Caen) - TBA.</p>
 </div>
 <div class="session">
 <p><span class="time">Workshop:</span> 15:00 - 17:00</p>
