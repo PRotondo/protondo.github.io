@@ -31,12 +31,24 @@ permalink: /stic-amsud-epaa/final-meeting/
 
 
 		
-<p>The Final meeting of the <a href="/stic-amsud-epaa/">EPAA project</a> will take place at the Université Gustave Eiffel, Champs-Sur-Marne, France,  from October 8 to 10, 2025.</p>
 
 
-<p><strong>Location</strong>: 4th floor of the <a href="https://maps.app.goo.gl/1YtC6Q9L4741UP9R6">Bâtiment Copernic</a>. See the map <a href="https://igm.univ-gustave-eiffel.fr/fileadmin/batiments/CITE_DESCARTES.pdf">here</a>.</p>
+
 <!--<p><strong>Organisers</strong>: Eda Cesaratto, Pablo Rotondo</p>-->
 
+<div style="display:flex; align-items:center;">
+<div style="flex:1; padding-right:8em;">
+<p>The Final meeting of the <a href="/stic-amsud-epaa/">EPAA project</a> will take place at the Université Gustave Eiffel, Champs-Sur-Marne, France,  from October 8 to 10, 2025.</p>
+<p><strong>Location</strong>: 4th floor of the <a href="https://maps.app.goo.gl/1YtC6Q9L4741UP9R6">Bâtiment Copernic</a>. See the map <a href="https://igm.univ-gustave-eiffel.fr/fileadmin/batiments/CITE_DESCARTES.pdf">here</a>.</p>
+</div>
+<div>
+<img src="/assets/meeting-25/monge.jpg" alt="LIGM" style="max-width:100px;">
+</div>
+</div>
+
+<!--<center>-->
+<!--<img src="/assets/meeting-25/monge.jpg"  width="10%" >-->
+<!--</center>-->
 
 
 <!--<p><strong>Participants from the project</strong>: Álvaro Bustos, Valérie Berthé, Eduardo Canale, Paulina Cecchi, Eda Cesaratto, Julien Clément, Frédéric Paccaut, Martin Pépin, Claudio Qureshi, Martín Safe, Brigitte Vallée</p>-->
@@ -76,7 +88,7 @@ The meeting consists of two main parts: workshops and presentations
 <p><span class="time">11:00:</span> <a href="https://www.mat.uc.cl/personas/perfil/postdoc/abustog">Álvaro Bustos</a>  (Pontificia Universidad Católica de Chile) - Toeplitz words.  </p>
 </div>
 <div class="session">
-<p><span class="time">Almuerzo</span></p>
+<p><span class="time">Almuerzo!</span></p>
 </div>
 <div class="session">
 <p><span class="time">Workshop:</span> 14:00 - 17:00</p>
@@ -96,7 +108,7 @@ The meeting consists of two main parts: workshops and presentations
 <!--<p><span class="time">Pausa:</span> 15:40 - 16:00</p>-->
 <!--</div>-->
 <div class="session">
-<p><span class="time">Almuerzo</span></p>
+<p><span class="time">Almuerzo!</span></p>
 </div>
 <div class="session">
 <p><span class="time">Executive meeting:</span> 14:00- 14:30</p>
