@@ -68,7 +68,7 @@ The meeting consists of two main parts: workshops and presentations
 <h2>Wednesday 8 Oct, room 4B172</h2>
 <h3>Theme: Analytic Combinatorics</h3>
 <div class="session">
-<p><span class="time">14:00:</span> <a href="https://scholar.google.com/citations?user=mhF31ikAAAAJ">Eduardo Canale</a> (Universidad de la República) - Superfluous edges of de Bruijn and Kautz graphs. </p>
+<p><span class="time">14:00:</span> <a href="https://scholar.google.com/citations?user=mhF31ikAAAAJ">Eduardo Canale</a> (Universidad de la República) - Fault-Tolerant Optimal Embedding of the Complete Graph onto a Cycle. </p>
 </div>
 <div class="session">
 <p><span class="time">14:30:</span> <a href="https://wkerl.me/">Martin Pépin</a> (Université de Caen) - TBA.</p>
