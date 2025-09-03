@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<link href="https://fonts.googleapis.com/css?family=Merriweather:300|Raleway:400,700" rel="stylesheet">
+<link rel="stylesheet" href="/assets/css/style.css">
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <main class="container">
+      <section class="about">
+      <div class="about-header condensed">
+      <div class="about-title">
+      <a href="/stic-amsud-epaa">
+        
+        <img src="/assets/ostrowski-depth2.png" alt="EPAA" />
+        
+      </a>
+      <h2 id="title">
+        <a href="/stic-amsud-epaa">STIC AmSud EPAA 24-25</a>
+      </h2>
+<!--      </div><p class="tagline">maître de conférences</p></div>-->
+      
+      <ul class="social about-footer condensed"></ul><nav class="navigation about-footer condensed">
+        <ul>
+          
+<!--          <li>-->
+<!--            <a href="/stic-amsud-epaa">Main page</a>-->
+<!--          </li>-->
+          {% assign epaa_pages = site.pages | where_exp: "p", "p.path contains 'epaa-'" %}
+          {% for page in epaa_pages %}
+            <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+          {% endfor %}
+<!--          <li>-->
+<!--            <a href="/stic-amsud-epaa/kickoff-meeting/">Kick-off meeting 2024</a>-->
+<!--          </li>-->
+<!--          -->
+<!--          <li>-->
+<!--            <a href="/stic-amsud-epaa/virtual-meeting/">Virtual meeting 2024</a>-->
+<!--          </li>-->
+          
+        </ul>
+      </nav><p class="about-footer condensed">&copy;
+        2025</p>
+    </section>
+      <section class="content">
+      <div class="post-container">
+    <div class="post">
+    {{ content }}
+    
+    </div>
+</div>
+    </section>
+  </main>
+</body>
+</html>
+
