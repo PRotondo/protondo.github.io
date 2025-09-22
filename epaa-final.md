@@ -82,7 +82,7 @@ The meeting consists of two main parts: workshops and presentations
 <h2>Thursday 9 Oct, room 4B172</h2>
 <h3>Theme: Symbolic Dynamics</h3>
 <div class="session">
-<p><span class="time">10:30:</span> <a href="https://www-igm.univ-mlv.fr/~perrin/">Dominique Perrin</a>  (Université Gustave Eiffel) - TBA.  </p>
+<p><span class="time">10:30:</span> <a href="https://www-igm.univ-mlv.fr/~perrin/">Dominique Perrin</a>  (Université Gustave Eiffel) - Density of rational languages.  </p>
 </div>
 <div class="session">
 <p><span class="time">11:00:</span> <a href="https://www.mat.uc.cl/personas/perfil/postdoc/abustog">Álvaro Bustos</a>  (Pontificia Universidad Católica de Chile) - Toeplitz words.  </p>
