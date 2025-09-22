@@ -99,7 +99,7 @@ The meeting consists of two main parts: workshops and presentations
 <h2>Friday 10 Oct, room 4B125</h2>
 <h3>Theme: Dynamical Analysis</h3>
 <div class="session">
-<p><span class="time">10:00:</span> <a href="https://lamfa.u-picardie.fr/paccaut/">Frédéric Paccaut</a> (Université de Picardie) - TBA. </p>
+<p><span class="time">10:00:</span> <a href="https://lamfa.u-picardie.fr/paccaut/">Frédéric Paccaut</a> (Université de Picardie) - Shannon weights for sources with zero entropy. </p>
 </div>
 <div class="session">
 <p><span class="time">Workshop:</span> 10:30 - 12:30</p>
