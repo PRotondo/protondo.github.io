@@ -52,7 +52,7 @@ plainwhite:
   tagline: maître de conférences
 #  sitemap: true
 #  show_excerpts: true
-  portfolio_image: "assets/portfolio.png" 
+  portfolio_image: "assets/photo-eci-portfolio.png" 
   navigation:
 #    - title: Home
 #      url: ""
