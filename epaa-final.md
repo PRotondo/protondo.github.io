@@ -52,7 +52,7 @@ permalink: /stic-amsud-epaa/final-meeting/
 
 
 <p><strong>Participants from the project</strong>: Álvaro Bustos, Valérie Berthé, Eduardo Canale, Paulina Cecchi, Eda Cesaratto, Julien Clément, Loïck Lhote, Frédéric Paccaut, Martin Pépin, Claudio Qureshi, Martín Safe, Brigitte Vallée</p>
-<p><strong>Invited participants</strong>: Dominique Perrin, Marie-Pierre Béal</p>
+<p><strong>Invited participants</strong>: Marie-Pierre Béal, Dominique Perrin, Maria Clara Werneck</p>
 
 
 
