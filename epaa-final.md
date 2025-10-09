@@ -51,7 +51,7 @@ permalink: /stic-amsud-epaa/final-meeting/
 <!--</center>-->
 
 
-<p><strong>Participants from the project</strong>: Álvaro Bustos, Valérie Berthé, Eduardo Canale, Paulina Cecchi, Eda Cesaratto, Julien Clément, Loïck Lhote, Frédéric Paccaut, Martin Pépin, Claudio Qureshi, Martín Safe, Brigitte Vallée</p>
+<p><strong>Participants from the project</strong>: Álvaro Bustos, Valérie Berthé (IRIF-CNRS), Eduardo Canale  (UdelaR,UY), Paulina Cecchi, Eda Cesaratto (UNGS-UBA,AR), Julien Clément (UNICAEN-CNRS), Loïck Lhote (UNICAEN), Frédéric Paccaut (UPJV), Martin Pépin (UNICAEN), Claudio Qureshi (UdelaR,UY), Martín Safe (UNS,AR), Brigitte Vallée (UNICAEN-CNRS)</p>
 <p><strong>Invited participants</strong>: Marie-Pierre Béal, Dominique Perrin, Maria Clara Werneck</p>
 
 
@@ -85,7 +85,7 @@ The meeting consists of two main parts: workshops and presentations
 <p><span class="time">10:30:</span> <a href="https://www-igm.univ-mlv.fr/~perrin/">Dominique Perrin</a>  (Université Gustave Eiffel) - Density of rational languages.  </p>
 </div>
 <div class="session">
-<p><span class="time">11:00:</span> <a href="https://www.mat.uc.cl/personas/perfil/postdoc/abustog">Álvaro Bustos</a>  (Pontificia Universidad Católica de Chile) - Toeplitz words.  </p>
+<p><span class="time">11:00:</span> <a href="https://www.mat.uc.cl/personas/perfil/postdoc/abustog">Álvaro Bustos</a>  (U. de Chile) - <a href="./files/slides-epa/toeplitz-slides.pdf">Toeplitz words.</>  </p>
 </div>
 <div class="session">
 <p><span class="time">Almuerzo!</span></p>
