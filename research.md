@@ -165,7 +165,7 @@ and Fitting Interval Partitions</a>, Rencontre  des projets AleaEnAmSud et  Dyna
 
 <ul>
 <li>
-<a href="/files/notes/shuffling.pdf" rel="nofollow">Shuffling permutations by swapping random pairs</a>, notes, 7 pp., 2025. 
+<a href="/files/notes/shuffling.pdf" rel="nofollow">Shuffling permutations by swapping random pairs</a>, notes, 6 pp., 2025. 
 </li>
 <li>
 <a href="/files/notes/density-harmonic-sum.pdf" rel="nofollow">Convergence and natural density</a>, notes, 1 p., 2024. 
