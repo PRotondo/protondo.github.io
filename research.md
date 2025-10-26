@@ -171,7 +171,7 @@ and Fitting Interval Partitions</a>, Rencontre  des projets AleaEnAmSud et  Dyna
 <a href="/files/notes/density-harmonic-sum.pdf" rel="nofollow">Convergence and natural density</a>, notes, 1 p., 2024. 
 </li>
 <li>
-<a href="/filesnotes//GenerationCoinTossing.pdf" rel="nofollow">Generating a random variable by coin tossing</a>, research notes, 7 pp., 2017. 
+<a href="/files/notes/GenerationCoinTossing.pdf" rel="nofollow">Generating a random variable by coin tossing</a>, research notes, 7 pp., 2017. 
 <!--Related presentation <a href="https://www.irif.fr/~dyna3s/uploads/Main/2017_07_Rotondo1.pdf">here</a>.-->
 </li>
 <li>
