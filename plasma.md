@@ -27,6 +27,8 @@ Contents
 <nav class="navigation">
 <a href="#description">Description</a> - 
 <a href="#members">Members</a> 
+-
+<a href="#opportunities">Job opportunities</a> 
 <!----->
 <!--<a href="#meeting">Meeting</a> -->
 </nav>
@@ -50,7 +52,7 @@ These studies will require us to simplify and formalize the various architectura
 <!--Hybrid Tables. Accepted at COCOON 2022. https://arxiv.org/abs/2208.13602-->
 <!--<a href="/files/Pres_COCOON_22-1.pdf">A Probabilistic Model Revealing Shortcomings in Lua’s Hybrid Tables</a>, COCOON 2022, Online, 23 Octobre, 2022.-->
 
-<h3 id='funding'>Funding</h3>
+<h3 id='opportunities'>Funding</h3>
 We have funding for a post-doc (one year) at the Université de Caen, a PhD at Université Gustave Eiffel, and three internships (3 months).
 
 
