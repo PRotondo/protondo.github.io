@@ -30,9 +30,9 @@ I work at the interface between Computer Science and Mathematics, in various top
 
 <h4>News</h4>
 <ul>
-<li>My notes and exercises for the first four lectures MPRI course on AOFA can be found <a href="/algo-mpri-25/">here</a>.</li>
+<li>My notes and exercises for the first four lectures of the MPRI course on AOFA can be found <a href="/algo-mpri-25/">here</a>.</li>
 <li><b>ANR Project <a href="/anr-plasma/">Plasma 2026-2029</a> approved !</b> </li>
-<li><b>International project <a href="/stic-amsud-epaa/">EPAA 2024-2025</a> meeting in Champs-Sur-Marne 25 !</b>  Website <a href="/stic-amsud-epaa/final-meeting/">here</a></li>
+<li><b>International project <a href="/stic-amsud-epaa/">EPAA 2024-2025</a> meeting in Champs-Sur-Marne October 2025 !</b>  Website <a href="/stic-amsud-epaa/final-meeting/">here</a></li>
 <li>Instructor for the 38th Escuela de Ciencias Informáticas <a href="https://eci.dc.uba.ar/">ECI 2025</a> in Buenos Aires, Argentina. Course material <a href="/eci-25/">here</a></li>
 <!--<li><b>International project <a href="/stic-amsud-epaa/">EPAA 2024-2025</a> meeting in Buenos Aires October 24 !</b>  Website <a href="/stic-amsud-epaa/kickoff-meeting/">here</a></li>-->
 <li>PC member of <a href="https://www.math.aau.at/AofA2024/">AofA2024</a>
