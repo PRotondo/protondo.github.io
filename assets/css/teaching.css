@@ -1,0 +1,49 @@
+.teaching-header {
+  display: flex;
+/*  flex-direction: row-reverse; /* ← THIS puts the photo on the right */*/
+  gap: 2rem;
+  align-items: center;
+  margin-bottom: 3rem;
+}
+
+.teaching-photo {
+  width: 220px;
+  border-radius: 12px;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.15);
+  margin-left: 3rem; 
+}
+
+
+.teaching-intro {
+  max-width: 650px;
+}
+
+@media (max-width: 700px) {
+  .teaching-header {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+
+.courses-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+
+.course-card {
+  padding: 1.2rem;
+  border-radius: 12px;
+  background: #f9f9f9;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.06);
+}
+
+.course-card h3 {
+  margin-top: 0;
+}
+
+.course-card .meta {
+  font-size: 0.9rem;
+  color: #666;
+}
+
