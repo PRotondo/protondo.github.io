@@ -12,7 +12,7 @@ permalink: /teaching/
 <div class="teaching-header">
   <p class="teaching-intro"> I am a Maître de Conférences (Associate Professor) in Informatics at Université Gustave Eiffel.
     My teaching focuses mainly on several aspects of programming. I teach at various levels, Master 1 (first year of master), École d'Ingénieurs, and Licence 3. I also intervene in the course in Analysis of Algorithms in The Parisian Master of Research in Computer Science (MPRI). </p>
-  <img src="/assets/photo-swerc.jpeg" class="teaching-photo" alt="Pablo Rotondo during SWERC analysis session">
+  <img src="/assets/photo-eci2.jpg" class="teaching-photo" alt="Pablo Rotondo during SWERC analysis session">
 </div>
 
 <p></p>
