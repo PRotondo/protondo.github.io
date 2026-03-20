@@ -3,6 +3,11 @@ layout: page
 title: Pablo Rotondo - research
 permalink: /research/
 ---
+
+<link rel="stylesheet" href="/assets/css/teaching.css">
+<link rel="stylesheet"
+ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
 <!--<script type="text/javascript" async-->
 <!--  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">-->
 <!--</script>-->
@@ -13,12 +18,21 @@ permalink: /research/
 <link rel="stylesheet" type="text/css" href="http://tikzjax.com/v1/fonts.css">
 <script src="https://tikzjax-demo.glitch.me/tikzjax.js"></script>
 
+<h1>Research</h1>
 
+
+<div class="teaching-header">
+  <p class="teaching-intro"> I am a Maître de Conférences (Associate Professor) in Informatics at Université Gustave Eiffel.
+     I work at the interface between Computer Science and Mathematics, in various topics in data structures and algorithms, that are linked by the presence of randomness in the models. </p>
+  <img src="/assets/photo-eci2.jpg" class="teaching-photo" alt="Pablo Rotondo during SWERC analysis session">
+</div>
+
+<!--<p></p>-->
 <!--<center>-->
 <!--<img src="/assets/outname-1.png">-->
 <!--</center>-->
 
-Contents
+<h4>Contents</h4>
 <nav class="navigation">
 <a href="#articles">Articles</a> - 
 <a href="#slides">Slides</a> -
@@ -127,6 +141,7 @@ Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> 
 <h3 id='slides'>Slides</h3>
 
 <ul >
+<li> <a href="/files/slides-epa/Res_ROUEN_25.pdf">Semantic reductions in random expression trees</a>, Journée mathématiques informatique, Rouen, 12 December, 2025.</li>
 <li> <a href="/files/slides-epa/pres-epa-lochs.pdf">Change of basis in Numeration Systems</a>, Meeting STIC-AmSud,EPAA, Buenos Aires, 23 October, 2024.</li>
 <li> <a href="/files/lua-ligm-23.pdf">A Probabilistic Model Revealing Shortcomings in Lua’s Hybrid Tables</a>, Séminaire LIGM, 4 April, 2023.</li>
 <li> <a href="/files/PresRapa2_2021.pdf">Lochs' index: weight function and change of basis</a>, Meeting STIC-AmSud, RAPA2,Online, 7 December, 2021.</li>
