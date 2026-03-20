@@ -142,7 +142,7 @@ Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> 
 
 <ul >
 <li> <a href="/files/slides-epa/Res_ROUEN_25.pdf">Semantic reductions in random expression trees</a>, Journée mathématiques informatique, Rouen, 12 December, 2025.</li>
-<li> <a href="/files/slides-epa/pres-epa-lochs.pdf">Change of basis in Numeration Systems</a>, Meeting STIC-AmSud,EPAA, Buenos Aires, 23 October, 2024.</li>
+<li> <a href="/files/pres-epa-lochs.pdf">Change of basis in Numeration Systems</a>, Meeting STIC-AmSud,EPAA, Buenos Aires, 23 October, 2024.</li>
 <li> <a href="/files/lua-ligm-23.pdf">A Probabilistic Model Revealing Shortcomings in Lua’s Hybrid Tables</a>, Séminaire LIGM, 4 April, 2023.</li>
 <li> <a href="/files/PresRapa2_2021.pdf">Lochs' index: weight function and change of basis</a>, Meeting STIC-AmSud, RAPA2,Online, 7 December, 2021.</li>
 <li> <a href="/files/Pres_CSR_21.pdf">Analysis of an efficient reduction algorithm for random regular expressions based on universality detection</a>, CSR 2021, 30 June 2021.
