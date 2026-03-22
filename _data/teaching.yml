@@ -52,7 +52,11 @@ current:
     icon: "tasks"
 #    description: "Advanced Java programming, OOP, design patterns, and concurrency."
 
-
+  - title: "Algorithmique et structures de données"
+    level: "L2 Informatique"
+    year: "2025-2026"
+    hours: "24h"
+    icon: "tasks"
 
 past:
   - title: "Algorithmique avancée (TD)"
