@@ -24,7 +24,7 @@ permalink: /research/
 <div class="teaching-header">
   <p class="teaching-intro"> I am a Maître de Conférences (Associate Professor) in Informatics at Université Gustave Eiffel.
      I work at the interface between Computer Science and Mathematics, in various topics in data structures and algorithms, that are linked by the presence of randomness in the models. </p>
-  <img src="/assets/photo-eci2.jpg" class="teaching-photo" alt="Pablo Rotondo during SWERC analysis session">
+  <img src="/assets/photo-swerc.jpeg" class="teaching-photo" alt="Pablo Rotondo during SWERC analysis session">
 </div>
 
 <!--<p></p>-->
@@ -145,8 +145,8 @@ Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> 
 <li> <a href="/files/slides-epa/pres-epa-lochs.pdf">Change of basis in Numeration Systems</a>, Meeting STIC-AmSud,EPAA, Buenos Aires, 23 October, 2024.</li>
 <li> <a href="/files/lua-ligm-23.pdf">A Probabilistic Model Revealing Shortcomings in Lua’s Hybrid Tables</a>, Séminaire LIGM, 4 April, 2023.</li>
 <li> <a href="/files/PresRapa2_2021.pdf">Lochs' index: weight function and change of basis</a>, Meeting STIC-AmSud, RAPA2,Online, 7 December, 2021.</li>
-<li> <a href="/files/Pres_CSR_21.pdf">Analysis of an efficient reduction algorithm for random regular expressions based on universality detection</a>, CSR 2021, 30 June 2021.
-</li>
+<!--<li> <a href="/files/Pres_CSR_21.pdf">Analysis of an efficient reduction algorithm for random regular expressions based on universality detection</a>, CSR 2021, 30 June 2021.-->
+<!--</li>-->
 <li> <a href="/files/Pres_STACS_21.pdf">Absorbing patterns in BST-like expression-trees</a>, STACS 2021, Online, March 2021. Video available <a href="https://www.youtube.com/watch?v=KRpaCEnCMvE">here</a>.
 </li>
 <li> <a href="/files/PresSTIC_AmSud20.pdf" rel="nofollow">Change of basis towards sources of zero entropy</a>, Meeting of the project STIC-AmSud Rapa2, Online, 11 December 2020.
@@ -155,8 +155,8 @@ Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> 
 </li>
 <!--<li> <a href="/files/Pres_Normastic_2019.pdf">Recurrence of substitutive Sturmian words</a>, Journees Normastic (axe AlgoComb), Univ. Caen, France, May 28, 2019. <em>Here I present the completed work for the quadratic irrational case (unpublished for the moment).</em>-->
 <!--</li>-->
-<li> <a href="https://www.irif.fr/_media/users/rotondo/pres_combi.pdf" class="media mediafile mf_pdf" title="users:rotondo:pres_combi.pdf (1.3&nbsp;MB)">Probabilistic studies in Number Theory and Word Combinatorics: instances of dynamical analysis</a>, Seminaire Combinatoire, IRIF, Paris, May 24, 2018.
-</li>
+<!--<li> <a href="https://www.irif.fr/_media/users/rotondo/pres_combi.pdf" class="media mediafile mf_pdf" title="users:rotondo:pres_combi.pdf (1.3&nbsp;MB)">Probabilistic studies in Number Theory and Word Combinatorics: instances of dynamical analysis</a>, Seminaire Combinatoire, IRIF, Paris, May 24, 2018.-->
+<!--</li>-->
 <li> <a href="https://www.irif.fr/_media/users/rotondo/prescaen18.pdf" class="media mediafile mf_pdf" title="users:rotondo:prescaen18.pdf (524&nbsp;KB)">The Continued Logarithm Algorithm. A probabilistic study</a>, Seminaire ALGO, GREYC, Caen, February 20, 2018. 
 </li>
 <!--<li> <a href="https://www.irif.fr/~dyna3s/uploads/Main/2017_07_Rotondo3.pdf" class="urlextern" title="https://www.irif.fr/~dyna3s/uploads/Main/2017_07_Rotondo3.pdf" rel="nofollow">Recurrence function of Sturmian sequences:-->
