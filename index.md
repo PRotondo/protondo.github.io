@@ -11,9 +11,9 @@ permalink: /
 
 <div class="hero">
 <div class="intro">
-<h1>Pablo Rotondo</h1>
+<!--<h1>Pablo Rotondo</h1>-->
 <p class="hero-intro">
- I am currently a maître de conférences (associate professor) at the Université Gustave Eiffel (ex Paris-Est Marne-la-Vallée), [Laboratoire d'informatique Gaspard-Monge][ligm] (LIGM, UMR8049), team BAAM.    I work at the interface between Computer Science and Mathematics, in various topics in data structures and algorithms, that are linked by the presence of randomness in the models. See section <a href="/research/">research</a> for more.
+ I am a maître de conférences (associate professor) at the Université Gustave Eiffel (ex Paris-Est Marne-la-Vallée), [Laboratoire d'informatique Gaspard-Monge][ligm] (LIGM, UMR8049), team BAAM.    I work at the interface between Computer Science and Mathematics, in various topics in data structures and algorithms, that are linked by the presence of randomness in the models. See section <a href="/research/">research</a> for more.
 <!--  Previously, I was an ATER (teaching and research assistant) at the same university, and a post-doctoral researcher at the Université de Rouen (Normandie), laboratory [LITIS][litis].-->
   </p>
 
