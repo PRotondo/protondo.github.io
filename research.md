@@ -24,7 +24,7 @@ permalink: /research/
 <div class="teaching-header">
   <p class="teaching-intro"> I am a Maître de Conférences (Associate Professor) in Informatics at Université Gustave Eiffel.
      I work at the interface between Computer Science and Mathematics, in various topics in data structures and algorithms, that are linked by the presence of randomness in the models. </p>
-  <img src="/assets/photo-swerc.jpeg" class="teaching-photo" alt="Pablo Rotondo during SWERC analysis session">
+  <img src="/assets/photo-eci2.jpg" class="teaching-photo" alt="Pablo Rotondo during SWERC analysis session">
 </div>
 
 <!--<p></p>-->
