@@ -1,0 +1,67 @@
+.pub-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.pub-card {
+  padding: 1rem;
+  border-radius: 12px;
+  background: #f9f9f9;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+  transition: transform 0.2s;
+}
+
+.pub-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 15px rgba(0,0,0,0.12);
+}
+
+.pub-card.featured {
+  background: #fff8e1; /* light yellow to highlight */
+  border-left: 4px solid #ffb400;
+}
+
+.pub-card h3 {
+  margin-top: 0;
+  font-size: 1.1rem;
+}
+
+.pub-card .venue {
+  color: #555;
+  font-size: 0.9rem;
+  margin-bottom: 0.5rem;
+}
+
+.pub-card details summary {
+  cursor: pointer;
+  font-weight: bold;
+  margin-bottom: 0.3rem;
+}
+
+.pub-card .links a {
+  text-decoration: none;
+  color: #007acc;
+  font-weight: 500;
+}
+
+.pub-card .links a:hover {
+  text-decoration: underline;
+}
+
+details summary {
+  cursor: pointer;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+details[open] summary::after {
+  content: "▲"; /* arrow for open */
+  float: right;
+}
+
+details summary::after {
+  content: "▼"; /* arrow for closed */
+  float: right;
+}
