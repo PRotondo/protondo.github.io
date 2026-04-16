@@ -18,7 +18,7 @@ permalink: /teaching/
 <p></p>
 
 ## 📌 Current Teaching
- 
+
 <div class="courses-grid">
 {% for course in site.data.teaching.current %}
 <div class="course-card">
@@ -43,6 +43,45 @@ permalink: /teaching/
 {% if course.links.github %}
 • <a href="{{ course.links.github }}">
   <i class="fa-brands fa-github"></i> Resources
+</a>
+{% endif %}
+</p>
+{% endif %}
+</div>
+{% endfor %}
+</div>
+
+## 🎓 Other Teaching
+
+<div class="courses-grid">
+{% for course in site.data.teaching.invited %}
+<div class="course-card special">
+<h3>
+  <i class="fa-solid fa-{{ course.icon }}"></i>
+  {{ course.title }}
+</h3>
+
+<p class="meta">
+  {{ course.institution }} • {{ course.year }} • {{ course.hours }}
+</p>
+
+<p>{{ course.description }}</p>
+
+{% if course.links %}
+<p class="links">
+{% if course.links.website %}
+<a href="{{ course.links.website }}">
+  <i class="fa-solid fa-globe"></i> Course page
+</a>
+{% endif %}
+{% if course.links.notes %}
+• <a href="{{ course.links.notes }}">
+  <i class="fa-solid fa-book"></i> Lecture notes
+</a>
+{% endif %}
+{% if course.links.syllabus %}
+• <a href="{{ course.links.syllabus }}">
+  <i class="fa-solid fa-file-pdf"></i> Syllabus
 </a>
 {% endif %}
 </p>

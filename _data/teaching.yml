@@ -23,13 +23,13 @@ current:
     year: "2025-2026"
     hours: "30h"
     icon: "terminal"
-    
+
   - title: "Java Coding Camp"
     level: "L3 Informatique (Option)"
     year: "2025-2026"
     hours: "8h"
     icon: "code"
-    
+
 
   - title: "Java avancé (TP)"
     level: "M1 Informatique"
@@ -85,3 +85,22 @@ past:
     year: "2020"
     level: "L3"
     hours: "48h"
+
+invited:
+  - title: "Analysis of Algorithms"
+    icon: "chart-line"
+    institution: "MPRI (Master Parisien de Recherche en Informatique)"
+    year: "2025–"
+    hours: "Lectures / exercise sessions 12 hours"
+    description: "Teaching in a graduate-level course on advanced algorithm analysis."
+    links:
+      notes: "https://protondo.github.io/algo-mpri-25/"
+
+  - title: "Análisis Probilístico de Algoritmos"
+    icon: "laptop-code"
+    institution: "ECI – Escuela de Ciencias Informáticas (UBA)"
+    year: "2025"
+    hours: "15-hour intensive course"
+    description: "Invited course at the international school ECI offering advanced topics in computer science."
+    links:
+      website: "https://protondo.github.io/eci-25/"
