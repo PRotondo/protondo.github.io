@@ -35,7 +35,7 @@ permalink: /research/
 <h4>Contents</h4>
 <nav class="navigation">
 <a href="#articles">Articles</a> -
-<a href="#preprints">Slides</a> -
+<a href="#preprints">Preprints</a> -
 <a href="#slides">Slides</a> -
 <a href="#misc">Miscellaneous</a> -
 <a href="#phd">PhD thesis</a>
