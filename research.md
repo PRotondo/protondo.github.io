@@ -134,7 +134,7 @@ Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> 
     </li>
 
 <!--<li> Recurrence of substitutive Sturmian words, with <a href="https://vallee.users.greyc.fr/">Brigitte Vallée</a> .-->
-<!--    </li> -->
+<!--    </li>
 </ul>-->
 
 
