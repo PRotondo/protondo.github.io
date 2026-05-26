@@ -35,6 +35,7 @@ permalink: /research/
 <h4>Contents</h4>
 <nav class="navigation">
 <a href="#articles">Articles</a> -
+<a href="#preprints">Slides</a> -
 <a href="#slides">Slides</a> -
 <a href="#misc">Miscellaneous</a> -
 <a href="#phd">PhD thesis</a>
@@ -87,7 +88,7 @@ Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> 
 </li>
 
 
-<h3> Preprints  </h3>
+<h3 id='preprints'> Preprints  </h3>
 <!--<h3> Submitted  </h3>-->
 
 
