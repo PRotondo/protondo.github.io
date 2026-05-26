@@ -34,7 +34,7 @@ permalink: /research/
 
 <h4>Contents</h4>
 <nav class="navigation">
-<a href="#articles">Articles</a> - 
+<a href="#articles">Articles</a> -
 <a href="#slides">Slides</a> -
 <a href="#misc">Miscellaneous</a> -
 <a href="#phd">PhD thesis</a>
@@ -46,56 +46,57 @@ permalink: /research/
 <ol reversed>
 <li> <a href="https://hal.science/hal-05211135">Heuristic universality detection
 over regular expressions specified by systems</a>, with <a href="http://igm.univ-mlv.fr/~pivoteau/">Carine Pivoteau</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a>. Accepted for the conference <a href="https://cida.uos.ac.kr/dlt2025/">DLT 2025</a>. </li>
-<li>  <a href="https://doi.org/10.1016/j.tcs.2025.115264">Mathematical Models to Analyze Lua Hybrid Tables</a>  with  <a href="https://www.cs.upc.edu/~conrado/">Conrado Martínez</a> and <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
+<li>  <a href="https://doi.org/10.1016/j.tcs.2025.115264">Mathematical Models to Analyze Lua Hybrid Tables</a>  with  <a href="https://www.cs.upc.edu/~conrado/">Conrado Martínez</a> and <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril
 Nicaud</a>. Published in the Journal Theoretical Computer Science, Volume 1044, 1 August 2025.  Preprint <a href="https://arxiv.org/abs/2208.13602" class="urlextern" title="https://arxiv.org/abs/2208.13602" rel="nofollow">arXiv:2208.13602</a>
-</li> 
+</li>
 <li> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0012365X24000372">The effects of semantic simplifications on random
 BST-like expression-trees</a>, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Published in the Journal Discrete Mathematics, Volume 347, Issue 5, May 2024.
-</li> 
+</li>
 <li><a href="https://link.springer.com/article/10.1007/s00605-022-01805-y">Lochs-type theorems beyond positive entropy</a>, with  <a href="https://www.irif.fr/~berthe/">Valérie Berthé</a>, <a href="https://sites.google.com/site/edacesaratto/">Eda Cesaratto</a>, and <a href="http://www.matematica.uns.edu.ar/webs/msafe/">Martín D. Safe</a>. Published in the journal Monatshefte für Mathematik, Volume 200, pages 737-779, 6 January 2023. Preprint <a href="https://arxiv.org/abs/2202.04008v1" class="urlextern" title="https://arxiv.org/abs/2202.04008v1" rel="nofollow">arXiv:2202.04008v1</a>
-</li> 
-<li> <a href="https://link.springer.com/chapter/10.1007/978-3-031-22105-7_34">A Probabilistic Model Revealing Shortcomings in Lua's Hybrid Tables</a>, with  <a href="https://www.cs.upc.edu/~conrado/">Conrado Martínez</a> and <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
-Nicaud</a>. Published in the Proceedings of the 28th International Conference, Computing and Combinatorics <a href="http://cocoon-conference.org/2022/">COCOON 2022</a>. 
-    </li> 
-<li> <a href="http://igm.univ-mlv.fr/~koechlin/Special_Issue_DLT20.pdf">Simplifications of Uniform Expressions Specified by Systems</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
+</li>
+<li> <a href="https://link.springer.com/chapter/10.1007/978-3-031-22105-7_34">A Probabilistic Model Revealing Shortcomings in Lua's Hybrid Tables</a>, with  <a href="https://www.cs.upc.edu/~conrado/">Conrado Martínez</a> and <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril
+Nicaud</a>. Published in the Proceedings of the 28th International Conference, Computing and Combinatorics <a href="http://cocoon-conference.org/2022/">COCOON 2022</a>.
+    </li>
+<li> <a href="http://igm.univ-mlv.fr/~koechlin/Special_Issue_DLT20.pdf">Simplifications of Uniform Expressions Specified by Systems</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril
 Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . special issue DLT'20, International Journal of Foundations of Computer Science (IJFCS).
-    </li> 
+    </li>
 
-<li>     <a href="https://www.worldscientific.com/doi/abs/10.1142/S012905412141001X">Random Regular Expression Over Huge Alphabets</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
+<li>     <a href="https://www.worldscientific.com/doi/abs/10.1142/S012905412141001X">Random Regular Expression Over Huge Alphabets</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril
 Nicaud</a>. International Journal of Foundations of Computer Science, 2021.
-    </li> 
+    </li>
 <li> <a href="http://dx.doi.org/10.1007/978-3-030-79416-3_12">Analysis of an efficient reduction algorithm for random regular expressions based on universality detection</a>, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Published in the Proceedings of the 16th International Computer Science Symposium, CSR 2021.
-    </li> 
+    </li>
 <li> <a href="https://drops.dagstuhl.de/opus/volltexte/2021/13693/pdf/LIPIcs-STACS-2021-48.pdf"> Absorbing patterns in BST-like expression-trees</a>, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Published in the Proceedings of the 38th International Symposium on Theoretical Aspects of Computer Science (STACS 2021).
 </li>
-<li> <a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48516-0_13.pdf"> On the Degeneracy of Random Expressions Specified by Systems of Combinatorial Equations</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
+<li> <a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48516-0_13.pdf"> On the Degeneracy of Random Expressions Specified by Systems of Combinatorial Equations</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril
 Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Published in the Proceedings of the 24th International Conference
 in Developments in Language Theory DLT 2020.
 </li>
     <li> <a href="https://drops.dagstuhl.de/opus/volltexte/2020/12034/pdf/LIPIcs-AofA-2020-4.pdf"> Two arithmetical sources and their associated tries</a>, with <a href="https://www.irif.fr/~berthe/">Valérie Berthé</a>, <a href="https://sites.google.com/site/edacesaratto/">Eda Cesaratto</a>, <a href="https://www.lamfa.u-picardie.fr/paccaut/">Frédéric Paccaut</a>, <a href="http://www.matematica.uns.edu.ar/webs/msafe/">Martín D. Safe</a> and <a href="https://vallee.users.greyc.fr/">Brigitte Vallée</a>.  Published in the Proceedings of AofA 2020.
-    </li> 
-<li> <a href="http://drops.dagstuhl.de/opus/volltexte/2019/10995/pdf/LIPIcs-MFCS-2019-51.pdf" class= "urlextern" title="http://drops.dagstuhl.de/opus/volltexte/2019/10995" rel="nofollow">Uniform Random Expressions Lack Expressivity</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril 
+    </li>
+<li> <a href="http://drops.dagstuhl.de/opus/volltexte/2019/10995/pdf/LIPIcs-MFCS-2019-51.pdf" class= "urlextern" title="http://drops.dagstuhl.de/opus/volltexte/2019/10995" rel="nofollow">Uniform Random Expressions Lack Expressivity</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril
 Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> ; <a href="http://drops.dagstuhl.de/opus/volltexte/2019/10995/"> Published</a> in the proceedings of the 44th International Symposium on Mathematical Foundations of Computer Science (MFCS 2019).
-    </li> 
+    </li>
 <li> <a href="https://link.springer.com/chapter/10.1007/978-3-319-77404-6_61">Analysis of the Continued Logarithm Algorithm</a>, with Brigitte Vallée and Alfredo Viola ; Published in the proceedings of <a href="http://latin2018.dc.uba.ar/#" class="urlextern" title="http://latin2018.dc.uba.ar/#" rel="nofollow">LATIN 2018</a>.  Preprint <a href="https://arxiv.org/abs/1801.10139" class="urlextern" title="https://arxiv.org/abs/1801.10139" rel="nofollow">arXiv:1801.10139</a>
 </li>
 
 <li> <a href="http://epubs.siam.org/doi/abs/10.1137/1.9781611974775.10" class="urlextern" title="http://epubs.siam.org/doi/abs/10.1137/1.9781611974775.10" rel="nofollow">The recurrence function of a random Sturmian word</a>, with Brigitte Vallée ; Published in the Proceedings of the Fourteenth Workshop on Analytic Algorithmics and Combinatorics (ANALCO 2017)
 . Preprint <a href="https://arxiv.org/abs/1610.01479" class="urlextern" title="https://arxiv.org/abs/1610.01479" rel="nofollow">arXiv:1610.01479</a>
-</li> 
+</li>
 <li> <a href="https://www.irif.univ-paris-diderot.fr/~berthe/Articles/mfcs.pdf" class="urlextern" title="https://www.irif.univ-paris-diderot.fr/~berthe/Articles/mfcs.pdf" rel="nofollow">Recurrence function on Sturmian words: a probabilistic study</a>, with Valérie Berthé, Eda Cesaratto, Brigitte Vallée and Alfredo Viola ;  Published in the proceedings the 40th International Symposium on Mathematical Foundations of Computer Science (MFCS 2015).
 </li>
 
 
-
-<h3> Submitted  </h3>
+<h3> Preprints  </h3>
+<!--<h3> Submitted  </h3>-->
 
 
 <ul>
+<li>  Efficient Uniform Sampling of Surjections via their Profiles with Arnaud Carayol. Preprint<a href="https://arxiv.org/abs/2605.24068"> arXiv:2605.24068</a> </li>
 <li>   Shannon Weights for binary dynamical recurrent sources of zero entropy   with Ali Akhavi, <a href="https://sites.google.com/site/edacesaratto/">Eda Cesaratto</a>, <a href="https://www.lamfa.u-picardie.fr/paccaut/">Frédéric Paccaut</a>, and <a href="https://vallee.users.greyc.fr/">Brigitte Vallée</a>. Preprint <a href="https://arxiv.org/abs/2504.03538" class="urlextern" title="https://arxiv.org/abs/2504.03538" rel="nofollow">arXiv:2208.13602</a>
-</li> 
-<li> Heuristic detection of universal subtrees in random regular expressions, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Long version.
-</li> 
+</li>
+<!--<li> Heuristic detection of universal subtrees in random regular expressions, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Long version.
+</li>-->
 <!--<li> <a href="http://igm.univ-mlv.fr/~koechlin/Special_Issue_DLT20.pdf">Simplifications of Uniform Expressions Specified by Systems</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril -->
 <!--Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . special issue DLT'20, International Journal of Foundations of Computer Science (IJFCS).-->
 <!--    </li> -->
@@ -125,16 +126,16 @@ Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> 
 <!--\draw (0.5,0) node [below]  {0} -- (1.5,0) node [below] {0} -- (2.5,0) node [below] {1} -- (3.5,0) node [below] {0} -- (4.5,0) node [below] {0} -- (5.5,0) node [below] {1} -- (6.5,0) node [below] {0} -- (7.5,0) node [below] {1} -- (8.5,0) node [below] {0} -- (9.5,0) node [below] {0} -- (10,0);-->
 
 
-<h3> In preparation  </h3>
+<!--<h3> In preparation  </h3>
 
 <ul>
 
     <li> The mirror expansion of complete systems.
-    </li> 
+    </li>
 
 <!--<li> Recurrence of substitutive Sturmian words, with <a href="https://vallee.users.greyc.fr/">Brigitte Vallée</a> .-->
 <!--    </li> -->
-</ul>
+</ul>-->
 
 
 
@@ -157,7 +158,7 @@ Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> 
 <!--</li>-->
 <!--<li> <a href="https://www.irif.fr/_media/users/rotondo/pres_combi.pdf" class="media mediafile mf_pdf" title="users:rotondo:pres_combi.pdf (1.3&nbsp;MB)">Probabilistic studies in Number Theory and Word Combinatorics: instances of dynamical analysis</a>, Seminaire Combinatoire, IRIF, Paris, May 24, 2018.-->
 <!--</li>-->
-<li> <a href="https://www.irif.fr/_media/users/rotondo/prescaen18.pdf" class="media mediafile mf_pdf" title="users:rotondo:prescaen18.pdf (524&nbsp;KB)">The Continued Logarithm Algorithm. A probabilistic study</a>, Seminaire ALGO, GREYC, Caen, February 20, 2018. 
+<li> <a href="https://www.irif.fr/_media/users/rotondo/prescaen18.pdf" class="media mediafile mf_pdf" title="users:rotondo:prescaen18.pdf (524&nbsp;KB)">The Continued Logarithm Algorithm. A probabilistic study</a>, Seminaire ALGO, GREYC, Caen, February 20, 2018.
 </li>
 <!--<li> <a href="https://www.irif.fr/~dyna3s/uploads/Main/2017_07_Rotondo3.pdf" class="urlextern" title="https://www.irif.fr/~dyna3s/uploads/Main/2017_07_Rotondo3.pdf" rel="nofollow">Recurrence function of Sturmian sequences:-->
 <!--A probabilistic study over-->
@@ -180,20 +181,20 @@ and Fitting Interval Partitions</a>, Rencontre  des projets AleaEnAmSud et  Dyna
 
 <ul>
 <li>
-<a href="/files/notes/shuffling.pdf" rel="nofollow">Shuffling permutations by swapping random pairs</a>, notes, 6 pp., 2025. 
+<a href="/files/notes/shuffling.pdf" rel="nofollow">Shuffling permutations by swapping random pairs</a>, notes, 6 pp., 2025.
 </li>
 <li>
-<a href="/files/notes/density-harmonic-sum.pdf" rel="nofollow">Convergence and natural density</a>, notes, 1 p., 2024. 
+<a href="/files/notes/density-harmonic-sum.pdf" rel="nofollow">Convergence and natural density</a>, notes, 1 p., 2024.
 </li>
 <li>
-<a href="/files/notes/GenerationCoinTossing.pdf" rel="nofollow">Generating a random variable by coin tossing</a>, research notes, 7 pp., 2017. 
+<a href="/files/notes/GenerationCoinTossing.pdf" rel="nofollow">Generating a random variable by coin tossing</a>, research notes, 7 pp., 2017.
 <!--Related presentation <a href="https://www.irif.fr/~dyna3s/uploads/Main/2017_07_Rotondo1.pdf">here</a>.-->
 </li>
 <li>
 <a href="/files/proyecto-grado.pdf" rel="nofollow">Compresión sin pérdida de imágenes
 utilizando códigos óptimos para
 distribuciones geométricas
-bidimensionales</a>, report from my final project for Ingeniero en Computación, 128 pp., 2014. 
+bidimensionales</a>, report from my final project for Ingeniero en Computación, 128 pp., 2014.
 <!--Related presentation <a href="https://www.irif.fr/~dyna3s/uploads/Main/2017_07_Rotondo1.pdf">here</a>.-->
 </li>
 </ul>
@@ -202,10 +203,10 @@ bidimensionales</a>, report from my final project for Ingeniero en Computación,
 
 <h3 id='phd'>PhD thesis</h3>
 
- My thesis was entitled “Probabilistic studies in Number Theory and Word Combinatorics: instances of dynamical analysis”, and encompasses, for example, topics such as the probabilistic study of the recurrence function of Sturmian words and the “Continued Logarithm Algorithm”. I defended my thesis on the 27th september 2018. 
+ My thesis was entitled “Probabilistic studies in Number Theory and Word Combinatorics: instances of dynamical analysis”, and encompasses, for example, topics such as the probabilistic study of the recurrence function of Sturmian words and the “Continued Logarithm Algorithm”. I defended my thesis on the 27th september 2018.
 
-<p> 
-The slides from the defence are available <a href="https://www.irif.fr/_media/users/rotondo/slides_defence.pdf">here</a>, while the manuscript is available <a href="https://www.irif.fr/_media/users/rotondo/these-rotondo.pdf" rel="nofollow">here</a>. 
+<p>
+The slides from the defence are available <a href="https://www.irif.fr/_media/users/rotondo/slides_defence.pdf">here</a>, while the manuscript is available <a href="https://www.irif.fr/_media/users/rotondo/these-rotondo.pdf" rel="nofollow">here</a>.
 
 
 
