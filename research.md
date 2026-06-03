@@ -28,9 +28,9 @@ permalink: /research/
 </div>
 
 <!--<p></p>-->
-<!--<center>-->
-<!--<img src="/assets/outname-1.png">-->
-<!--</center>-->
+<center>
+<img src="/assets/surjections.png">
+</center>
 
 <h4>Contents</h4>
 <nav class="navigation">
