@@ -45,6 +45,8 @@ permalink: /research/
 <h3 id='articles'>Articles</h3>
 
 <ol reversed>
+<li> <a href="https://doi.org/10.1016/j.ipl.2026.106665">On the average complexity of Timsort with the minrun heuristic</a>, with Nathan Amani Collet, and <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril
+Nicaud</a>. Information Processing Letters, August 2026. </li>
 <li> <a href="https://hal.science/hal-05211135">Heuristic universality detection
 over regular expressions specified by systems</a>, with <a href="http://igm.univ-mlv.fr/~pivoteau/">Carine Pivoteau</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a>. Accepted for the conference <a href="https://cida.uos.ac.kr/dlt2025/">DLT 2025</a>. </li>
 <li>  <a href="https://doi.org/10.1016/j.tcs.2025.115264">Mathematical Models to Analyze Lua Hybrid Tables</a>  with  <a href="https://www.cs.upc.edu/~conrado/">Conrado Martínez</a> and <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril
