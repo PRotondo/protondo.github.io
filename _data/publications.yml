@@ -1,0 +1,18 @@
+featured:
+  - title: "Heuristic universality in automatic sequences"
+    year: 2025
+    venue: "DLT'25"
+    type: "journal"
+    summary: "We study universality properties of heuristic approaches to automatic sequences..."
+    links:
+      pdf: "/docs/heuristic_universality.pdf"
+      slides: "/docs/heuristic_universality_slides.pdf"
+
+others:
+  - title: "Mathematical models of concurrency"
+    year: 2024
+    venue: "Theoretical CS"
+    type: "journal"
+    summary: "An in-depth analysis of concurrent systems using probabilistic methods..."
+    links:
+      pdf: "/docs/concurrency_models.pdf"
