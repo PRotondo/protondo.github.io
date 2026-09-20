@@ -44,7 +44,7 @@ permalink: /
 
 <h4>News</h4>
 <ul>
-<li>My notes and exercises for the first four lectures of the MPRI course on AOFA can be found <a href="/algo-mpri-25/">here</a>.</li>
+<li>My notes and exercises for the first four lectures of the MPRI course on AOFA 2026 can be found <a href="/algo-mpri-26/">here</a>.</li>
 <li><b>ANR Project <a href="https://plasma.greyc.fr/">Plasma 2026-2029</a> approved !</b> </li>
 <li><b>International project <a href="/stic-amsud-epaa/">EPAA 2024-2025</a> meeting in Champs-Sur-Marne October 2025 !</b>  Website <a href="/stic-amsud-epaa/final-meeting/">here</a></li>
 <li>Instructor for the 38th Escuela de Ciencias Informáticas <a href="https://eci.dc.uba.ar/">ECI 2025</a> in Buenos Aires, Argentina. Course material <a href="/eci-25/">here</a></li>
