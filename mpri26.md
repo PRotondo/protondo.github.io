@@ -22,4 +22,18 @@ List of files available for download:
 </ul>
 
 
-Previous yers: <a href="/algo-mpri-25/">2025</a>
+Previous years: <a href="/algo-mpri-25/">2025</a>
+
+
+Online resources: 
+<ul>
+<li>
+<a href="https://algo.inria.fr/flajolet/Publications/book.pdf">Analytic Combinatorics</a> by P. Flajolet and R. Sedgewick.
+</li>
+<li>
+<a href="https://www2.math.upenn.edu/~wilf/gfology2.pdf">Generatingfunctionology</a> by H. Wilf.
+</li>
+<li>
+<a href="https://arxiv.org/pdf/2305.17576">Lagrange Inversion Formula by Induction</a> by E Surya and L Warnke.
+</li>
+</ul>
