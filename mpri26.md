@@ -37,3 +37,8 @@ Online resources:
 <a href="https://arxiv.org/pdf/2305.17576">Lagrange Inversion Formula by Induction</a> by E Surya and L Warnke.
 </li>
 </ul>
+
+<b>
+<center>
+<img src="{{ '/assets/mpri.jpg' | relative_url }}" style="max-width: 80%; width: auto; height: auto;">
+</center>
