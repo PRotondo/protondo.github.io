@@ -54,14 +54,14 @@ plainwhite:
 #  show_excerpts: true
   portfolio_image: "assets/photo-beaubourg.jpg" #"assets/portfolio.png"   "assets/photo.png"
   navigation:
-#    - title: Home
-#      url: ""
     - title: Research
       url: "/research"
     - title: Teaching
       url: "/teaching"
 #    - title: Algo 2023
 #      url: "/algo-cnrs-23"
+    - title: Algo MPRI
+      url: "/algo-mpri-26"
     - title: AmSud EPAA
       url: "/stic-amsud-epaa"
 #  social_links:
