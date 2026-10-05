@@ -95,10 +95,10 @@ Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> 
 
 
 <ul>
-<li> Fine-Grained Analysis of SIMD-Based Hash Table Implementations with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril
+<li> <em>Fine-Grained Analysis of SIMD-Based Hash Table Implementations</em> with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril
 Nicaud</a>. Preprint <a href="https://arxiv.org/abs/2610.02385"> arXiv:2610.02385</a></li>
-<li>  Efficient Uniform Sampling of Surjections via their Profiles with <a href="http://www-igm.univ-mlv.fr/~carayol/">Arnaud Carayol</a>. Preprint<a href="https://arxiv.org/abs/2605.24068"> arXiv:2605.24068</a> </li>
-<li>   Shannon Weights for binary dynamical recurrent sources of zero entropy   with Ali Akhavi, <a href="https://sites.google.com/site/edacesaratto/">Eda Cesaratto</a>, <a href="https://www.lamfa.u-picardie.fr/paccaut/">Frédéric Paccaut</a>, and <a href="https://vallee.users.greyc.fr/">Brigitte Vallée</a>. Preprint <a href="https://arxiv.org/abs/2504.03538" class="urlextern" title="https://arxiv.org/abs/2504.03538" rel="nofollow">arXiv:2208.13602</a>
+<li> <em>Efficient Uniform Sampling of Surjections via their Profiles</em> with <a href="http://www-igm.univ-mlv.fr/~carayol/">Arnaud Carayol</a>. Preprint<a href="https://arxiv.org/abs/2605.24068"> arXiv:2605.24068</a> </li>
+<li> <em>Shannon Weights for binary dynamical recurrent sources of zero entropy</em>   with Ali Akhavi, <a href="https://sites.google.com/site/edacesaratto/">Eda Cesaratto</a>, <a href="https://www.lamfa.u-picardie.fr/paccaut/">Frédéric Paccaut</a>, and <a href="https://vallee.users.greyc.fr/">Brigitte Vallée</a>. Preprint <a href="https://arxiv.org/abs/2504.03538" class="urlextern" title="https://arxiv.org/abs/2504.03538" rel="nofollow">arXiv:2208.13602</a>
 </li>
 <!--<li> Heuristic detection of universal subtrees in random regular expressions, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Long version.
 </li>-->
