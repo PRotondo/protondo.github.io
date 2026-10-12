@@ -156,8 +156,8 @@ Nicaud</a>. Preprint <a href="https://arxiv.org/abs/2610.02385"> arXiv:2610.0238
 <!--</li>-->
 <li> <a href="/files/Pres_STACS_21.pdf">Absorbing patterns in BST-like expression-trees</a>, STACS 2021, Online, March 2021. Video available <a href="https://www.youtube.com/watch?v=KRpaCEnCMvE">here</a>.
 </li>
-<li> <a href="/files/PresSTIC_AmSud20.pdf" rel="nofollow">Change of basis towards sources of zero entropy</a>, Meeting of the project STIC-AmSud Rapa2, Online, 11 December 2020.
-</li>
+<!--<li> <a href="/files/PresSTIC_AmSud20.pdf" rel="nofollow">Change of basis towards sources of zero entropy</a>, Meeting of the project STIC-AmSud Rapa2, Online, 11 December 2020.-->
+<!--</li>-->
 <li> <a href="/files/Pres_MFCS_2019.pdf">Uniform random expressions lack expressivity</a>, MFCS 2019, Aachen, Germany, August 28, 2019.
 </li>
 <!--<li> <a href="/files/Pres_Normastic_2019.pdf">Recurrence of substitutive Sturmian words</a>, Journees Normastic (axe AlgoComb), Univ. Caen, France, May 28, 2019. <em>Here I present the completed work for the quadratic irrational case (unpublished for the moment).</em>-->
