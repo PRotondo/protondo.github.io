@@ -48,7 +48,7 @@ permalink: /research/
 <li> <a href="https://doi.org/10.1016/j.ipl.2026.106665">On the average complexity of Timsort with the minrun heuristic</a>, with Nathan Amani Collet, and <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril
 Nicaud</a>. Information Processing Letters, August 2026. </li>
 <li> <a href="https://hal.science/hal-05211135">Heuristic universality detection
-over regular expressions specified by systems</a>, with <a href="http://igm.univ-mlv.fr/~pivoteau/">Carine Pivoteau</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a>. Accepted for the conference <a href="https://cida.uos.ac.kr/dlt2025/">DLT 2025</a>. </li>
+over regular expressions specified by systems</a>, with <a href="http://igm.univ-mlv.fr/~pivoteau/">Carine Pivoteau</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a>. Proceedings of the conference <a href="https://cida.uos.ac.kr/dlt2025/">DLT 2025</a>. </li>
 <li>  <a href="https://doi.org/10.1016/j.tcs.2025.115264">Mathematical Models to Analyze Lua Hybrid Tables</a>  with  <a href="https://www.cs.upc.edu/~conrado/">Conrado Martínez</a> and <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril
 Nicaud</a>. Published in the Journal Theoretical Computer Science, Volume 1044, 1 August 2025.  Preprint <a href="https://arxiv.org/abs/2208.13602" class="urlextern" title="https://arxiv.org/abs/2208.13602" rel="nofollow">arXiv:2208.13602</a>
 </li>
@@ -65,7 +65,7 @@ Nicaud</a> and <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> 
     </li>
 
 <li>     <a href="https://www.worldscientific.com/doi/abs/10.1142/S012905412141001X">Random Regular Expression Over Huge Alphabets</a>, with <a href="http://www-igm.univ-mlv.fr/~nicaud/">Cyril
-Nicaud</a>. International Journal of Foundations of Computer Science, 2021.
+Nicaud</a>. International Journal of Foundations of Computer Science, 2021. Hal: <a href="https://hal.science/hal-04484425">hal-04484425</a>
     </li>
 <li> <a href="http://dx.doi.org/10.1007/978-3-030-79416-3_12">Analysis of an efficient reduction algorithm for random regular expressions based on universality detection</a>, with <a href="http://igm.univ-mlv.fr/~koechlin/">Florent Koechlin</a> . Published in the Proceedings of the 16th International Computer Science Symposium, CSR 2021.
     </li>
