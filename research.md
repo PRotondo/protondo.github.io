@@ -147,7 +147,7 @@ Nicaud</a>. Preprint <a href="https://arxiv.org/abs/2610.02385"> arXiv:2610.0238
 <h3 id='slides'>Slides</h3>
 
 <ul >
-<li> <a href="https://plasma.greyc.fr/resources/simd_pablo_presentation.pdf">SIMD instructions in Hashtables</a>, Séminaire LIGM, 27 January, 2026.</li>
+<li> <a href="https://anr-plasma-9f9015.pages.unicaen.fr/resources/simd_pablo_presentation.pdf">SIMD instructions in Hashtables</a>, Séminaire LIGM, 27 January, 2026.</li>
 <li> <a href="/files/Res_ROUEN_25.pdf">Semantic reductions in random expression trees</a>, Journée mathématiques informatique, Rouen, 12 December, 2025.</li>
 <li> <a href="/files/slides-epa/pres-epa-lochs.pdf">Change of basis in Numeration Systems</a>, Meeting STIC-AmSud,EPAA, Buenos Aires, 23 October, 2024.</li>
 <li> <a href="/files/lua-ligm-23.pdf">A Probabilistic Model Revealing Shortcomings in Lua’s Hybrid Tables</a>, Séminaire LIGM, 4 April, 2023.</li>
