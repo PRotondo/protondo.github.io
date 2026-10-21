@@ -38,7 +38,8 @@ permalink: /
 
 
 <center>
-<img src="/assets/outname-1.png">
+<!--<img src="/assets/outname-1.png">-->
+<img src="/assets/bst.svg"  style="width: 80%; height: auto;">
 </center>
 
 
